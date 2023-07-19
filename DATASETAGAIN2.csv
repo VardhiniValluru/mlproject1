@@ -1,0 +1,1457 @@
+Customer id,Name,Age,Male,Annual Income(k$),Spending Score(1-100),Time,Quantity,item1,item2,item3,item4,item5,item6,item7,item8,item9,item10
+489439,Chandu Tamire,23,1,49,70,8:57 AM,10,Milk, Butter, Deodrant, Colgate toothpaste, Colgate toothbrush, Hair Conditioner, shampoo, Hair oil, Tata salt, Sugar
+489440,Rahul siddarth ,16,1,0,45,3:09 PM,7,Deodrant, Hair serum, Colgate toothpaste, Colgate toothbrush, Hair Conditioner, Eggs, Britannia cakes,,,
+489441,laskshita,24,0,75,62,10:25 AM,10,cheese,Eggs,Milk,Onion,Surfexel liquid,Horlicks,beef,spread cheese,margarine,shopping bags
+489442,Priyusha,51,0,80,55,10:00 AM,10,Milk, Bread, Fruit jam, Rice, shampoo, Hair oil, Tata salt, Onion, Tomato, Eggs
+489443,Tharun,21,1,15,12,2:46 PM,2,Bread, Fruit jam,,,,,,,,
+489444,Sai kiran ,20,1,0,35,9:58 AM,3,Butter, Pepper, Paneer,,,,,,,
+489445,naseeba,45,0,81,44,8:34 PM,7,bottled beer,chocolate,Peas,pastry,sausage,beef,hamburger meat,,,
+489446,ramesh yadav,39,1,32,68,11:34 AM,10,Banana,Ragi flour,beef,dessert,spread cheese,brown bread,Yogurt,Mushroom, Colgate toothpaste, Rice
+489447,Rahul V,24,1,36,27,12:30 PM,5,Deodrant, Shaving foam, Hair Gel, shampoo, Britannia cakes,,,,,
+489448,Hayley,21,0,19,24,23:08,4,Ghee, Wheat flour, Rice, Tata salt,,,,,,
+489449,Kumar ,20,1,0,49,9:06 PM,7,beef, Wheat flour, Shaving foam, Colgate toothpaste, Tomato, Tissue papers, Eggs,,,
+489450,D Harshith,19,1,0,54,11:26 PM,6,Milk, Bread, Wheat flour, Britannia GoodDay cashew biscuits, Britannia MarieGold biscuit, Britannia cakes,,,,
+489459,Nagender,36,1,36,43,10:46 AM,7,Bread, Fruit jam, Butter, Cheese, Wheat flour, Onion, Eggs,,,
+489460,Krishna,17,1,0,87,14:06,10,Milk, Bread, Butter, Cheese, Deodrant, Hair oil, Sugar, Pepper, Onion, Tomato
+489461,Keerthi,21,0,8,54,1:18 PM,9,Bread, Wheat flour, Deodrant, Hair serum, Onion, Tomato, Potato, Britannia MarieGold biscuit, Britannia cakes,
+489462,ETUKURI ROHITH VARMA ,21,1,18,51,9:12 AM,7,Milk, Fruit jam, Rice, Colgate toothpaste, Lux soap, Eggs, Britannia GoodDay cashew biscuits,,,
+489463,Vishnu priya,35,0,38,41,10:10 AM,6,Milk, Fruit jam, Butter, Cheese, Onion, Eggs,,,,
+489464,Pavan,21,1,14,58,5:00 PM,9,Milk, Bread, Fruit jam, Butter, shampoo, Potato, Eggs, Britannia MarieGold biscuit, Britannia cakes,
+489465,Aakash,26,1,57,32,9:34 AM,6,Milk, Bread, Fruit jam, Butter, Potato, Britannia cakes,,,,
+489467,Ram gopal,38,1,43,39,1:35 PM,5,Ghee, Wheat flour, Onion, Brinjal, Tomato,,,,,
+489476,Ishwar,35,1,49,53,12:16 PM,6,Milk, Bread, Cheese, Brinjal, Tomato, Britannia MarieGold biscuit,,,,
+489488,Innu,20,1,0,66,2:34 PM,8,Fruit jam, Butter, Cheese, Ghee, Wheat flour, Rice, Tomato, Potato,,
+489503,Doddi Charmini,18,0,0,72,6:30 PM,10,Milk, Bread, Fruit jam, Rice, Hair serum, Hair Conditioner, shampoo, Hair oil, Paneer, Britannia GoodDay cashew biscuits
+489504,Nagesh,19,1,0,24,10:45,3,Milk, Bread, Fruit jam,,,,,,,
+489505,Nandhini,19,0,0,26,2:38 PM,5,Fruit jam, Hair Conditioner, shampoo, Hair oil, Britannia GoodDay cashew biscuits,,,,,
+489514,Tejaswini ,19,0,0,64,9:08 PM,8,pastry, Fruit jam, Wheat flour, shampoo, Tata salt, Paneer, Britannia GoodDay cashew biscuits, Britannia cakes,,
+489517,Ishwarya,28,0,52,51,10:23 AM,7,Bread, Fruit jam, Sugar, Onion, Tomato, Potato, Tissue papers,,,
+489518,Siddarth ,30,1,19,50,10:30 AM,9,Milk, Bread, Wheat flour, Rice, Shaving foam, Sugar, Brinjal, Tomato, Eggs,
+489519,Kumar,18,1,0,32,2:45 PM,3,Milk, Bread, Fruit jam,,,,,,,
+489520,Harry ,45,1,79,56,5:30 PM,6,Wheat flour, Tata salt, Onion, Brinjal, Tomato, Potato,,,,
+489521,saksham,32,1,65,44,9:10 AM,8, Bread,pastry,cream cheese, Onion, Eggs, shampoo, Britannia GoodDay cashew biscuits, Britannia cakes,,
+489522,Surya,22,1,28,70,10:00 AM,10,Bread, Cheese, Ghee, Rice, Deodrant, Shaving foam, Hair Gel, Colgate toothpaste, Colgate toothbrush, Hair Conditioner
+489523,Sindhu,20,0,0,53,9:46 AM,7,Ghee, Rice, shampoo, Tata salt, Sugar, Pepper, Potato,,,
+489524,sai,19,0,0,66,8:30 PM,10,Bread, Fruit jam, Butter, Cheese, Ghee, shampoo, Tata salt, Sugar, Pepper, Onion
+489525,Sruthi k,23,0,49,27,10:15 AM,4,Rice, Onion, Brinjal, Tomato,,,,,,
+489526,Racheal Green,25,0,30,27,9:34 PM,5,Deodrant, Hair serum, Hair Conditioner, shampoo, Britannia cakes,,,,,
+489527,paramshela,35,0,21,65,10:34 AM,8,Slice drink,chicken,Eggs,Peanut butter,Vinegar,Chelate shake,waffles,candy,,
+489528,Chandra N,32,1,68,35,9:24 AM,6,Ghee, Wheat flour, Tata salt, Sugar, Pepper, Onion,,,,
+489529,Deepthi,29,0,43,45,12:10 PM,7,Ghee, Rice, Tata salt, Pepper, Tomato, Eggs, Paneer,,,
+489530,Mallesh,30,1,8,38,10:36 AM,5,Milk, Bread, Fruit jam, Eggs, Paneer,,,,,
+489531,Amala,32,0,41,45,12:56 PM,5,Rice, Pepper, Onion, Tomato, Paneer,,,,,
+489532,Gokul Ashwin,13,1,0,30,4:34 PM,3,Asafoetida,specialty bar,frankfurter,,,,,,,
+489533,Vignesh,24,1,72,48,10:29 AM,7,Milk, Bread, Butter, Onion, Eggs,waffles,Maggi noodles,,,
+489534,Navya,20,0,0,60,11:01 AM,10,Milk, Bread, Ghee, Wheat flour, Rice, Hair serum, Hair oil, Sugar, Onion, Potato
+489535,Sruthi,20,0,0,70,5:01 PM,10,Bread, Fruit jam, Deodrant, Colgate toothbrush, shampoo, Hair oil, Paneer, Tissue papers, Britannia GoodDay cashew biscuits, Britannia MarieGold biscuit
+489536,Sanjay ,21,1,11,71,9:37 PM,9,Milk, Bread, Butter, Rice, Shaving foam, Colgate toothbrush, Hair Conditioner, Pepper, Potato,
+489537,R Bharath vamsi ,18,1,0,60,9:06 AM,8,Milk, Bread, Fruit jam, Colgate toothpaste, Colgate toothbrush, shampoo, Britannia GoodDay cashew biscuits, Britannia cakes,,
+489538,Vishlesh,47,1,80,51,9:39 AM,6,Tata salt, Pepper, Onion, Brinjal, Tomato,waffles,,,,
+489539,Lohitha,28,0,72,37,10:19 AM,5,Deodrant, Hair Conditioner, shampoo, Hair oil,kit kat,,,,,
+489540,Guna Manvith,30,1,17,67,2:01 PM,10,frankfurter,soya sauce,Vinegar,sausage,beef,hamburger meat,kinder joy,coco cola,Marshmellos,Ice cream
+489541,Abhinaya ,20,0,0,79,8:56 AM,10,Milk, Wheat flour, Rice, Colgate toothpaste, Lux soap, Hair Conditioner, shampoo, Tata salt, Sugar, Pepper
+489542,Mouli,19,1,0,27,9:55 AM,5,Bread, Fruit jam, Britannia GoodDay cashew biscuits, Britannia MarieGold biscuit, Britannia cakes,,,,,
+489543,Uncle Roger ,53,1,75,51,11:45 PM,6,Wheat flour, Tata salt, Pepper, Onion, Eggs,candy,,,,
+489544,Piyush,23,1,74,35,12:56 PM,4,Bread, Fruit jam, Britannia GoodDay cashew biscuits, Britannia MarieGold biscuit,,,,,,
+489545,Siddu,21,1,22,29,2:33 PM,5,Rice, Lux soap, Hair Conditioner, shampoo, Hair oil,,,,,
+489546,Siddarth,22,1,23,30,10:02 AM,5,Milk, Bread, Fruit jam, Britannia MarieGold biscuit, Britannia cakes,,,,,
+489547,Diana Catherene,36,0,39,53,5:30 PM,8,Wheat flour, Rice,brown rice,Curd, Ghee, Paneer,Spinach,Marshmellos,,
+489548,Gokul R,27,1,28,52,10:53 AM,8,Deodrant, Shaving foam, Hair serum, Colgate toothpaste, Colgate toothbrush, Hair Conditioner, shampoo, Hair oil,,
+489549,Gowri nalamamidi,18,0,0,74,9:14 AM,10,Bread, Butter, Cheese, Rice, Colgate toothpaste, Colgate toothbrush, Hair Conditioner, shampoo, Tissue papers, Tata salt
+489550,Theeparthi Satya Rajeswari,18,0,0,79,9:12 PM,10,Milk, Bread, Fruit jam, Wheat flour, Rice, Colgate toothpaste, Colgate toothbrush, Tata salt, Sugar, Onion
+489551,Pavan,17,1,0,34,2:32 PM,3,Bread,kit kat,Maggi noodles,,,,,,,
+489552,Prabhas N,45,1,57,33,10:10 AM,5,Milk, Bread, Onion, Tomato, Eggs,,,,,
+489553,Kavya D,23,0,13,23,1:20 PM,4,Bread, Fruit jam, Lux soap, shampoo,,,,,,
+489554,Himanshu,44,1,74,74,8:54 AM,8,Vinegar,soya sauce,Peas,Chilly powder,ID Idli Dosa batter,Eggs,Chelate shake,Slice drink,,
+489555,Swetha,25,0,40,42,10:54 AM,6,Bread, Fruit jam, Butter, Hair serum, Colgate toothpaste, Lux soap,,,,
+489556,Krishna N,25,1,53,27,10:43 AM,5,Milk, Bread, Onion, Tissue papers, Glue,,,,,
+489557,Rushitha,34,0,56,52,1:35 PM,8,Rice, Hair oil, Tata salt, Pepper, Onion, Brinjal, Tissue papers,candy,,
+489558,Avinash,28,1,43,42,9:48 AM,6,Ghee, Wheat flour, Tata salt, Eggs, Britannia GoodDay cashew biscuits,Maggi noodles,,,,
+489559,Lakshith,32,1,56,43,1:10 PM,6,Cheese, Wheat flour, Shaving foam, Tata salt, Sugar, Pepper,,,,
+489560,Dasari Ganesh ,21,1,15,55,6:34 PM,8,Onion,kit kat, Rice, Colgate toothbrush, Lux soap, Hair Conditioner, shampoo, Hair oil,,
+489561,Pranavi G,22,0,17,37,9:30 AM,6,Hair serum, Hair Conditioner, shampoo, Hair oil, Britannia MarieGold biscuit, Britannia cakes,,,,
+489562,Devika L,29,0,39,43,10:46 AM,8,Ghee, Rice, shampoo, Hair oil, Tata salt, Pepper, Onion, Tomato,,
+489563,k Srikar,20,1,0,79,13:58,10,Milk, Deodrant, Shaving foam, Colgate toothpaste, Colgate toothbrush, Lux soap, Hair Conditioner, shampoo, Hair oil, Tata salt
+489564,Lokesh A,28,1,41,38,9:35 AM,5,Rice, Tata salt, Eggs, Paneer,Mushroom,,,,,
+489565,Ben stone,46,1,47,60,10:28 AM,6,Tata salt, Pepper, Onion, Tomato, Potato, Eggs,,,,
+489566,Calamandar ,10,1,0,28,3:45 PM,5,Bread, Fruit jam, Cheese, Ghee,Mushroom,,,,,
+489567,James C,34,1,45,33,9:38 AM,5,Pepper, Onion, Tomato, Eggs, Paneer,,,,,
+489568,Goutham,27,1,57,41,10:36 AM,7,Deodrant, Shaving foam, Hair Gel, Hair Conditioner, shampoo, Hair oil, Tissue papers,,,
+489569,Grace stone,56,0,63,57,8:28 PM,6,Tata salt, Sugar, Pepper, Onion, Brinjal, Paneer,,,,
+489570,Ithihas L,29,1,40,39,9:46 AM,5,Bread, Fruit jam, Butter, Britannia MarieGold biscuit, Britannia cakes,,,,,
+489571,Rhysand,18,1,0,46,10:45 PM,7,Bread, Fruit jam, Cheese, Deodrant, Hair Gel, Glue, Britannia MarieGold biscuit,,,
+489572,Pemmasani sowjanya,20,0,0,65,3:26 PM,9,Milk, Fruit jam, Deodrant, Colgate toothpaste, Colgate toothbrush, shampoo, Hair oil, Paneer, Tissue papers,
+489573,Bhargavi,19,0,0,45,18:08,7,Milk, Bread, Fruit jam, Butter, Cheese, Ghee, Wheat flour,,,
+489574,Murali K,39,1,32,51,10:10 AM,7,Wheat flour, Tata salt, Pepper, Paneer, Britannia GoodDay cashew biscuits, Britannia MarieGold biscuit, Britannia cakes,,,
+489575,Anand,35,1,22,50,12:15 PM,7,Milk, Bread, Tata salt, Brinjal, Tomato, Eggs, Tissue papers,,,
+489576,Katherine,23,0,72,65,6:55 PM,8,Hair Gel, Hair serum, Hair Conditioner, shampoo, Hair oil, Britannia GoodDay cashew biscuits, Britannia MarieGold biscuit, Britannia cakes,,
+489577,Vivek,24,1,44,28,9:30 AM,5,Milk, Bread, Fruit jam, Butter, Eggs,,,,,
+489578,Kailash,29,1,17,49,9:46 AM,6,Rice, Tata salt, Onion, Tomato, Paneer, Britannia cakes,,,,
+489579,Vivek,20,1,0,21,2:44 PM,3,Bread,Mushroom,Maggi noodles,,,,,,,
+489580,Jayjith Jeevan,21,1,16,47,5:20 PM,7,Ghee, Wheat flour, Tata salt, Pepper, Onion, Tomato, Paneer,,,
+489581,P Rohith prathyush ,20,1,0,74,9:05 PM,9,Butter, Cheese, Deodrant, Hair serum, Hair Conditioner, Eggs, Paneer, Tissue papers, Glue,
+489582,Rahul I,20,1,0,22,9:36 AM,4,Britannia GoodDay cashew biscuits, Britannia MarieGold biscuit, Britannia cakes,Maggi noodles,,,,,,
+489583,Surya,21,1,9,98,10:31 AM,10,Bread, Fruit jam, Rice, Shaving foam, Hair Gel, Colgate toothpaste, Colgate toothbrush, Eggs, Tissue papers, Glue
+489584,Elena Gilbert ,27,0,51,46,4:45 PM,6,Milk, Wheat flour, Rice, Deodrant, Britannia GoodDay cashew biscuits, Britannia MarieGold biscuit,,,,
+489585,Niharika,19,0,0,70,2:11 PM,9,Hair Gel, Hair serum, Colgate toothpaste, shampoo, Hair oil, Sugar, Paneer, Britannia GoodDay cashew biscuits, Britannia MarieGold biscuit,
+489586,Goutham,19,1,0,62,2:33 PM,10,Milk, Bread, Fruit jam, Butter, Cheese, Ghee, Eggs, Paneer, Britannia cakes,shopping bags
+489587,Sreeja,29,0,16,49,9:36 AM,7,Milk, Ghee, Wheat flour, Tata salt, Sugar, Pepper, Onion,,,
+489588,Shashank I,30,1,9,37,9:32 AM,5,Bread, Fruit jam,Toor dal,soya sauce,Urad dal,,,,,
+489589,lateef,45,1,81,43,7:28 PM,6,Nivea men active clean,cinnamon,rawa,Water bottle, Britannia GoodDay cashew biscuits,,pastry,,,
+489590,Abhijeet,26,1,30,51,12:13 PM,7,Ghee, Wheat flour, Rice, Pepper, Onion, Brinjal, Tomato,,,
+489591,Lakshmi K,24,0,56,24,10:20 AM,4,Lux soap, Hair Conditioner, shampoo, Hair oil,,,,,,
+489592,N:Chetana ,20,0,0,72,8:45 AM,10,Milk, Wheat flour, Rice, shampoo, Hair oil, Tata salt, Sugar, Onion, Brinjal, Tomato
+489593,Chandra Sekhar ,25,1,58,21,7:56 PM,4,Hair serum, Hair Conditioner, Hair oil,Maggi noodles,,,,,,
+489594,Jahnavi,19,0,0,65,8:55 AM,10,pickles, Fruit jam, Butter,pastry, Deodrant, Britannia cakes, Colgate toothpaste, Colgate toothbrush, Lux soap, Hair Conditioner
+489595,Basha K,45,1,79,37,1:30 PM,5,Butter, Wheat flour, Tata salt, Pepper, Onion,,,,,
+489596,Chintu,18,1,0,31,2:48 PM,3,Colgate toothpaste, Colgate toothbrush,Maggi noodles,,,,,,,
+489597,Laila,16,0,0,33,1:20 PM,4,Glue, Britannia GoodDay cashew biscuits, Britannia MarieGold biscuit, Britannia cakes,,,,,,
+489598,Parvati,50,0,84,30,5:10 PM,4,Wheat flour, Tata salt, Sugar, Onion,,,,,,
+489599,Kaustub S,24,1,19,32,10:20 AM,3,Wheat flour, Potato, Eggs,,,,,,,
+489600,Bade keerthi ,19,0,0,43,8:37 AM,8,Rice, Hair serum, Sugar, Onion, Brinjal, Tomato, Eggs, Britannia GoodDay cashew biscuits,,
+489601,Samreen,28,0,65,67,11:35 AM,8,Lip balm, Bread,Peanut butter,Ice cream,Marshmellos,waffles,candy,Maggi noodles,,
+489602,Rohith,23,1,9,33,10:23 AM,6,Rice, Hair oil, Potato, Eggs, Paneer,Maggi noodles,,,,
+489603,Rahul singhalia,36,1,30,69,10:26 PM,9, shampoo, Britannia cakes,beef,citrus fruit,Mushroom,Marshmellos,sausage,candy,hamburger meat,
+489604,Kameswari,39,0,34,30,1:30 PM,6,Wheat flour, Rice, Tata salt, Sugar, Pepper, Onion,,,,
+489605,Ayan sinha,40,1,55,66,9:43 AM,7,pastry,bottled water,oil,pork,Chilly powder,Asafoetida,specialty bar,,,
+489606,Srikanth,25,1,11,40,10:21 AM,6,Milk, Ghee, Wheat flour, Tata salt, Sugar, Paneer,,,,
+489607,Kalyan,21,1,9,50,9:54 AM,10,Milk, Bread, Fruit jam,Chilly powder, Deodrant, Hair serum, Hair Conditioner, shampoo, Hair oil, Eggs
+489608,Sri Lakshmi,28,0,51,31,11:52 AM,5,Rice, Sugar, Pepper, Onion,Maggi noodles,,,,,
+489609,Ramesh K,32,1,74,35,9:36 AM,3,Colgate toothpaste, Colgate toothbrush, Tissue papers,,,,,,,
+489610,Liam paynushkar,40,1,36,33,7:25 PM,5,Bread, Fruit jam, Butter, Wheat flour, Eggs,,,,,
+489611,VISHNU,24,1,17,25,10:00 AM,5,Ghee, Wheat flour, Sugar, Pepper, Onion,,,,,
+489612,Viswanathan,25,1,62,21,9:30 AM,4,Tomato, Potato, Eggs,Maggi noodles,,,,,,
+489613,Varshini v,31,0,74,42,10:16 AM,5,Wheat flour, Rice, Sugar, Pepper, Onion,,,,,
+489614,Manasa,21,0,41,71,9:31 PM,9,Bread, Fruit jam, Butter, Cheese, shampoo, Eggs, Britannia GoodDay cashew biscuits, Britannia MarieGold biscuit, Britannia cakes,
+489615,Supriya ,19,0,0,33,9:04 PM,6,Britannia cakes, Deodrant, Potato, Tomato,kit kat,Max protein bar,,,,
+489616,Durga prasad,20,1,0,26,6:00 PM,4,Britannia GoodDay cashew biscuits, Rice,Mushroom,Maggi noodles,,,,,,
+489617,Rajeswari,39,0,50,47,10:20 AM,6,Rice, Tata salt, Onion, Brinjal, Tomato, Eggs,,,,
+489618,Ayushi,20,0,0,61,1:34 PM,10,Milk, Bread, Fruit jam, Butter, Cheese, Rice, Deodrant, Hair serum, Lux soap, Hair Conditioner
+489619,Shree vishnu,37,1,51,29,1:50 PM,5,Ghee, Rice, Brinjal, Tomato, Potato,,,,,
+489632,Venkateshwarlu,45,1,70,49,11:55 AM,5,Milk, Sugar, Eggs, Paneer, Tissue papers,,,,,
+489634,Vasanthi,15,0,0,26,4:21 PM,5,Fruit jam, Tissue papers, Britannia GoodDay cashew biscuits, Britannia MarieGold biscuit, Britannia cakes,,,,,
+489635,Peter Parker,50,1,90,57,9:50 PM,9,Hair oil, Tata salt, Sugar, Eggs, Paneer, Tissue papers, Britannia GoodDay cashew biscuits, Britannia MarieGold biscuit, Britannia cakes,
+489636,shreshta ,20,0,0,60,9:14 PM,9,Milk, Bread, Wheat flour, Sugar,, Potato, Eggs, Britannia GoodDay cashew biscuits, Britannia MarieGold biscuit, Britannia cakes
+489637,Hema N,34,0,20,39,11:36 AM,6,Ghee, Wheat flour, Rice, Pepper, Onion, Brinjal,,,,
+489638,Sai sree,27,0,33,43,12:52 PM,5,Bread, Fruit jam, Ghee, Onion, Tomato,,,,,
+489639,sakshi,34,0,29,34,10:00 AM,5,oil, Lux soap,Vanilla Essence,pet care,jaggery,,,,,
+489640,Praveen Kumar Ganivada ,21,1,36,45,9:20 PM,8,Lux soap, Hair Conditioner, shampoo, Hair oil, Tata salt, Sugar, Onion,kit kat,,
+489641,Supriya,25,0,6,63,6:40 PM,10,Cheese, Ghee, Wheat flour, Rice, Colgate toothpaste, Colgate toothbrush, Lux soap, Hair Conditioner, shampoo, Hair oil
+489642,Saina Arora,47,0,69,65,10:00 AM,9,Maida,Wheat flour, Rice,ID Idli Dosa batter,Garlic,Baking powder, Sugar,jaggery,kit kat,
+489643,Raghavendra,47,1,62,65,2:27 PM,8,Ragi flour,rawa,Wheat flour,jaggery,Urad dal,tamarind,India gate basmati rice,kit kat,,
+489644,Kalyan,19,1,0,62,15:34 PM,10,Milk, Bread, Ghee, Wheat flour, Rice, Colgate toothpaste, Colgate toothbrush, shampoo, Hair oil, Tata salt
+489645,Shyam Anand S,20,1,0,52,10:10 AM,7,Bread, Butter, Cheese, Onion, Tomato, Eggs, Britannia cakes,,,
+489650,Bhargav,22,1,13,40,10:46 AM,6,Deodrant, Hair Gel, Colgate toothbrush, Hair Conditioner, shampoo, Hair oil,,,,
+489651,Guna R,16,0,0,35,10:17 AM,4,Bread, Butter, Colgate toothpaste, Eggs,,,,,,
+489652,Rich smile ,20,1,0,71,6:11 PM,10,sausage,beef, Fruit jam,hamburger meat, Cheese, Deodrant, Hair serum, shampoo, Hair oil, Eggs
+489653,Venky,22,1,21,17,2:47 PM,1,Milk,,,,,,,,,
+489654,Vyshnavi,28,0,14,33,10:01 AM,6,Milk, Bread, Butter, Onion, Eggs, Paneer,,,,
+489655,Ashwin,20,1,0,48,12:11 PM,6,Deodrant, Hair Conditioner, shampoo, Hair oil, Britannia GoodDay cashew biscuits, Britannia MarieGold biscuit,,,,
+489656,Latha U,28,0,40,40,1:35 PM,5,Colgate toothpaste, Lux soap, Hair Conditioner, shampoo, Hair oil,,,,,
+489657,Priya,19,0,0,52,15:00,6,Ghee, Brinjal, Tomato, Potato, Eggs, Tissue papers,,,,
+489658,Arun,20,1,0,75,9:01 AM,10,Milk, Bread, Wheat flour, Rice, Colgate toothpaste, Hair Conditioner, shampoo, Tata salt, Sugar, Britannia cakes
+489659,Gowtham ,20,1,0,73,9:29 PM,9,Bread, Fruit jam, Deodrant, Colgate toothpaste, Lux soap, shampoo, Hair oil, Eggs, Britannia MarieGold biscuit,
+489660,Radhika N,20,0,0,34,10:21 AM,6,Rice, Pepper, Onion, Brinjal, Potato, Eggs,,,,
+489661,Naina,20,0,0,59,5:59 PM,8,Fruit jam, Butter, Hair serum, Potato, Tissue papers, Glue, Britannia GoodDay cashew biscuits, Britannia cakes,,
+489662,Saanvi bahi,34,0,59,25,8:00 PM,4,Bread, Fruit jam, Butter, Cheese,,,,,,
+489663,Praveen,26,1,64,20,5:12 PM,4,Deodrant, Colgate toothpaste, Colgate toothbrush,Maggi noodles,,,,,,
+489664,Vardhini ,20,0,0,26,9:52 AM,5,Milk, Bread, Butter,beef,hamburger meat,,,,,
+489665,Sathwika,24,0,61,30,10:13 AM,4,Wheat flour, Tata salt, Sugar,Maggi noodles,,,,,,
+489666,Pavithra N,29,0,71,32,10:20 AM,6,Tata salt, Pepper, Onion, Brinjal, Tomato, Britannia cakes,,,,
+489667,Nikhil,18,1,0,46,2:30 PM,6,Milk, Bread, Fruit jam, Wheat flour, Rice, Hair Gel,,,,
+489668,Ana K,23,0,39,30,12:10 PM,6,Butter, Ghee, Wheat flour, Tata salt, Tomato, Paneer,,,,
+489669,Sambhavi N,30,0,26,23,10:55 AM,4,Deodrant, Lux soap, shampoo, Britannia cakes,,,,,,
+489670,Surya,18,1,0,74,7:54 PM,9,Wheat flour, Rice, Deodrant, Colgate toothpaste, shampoo, Hair oil, Eggs, Tissue papers, Britannia cakes,
+489671,Sravathi D,26,0,26,35,9:37 AM,5,Milk, Bread, Butter, Sugar, Eggs,,,,,
+489672,Asish,24,1,37,27,11:04 PM,4,Bread, Butter, Britannia GoodDay cashew biscuits, Britannia cakes,,,,,,
+489673,doctor strange,21,1,42,58,8:00 PM,9,Milk, Bread, Fruit jam, Butter, Pepper, Onion, Eggs, Paneer, Glue,
+489674,Ram,18,1,0,33,9:20 AM,6,Colgate toothpaste, Colgate toothbrush, Hair oil, Sugar, Tissue papers, Britannia cakes,,,,
+489675,INTI SAGAR,20,1,0,59,9:00 PM,9,Fruit jam, Rice, shampoo, Tata salt, Sugar, Eggs, Paneer, Britannia MarieGold biscuit, Britannia cakes,
+489676,Sravanthi Konchada,19,0,0,91,8:57 AM,10,Milk, Fruit jam, Butter, Cheese, Deodrant, Colgate toothbrush, Hair Conditioner, shampoo, Tissue papers, Britannia GoodDay cashew biscuits
+489677,Siri V,45,0,40,60,10:25 AM,7,Ghee, Wheat flour, Rice, Pepper, Onion, Brinjal, Paneer,,,
+489678,Krishna,22,1,31,30,15:30,3,Fruit jam,Peanut butter,Vanilla Essence,,,,,,,
+489679,Sravanthi ,24,0,24,73,2:10 PM,9,Vinegar,apple,Lip balm,Chilly powder,ID Idli Dosa batter,Asafoetida,honey,soda,detergent,
+489680,John,20,1,0,50,10:38 AM,8,Bread, Fruit jam, Butter, Hair serum, Hair Conditioner, Eggs, Britannia GoodDay cashew biscuits, Britannia cakes,,
+489681,Karishma,30,0,14,68,10:34 AM,9,Butter,pasta,oil,detergent,chicken,hamburger meat,citrus fruit,tropical fruit,shopping bags,
+489682,Saray,19,1,0,48,9:50 PM,6,Milk, Bread, Fruit jam, Britannia GoodDay cashew biscuits, Britannia MarieGold biscuit, Britannia cakes,,,,
+489683,D:chandana,20,0,0,68,9:52 AM,9,Bread, Fruit jam, Hair serum, shampoo, Hair oil, Onion, Eggs, Paneer, Britannia cakes,
+489684,Aishwarya,39,0,63,50,9:55 AM,6,Colgate toothpaste, Colgate toothbrush, Lux soap, Hair oil, Tissue papers, Glue,,,,
+489685,MadhaveeLekhya ,19,0,0,30,9:56 AM,5,Milk, shampoo, Eggs, Britannia MarieGold biscuit, Britannia cakes,,,,,
+489686,Nidhi Jain,25,0,60,27,9:36 AM,5,Milk, Ghee, Wheat flour, Eggs, Paneer,,,,,
+489687,Siddarth sri,23,1,48,25,1:30 PM,5,Deodrant, Shaving foam, Hair Gel, shampoo,cream cheese,,,,,
+489688,Zeke Landon ,48,1,40,29,8:28 PM,4,Hair Gel, Hair serum, Hair Conditioner, Hair oil,,,,,,
+489689,Daniel radclineshwar,58,1,70,55,5:20 PM,5,Britannia GoodDay cashew biscuits, Britannia MarieGold biscuit, Britannia cakes,waffles,candy,,,,,
+489695,Kavya,19,0,0,54,12:00 PM,7,Milk, Bread, Cheese, shampoo, Britannia GoodDay cashew biscuits, Britannia MarieGold biscuit, Britannia cakes,,,
+489699,Bharathi K ,24,0,66,53,10:12 AM,8,Milk, Bread, Fruit jam, Cheese, Deodrant, shampoo, Tissue papers, Britannia cakes,,
+489702,Rajini,45,0,75,53,12:56 PM,6,Rice, Hair oil, Sugar, Pepper, Potato, Eggs,,,,
+489705,Ajay L,26,1,27,41,10:36 AM,6,Hair serum, Colgate toothpaste, Colgate toothbrush, shampoo, Hair oil, Tissue papers,,,,
+489713,paramjit,39,1,59,35,6:26 PM,6,pasta,oil,Vinegar,Nescafe sunrise 50 gm pouch,Milk,chocolate,,,,
+489723,Lahari,32,0,71,67,6:12 PM,10,Nescafe sunrise 50 gm pouch,Milk,oil, Pepper, Onion, Tomato,specialty bar, Sugar,jaggery,kit kat
+489725,Vathsalya,20,0,30,18,3:27 PM,1,Eggs,Water bottle, Lux soap, Hair Conditioner, shampoo, Hair oil, Tata salt, Sugar, Pepper, Onion
+489726,Vaishnavi E,23,0,15,27,1:40 PM,5,Milk, Bread, Fruit jam, Eggs, Tissue papers,,,,,
+489727,Venkat sai,25,1,60,43,10:45 AM,5,Deodrant, Shaving foam, Hair Gel, Hair serum, Hair Conditioner,,,,,
+489728,Lisa Warner,45,0,65,57,12:55 PM,7,Tata salt, Sugar, Onion, Brinjal, Tomato, Potato, Glue,,,
+489733,Ahkil,22,1,28,27,12:10 PM,5,Milk, Bread, Fruit jam, Tomato, Eggs,,,,,
+489743,Jennie Dhyanne ,56,0,90,55,2:58 PM,7,Cheese, Ghee, Tata salt, Sugar, Pepper, Onion, Eggs,,,
+489748,Sathwik,23,1,66,35,2:34 PM,6,Wheat flour, Tata salt, Sugar, Onion, Brinjal, Tissue papers,,,,
+489764,Midhuna,21,0,32,23,15:30,4,Milk,cream cheese,Ghee,Maggi noodles,,,,,,
+489765,Giri,45,1,58,45,10:54 AM,6,Ghee, Wheat flour, Deodrant, Hair Gel, Hair serum, Colgate toothbrush,,,,
+489766, Balla amani,18,0,0,59,9:05 AM,9,Milk, Bread, Fruit jam, Ghee,lettuce, Sugar, Tomato, Potato, Eggs,
+489771,Vesthiya,34,0,28,31,9:46 AM,5,Ghee, Wheat flour, Rice, Pepper, Onion,,,,,
+489780,harshith K,19,1,0,51,10:55 AM,6,Milk, Bread, Fruit jam, Britannia GoodDay cashew biscuits, Britannia MarieGold biscuit, Britannia cakes,,,,
+489781,Hemanth ,20,1,0,25,8:58 AM,5,Milk, Eggs,cabbage,spinach,Whisper choice regular,,,,,
+489782,Venkatesh ,21,1,45,98,12:01 PM,10,Milk, Bread, Fruit jam, Cheese, Ghee, Deodrant, Hair Gel, Hair serum, Hair Conditioner, shampoo
+489783,Parveen kaur,32,0,43,32,5:11 PM,6,Rice, Tata salt, Pepper, Brinjal, Tomato,Mushroom,,,,
+489784,Arun Chawla,59,1,50,65,9:25 AM,7,grapes,carrot,Maggi noodles,detergent soaps,Domex floor cleaner,Surfexel liquid,kit kat,,,
+489785,Narayana gupta,43,1,52,44,5:51 PM,6,Ghee, Wheat flour, Rice, Tata salt, Sugar, Pepper,,,,
+489786,Kattula pravallika ,17,0,0,70,9:35 PM,9,Cheese, Hair Conditioner, Hair oil, Sugar, Tissue papers, Glue, Britannia GoodDay cashew biscuits, Britannia MarieGold biscuit, Britannia cakes,
+489787,Mahesh K,16,0,0,51,10:20 AM,6,Milk, Cheese, Britannia GoodDay cashew biscuits, Britannia MarieGold biscuit, Britannia cakes,Mushroom,,,,
+489788,MJ michelle,45,0,87,58,4:55 PM,8,Rice, Sugar, Pepper, Brinjal, Tomato, Potato, Eggs, Paneer,,
+489789,Anusha,40,0,51,58,9:00 AM,10,Milk, Bread, Fruit jam, Rice, Colgate toothpaste, Tata salt, Sugar, Onion, Eggs, Tissue papers
+489790,Ganugula manikanta ,18,1,0,59,9:24 PM,10,Rice, Hair Gel, Colgate toothbrush, Lux soap, shampoo, Tata salt, Onion, Potato, Eggs, Britannia cakes
+489791,Nikhileswar,19,1,0,65,10:10 PM,10,Bread, Fruit jam, Cheese, Ghee, Deodrant, Shaving foam, Hair Gel, Hair serum, Colgate toothpaste, Colgate toothbrush
+489792,Dinesh L,28,1,18,43,10:15 AM,7,Rice, Tata salt, Sugar, Pepper, Onion, Brinjal,Mushroom,,,
+489793,pardeep,39,1,51,98,9:02 PM,10,beverages,soft cheese,frozen vegetables,spinach,garlic,cream cheese,semi-finished bread,zwieback,cake bar,specialty bar
+489794,Vikas Jay,33,1,57,85,10:45 AM,10,Lion dates dates,Himalaya purifying neem pack,Everyuth face scrub,Lip balm,Nivea fairness cream,Nescafe sunrise 50 gm pouch,Milk, Hair serum, Hair Conditioner,Eggs
+489795,Kapilesh K,45,1,85,44,9:56 AM,7,Milk, Wheat flour, Rice, Tata salt, Sugar, Pepper, Onion,,,
+489796,Likith,28,1,62,42,9:46 AM,7,Ghee, Wheat flour, Rice, Tata salt, Pepper, Onion, Brinjal,,,
+489797,Tagore ,19,1,0,88,9:16 PM,10,Milk, Bread, Fruit jam, Butter, Cheese, Ghee, Deodrant, Shaving foam, Hair Gel, Hair serum
+489798,Harsha R,25,1,49,49,11:46 AM,8,Ghee, Wheat flour, Colgate toothbrush, Tata salt, Sugar, Onion, Brinjal, Eggs,,
+489799,Kavya T,25,0,17,49,11:55 AM,7,Butter, Cheese, Wheat flour, Tata salt, Sugar, Pepper, Onion,,,
+489800,lata,57,0,46,53,5:26 PM,8,Lux soap,lettuce,brown rice,apple,Banana,Ragi flour,Urad dal,Asafoetida,,
+489801,Caroline Forbes ,57,0,76,66,10:09 AM,7,Milk, Colgate toothpaste, Colgate toothbrush, Tata salt, Sugar, Britannia GoodDay cashew biscuits, Britannia MarieGold biscuit,,,
+489802,Kashvi,18,0,0,28,10:30 AM,5,Tissue papers, Britannia GoodDay cashew biscuits, Britannia MarieGold biscuit, Britannia cakes,Mushroom,,,,,
+489803,Albin,30,1,15,50,10:52 AM,5,Tissue papers, Glue, Britannia GoodDay cashew biscuits, Britannia MarieGold biscuit, Britannia cakes,,,,,
+489804,Varun ,20,1,0,75,10:15 PM,9,Milk, Bread, Fruit jam, Sugar, Onion, Paneer, Britannia GoodDay cashew biscuits, Britannia MarieGold biscuit, Britannia cakes,
+489805,Angelina,65,0,40,52,2:44 PM,7,Eggs, Britannia GoodDay cashew biscuits,,beef,dessert,spread cheese,brown bread,berries,,
+489806,Vardhvi,65,0,72,64,8:00 PM,10,Wheat flour, Rice, Colgate toothpaste, Colgate toothbrush, shampoo, Hair oil, Tata salt, Sugar, Onion, Tomato
+489807,Neha,27,0,7,42,12:52 PM,7,Bread, Fruit jam, Ghee, Wheat flour, Onion, Tomato, Potato,,,
+489809,Eswari,34,0,57,43,9:34 AM,5,Colgate toothpaste, Colgate toothbrush, Lux soap, Tissue papers,cream cheese,,,,,
+489810,Rithik,32,1,60,32,9:24 AM,4,Colgate toothpaste, Colgate toothbrush, shampoo, Hair oil,,,,,,
+489811,Naina,16,0,0,53,12:36 PM,6,Milk, Bread, Fruit jam, Britannia GoodDay cashew biscuits, Britannia MarieGold biscuit, Britannia cakes,,,,
+489812,Nirmala D,21,0,37,60,1:40 PM,7,Bread, Fruit jam, Butter, Tata salt, Onion, Eggs, Tissue papers,,,
+489813,Affan S,29,1,73,44,10:52 AM,7,Butter, Ghee, Wheat flour, Tata salt, Pepper, Onion, Brinjal,,,
+489814,Kumari,27,0,36,32,11:02 AM,5,beef,sausage,waffles,candy,hamburger meat,,,,,
+489815,Kasthuri V,17,0,0,30,9:36 AM,5,Glue, Britannia GoodDay cashew biscuits, Britannia MarieGold biscuit, Britannia cakes,Maggi noodles,,,,,
+489816,Madhu,21,1,30,26,2:31 PM,5,Milk, Tomato, Britannia cakes,cream cheese,Maggi noodles,,,,,
+489817,Sai,23,1,66,25,11:23,5,Milk, Bread, Fruit jam, Butter, Britannia cakes,,,,,
+489818,Amrutha,18,0,0,31,9:46 AM,4,Britannia GoodDay cashew biscuits, Britannia MarieGold biscuit, Britannia cakes,cream cheese,,,,,,
+489819,K:Rakesh,20,1,0,45,7:47 PM,7,Milk, Bread, Butter, Ghee, Rice, Eggs, Britannia GoodDay cashew biscuits,,,
+489820,Harika K,27,0,65,31,9:36 AM,4,Milk, Bread, Cheese, Eggs,,,,,,
+489821,Hani,20,0,0,73,2:49 PM,10,Milk, Bread, Fruit jam, Butter, Cheese, Ghee, Wheat flour, Rice, Deodrant, Shaving foam
+489822,Varshith,25,1,60,43,10:30 AM,6,Deodrant, Shaving foam, Hair serum, Hair Conditioner, shampoo,Mushroom,,,,
+489823,Vidya,25,0,31,52,1:30 PM,6,Bread, Fruit jam, Butter, Cheese, Tomato, Potato,,,,
+489824,Gwen,26,0,44,58,8:03 PM,9,Bread, Fruit jam, Butter, Lux soap, Hair Conditioner, shampoo, Eggs, Paneer, Britannia cakes,
+489825,Sruthi G,31,0,70,33,9:30 AM,6,Butter, Ghee, Sugar, Onion, Brinjal, Paneer,,,,
+489826,Sai madhav ,20,1,0,83,9:35 AM,10,Bread, Wheat flour, Rice, Deodrant, Shaving foam, Hair Gel, Hair serum, Hair Conditioner, Tomato, Potato
+489827,Suresh,42,1,90,41,6:48 PM,6,Nivea men deodorant,Lip balm,pepper,Park avenue freshener,Surfexel liquid,Tata salt,,,,
+489828,Lakshita,26,0,15,36,9:36 AM,5,Deodrant, Hair Gel, Hair serum, Hair Conditioner, Tissue papers,,,,,
+489829,sai,35,1,51,52,3:42 PM,10, Colgate toothpaste, Rice,dessert, shampoo, Britannia cakes,beef,sausage,Chilly powder,Chelate shake,pastry
+489830,saira,23,0,33,64,12:54 PM,10, Wheat flour, Rice,coco cola,Cellotape,Glue,snickers,kinder joy,root vegetables,margarine,brown bread
+489831,Kumari,36,0,51,49,12:56 PM,7,Ghee, Wheat flour, Rice, Tata salt, Pepper, Onion, Tomato,,,
+489832,Uday,21,1,29,31,2:45 PM,3,Milk, Bread, Fruit jam,,,,,,,
+489833,Adithya B,27,1,52,37,9:36 AM,5,Tata salt, Pepper, Onion, Brinjal, Eggs,,,,,
+489834,manojkumar,63,1,75,57,9:23 AM,8,Toor dal,soya sauce,Urad dal,Vinegar,kinder joy,beverages,soft cheese,frozen vegetables,,
+489835,Gowthami,20,0,20,47,2:39 PM,7,Hair Gel, Hair serum, Colgate toothpaste, Colgate toothbrush, Lux soap, Hair Conditioner, shampoo,,,
+489837,Michela stone,44,0,52,52,4:46 PM,7,Milk, Tata salt, Pepper, Eggs, Tissue papers,waffles,candy,,,
+489840,Nikhil,20,1,0,62,1:01 PM,10,Milk, Bread, Butter, Cheese, Tata salt, Sugar, Onion, Eggs, Tissue papers, Britannia cakes
+489855,Arasada Chaitanya ,20,1,0,73,9:17 PM,10,Milk, Bread, Fruit jam, Butter, Ghee, Rice, Deodrant, Shaving foam, Hair Gel, Hair serum
+489856,Ram,19,1,0,27,10:50 PM,4,Milk, Colgate toothpaste, Tissue papers,cream cheese,,,,,,
+489857,Nirmala Yeshaswini,17,0,0,30,2:55 PM,3,Cheese, Hair Conditioner, shampoo,,,,,,,
+489858,Viswanath ,21,1,31,40,10:43 AM,6,Milk, Bread, Butter, Cheese, Sugar, Paneer,,,,
+489859,Sazvenia ,20,0,0,43,8:48 AM,6,sausage,beef, Fruit jam, Butter, Cheese, Britannia MarieGold biscuit,,,,
+489860,GRANDHI JAHNAVI ,21,0,33,18,8:00 AM,1,Tata salt, Sugar, Pepper, Onion, Tomato, Eggs,,,,
+489861,Zayn,36,1,26,30,6:40 PM,4,Deodrant, Hair Gel, Hair serum, Hair Conditioner,,,,,,
+489862,Niharika v,25,0,43,32,9:44 PM,3,Deodrant, Hair Conditioner, shampoo,,,,,,,
+489863,Chandu C,32,1,14,29,10:24 AM,4,Milk, Bread, Fruit jam, Eggs,,,,,,
+489864,Sanjana Christine,29,0,19,32,11:06 AM,6,Nescafe sunrise 50 gm pouch,Milk,beverages,soft cheese,oil,sausage,,,,
+489865,Pranay B,21,1,38,52,5:20 PM,7,Bread, Butter, Cheese, Tata salt, Onion, Tomato, Eggs,,,
+489866,Jisoo yadav,29,0,14,42,12:49 PM,6,Milk, Wheat flour, Rice, Lux soap, shampoo, Hair oil,,,,
+489867,Pathan Bajitha,21,0,37,56,10:03 AM,9,Cheese, Deodrant, Hair serum, Hair Conditioner, shampoo, Hair oil, Tissue papers, Britannia GoodDay cashew biscuits, Britannia MarieGold biscuit,
+489868,Sreeja,19,0,0,70,7:00 PM,10,Milk, Bread, Fruit jam, Butter, Cheese, Ghee, Onion, Tomato, Potato, Britannia GoodDay cashew biscuits
+489869,Vasudha,36,0,58,45,12:46 PM,7,Colgate toothpaste, Colgate toothbrush, Tata salt, Onion, Brinjal, Tomato, Potato,,,
+489870,lashma,56,0,85,70,11:00 AM,8,spinach,garlic,Lux soap,Maggi noodles,Watermelon,carrots,radish, Cheese,,
+489871,Aadarsh k,22,1,28,25,5:54 PM,5,Deodrant, Shaving foam, Hair Gel, Hair serum, Hair Conditioner,,,,,
+489872,Choppa Revathi ,18,0,0,29,9:26 PM,3,Paneer,kit kat, Britannia GoodDay cashew biscuits,,,,,,,
+489873,Anudeep,25,1,41,49,12:56 PM,6,Milk, Bread, Fruit jam, Butter, Britannia GoodDay cashew biscuits, Britannia MarieGold biscuit,,,,
+489874,Arjun L,26,1,67,52,12:11 PM,7,Milk, Bread, Fruit jam, Ghee, Sugar, Pepper, Onion,,,
+489875,Chandana,17,0,0,72,8:00 PM,10,Milk, Bread, Fruit jam, Butter, Cheese, Ghee, Deodrant, Britannia GoodDay cashew biscuits, Britannia MarieGold biscuit, Britannia cakes
+489876,Kalyan,23,1,39,54,2:33 PM,7,Rice, Deodrant, Hair Gel, Hair serum, Colgate toothpaste, Colgate toothbrush,Mushroom,,,
+489877,Parvathi,35,0,47,30,10:45 AM,5,Rice, Tata salt, Pepper, Onion, Brinjal,,,,,
+489878,Ajay Kumar ,22,1,13,29,9:17 AM,4,Hair Conditioner,kit kat,Peanut butter,Fruit jam,,,,,,
+489879,Aaron Warner ,10,1,0,37,5:30 PM,6,Milk, Tissue papers, Glue, Britannia GoodDay cashew biscuits, Britannia MarieGold biscuit, Britannia cakes,,,,
+489880,Sunder,21,1,45,77,9:00 PM,10,Milk, Bread, Fruit jam, Butter, Cheese, Shaving foam, Colgate toothpaste, Colgate toothbrush, Lux soap, Hair Conditioner
+489881,Penta HD SP Srikar Naidu ,18,1,0,90,9:12 AM,10,Milk, Bread, Fruit jam, Deodrant, Hair Gel, Hair serum, Colgate toothpaste, Lux soap, Hair Conditioner, shampoo
+489882,Sai Ram,27,1,45,30,10:20 AM,4,Deodrant, Shaving foam, Hair Gel, Hair Conditioner,,,,,,
+489883,sakiran,29,1,68,42,2:51 PM,6, Butter, Hair oil,Chelate shake, Tomato, Paneer,Vinegar,,,,
+489884,paratibha,32,0,21,74,4:13 PM,9, Butter, Deodrant,Lux soap,lettuce,brown rice,apple,Banana,Ragi flour,Lip balm,
+489888,PADAMATA BALAJI ,20,1,0,44,9:49 AM,6,shampoo,Eggs,oats, Britannia cakes,sausage,beef,,,,
+489889,Madhu,52,0,85,27,10:10 AM,4,Milk, Sugar, Tomato, Paneer,,,,,,
+489890,Sai,22,1,24,54,2:30 PM,9,Milk, Bread, Fruit jam, Butter, Cheese, Ghee, Wheat flour, Rice, Eggs,
+489891,Sharvari,25,0,30,38,5:53 PM,5,Bread, Fruit jam, Butter, Cheese, Tissue papers,,,,,
+489892,Asritha K,23,0,11,27,9:32 AM,5,Colgate toothpaste, Colgate toothbrush, Lux soap, shampoo, Hair oil,,,,,
+489893,Sai venkat ,19,1,0,54,2:35 PM,10,Wheat flour, Rice, Deodrant, Hair Gel, Colgate toothpaste, Hair Conditioner, shampoo, Eggs, Paneer, Britannia GoodDay cashew biscuits
+489894,Pranathi B,26,0,67,32,10:16 AM,4,Rice, Tata salt, Onion, Paneer,,,,,,
+489895,Pragnya ,21,0,32,59,9:05 PM,8,Bread, Fruit jam, Colgate toothpaste, shampoo, Hair oil, Tissue papers, Britannia MarieGold biscuit, Britannia cakes,,
+489896,Gayatri,28,0,45,45,10:55 AM,5,Bread, Fruit jam, Onion, Tomato, Eggs,,,,,
+489897,Sankar Sutapalli ,20,1,0,21,10:00 PM,4,Deodrant, Colgate toothpaste, Hair oil, Britannia cakes,,,,,,
+489898,Avinash Singh,27,1,75,54,9:56 AM,6,Fruit jam, Butter, Paneer, Britannia GoodDay cashew biscuits, Britannia MarieGold biscuit, Britannia cakes,,,,
+489899,Rithvik,30,1,74,56,4:57 PM,7,spinach,Water bottle,knife,Glue, Tissue papers,sausage,beef,,,
+489900,Rani,37,0,35,85,7:00 PM,10,Milk, Bread, Fruit jam, Butter, Cheese, Ghee, Wheat flour, Rice, Colgate toothpaste, Colgate toothbrush
+489901,Kcms,17,0,0,14,2:11 PM,2,Pepper,cream cheese,,,,,,,,
+489902,P Amstel,18,1,0,84,9:10 PM,10,Bread, Fruit jam, Deodrant, Hair Gel, Colgate toothpaste, Colgate toothbrush, Lux soap, shampoo, Britannia GoodDay cashew biscuits, Britannia MarieGold biscuit
+489903,Ravi Sharma,21,1,44,45,1:38 PM,6,Butter, Colgate toothpaste, Colgate toothbrush, Hair Conditioner, Tissue papers, Glue,,,,
+489904,Radha,46,0,90,54,12:26 PM,6,Rice, Tata salt, Onion, Tomato, Potato, Eggs,,,,
+489905,Harshini ,20,0,0,81,2:52 PM,10,Milk, Bread, Ghee, Rice, shampoo, Hair oil, Tata salt, Sugar, Pepper, Onion
+489906,Niall horniwari,38,1,68,64,4:45 PM,7,Onion, Brinjal, Tomato, Potato, Eggs, Paneer, Britannia GoodDay cashew biscuits,,,
+489907,Tulasi,33,0,27,99,8:00 PM,10,Milk, Bread, Ghee, Wheat flour, Rice, Colgate toothpaste, Colgate toothbrush, Lux soap, shampoo, Hair oil
+489908,Rajesh,34,1,44,25,10:15 AM,4,Deodrant, Shaving foam, Colgate toothpaste, Hair Conditioner,,,,,,
+489909,ABBURI VENKATA SAI MAHENDRA ,22,1,25,57,9:17 PM,9,Milk, Bread, Fruit jam, Butter, Cheese, Ghee, Britannia GoodDay cashew biscuits, Britannia MarieGold biscuit, Britannia cakes,
+489910,Ganga B,28,0,58,21,9:35 AM,4,Lux soap, Hair Conditioner, shampoo, Hair oil,,,,,,
+489911,Prema,24,0,32,63,10:14 PM,8,Milk, Bread, Butter, Cheese, Ghee, Wheat flour, Shaving foam, Paneer,,
+489912,Shree Krishna,23,1,15,38,1:32 PM,6,Butter, Cheese, Ghee, Wheat flour, Brinjal, Tomato,,,,
+489913,Venkat W,34,1,25,53,12:46 PM,6,Bread, Eggs, Britannia GoodDay cashew biscuits, Britannia MarieGold biscuit,Peanut butter,Vanilla Essence,,,,
+489914,Suresh V,37,1,42,40,9:26 AM,5,Deodrant, Shaving foam, Hair Gel, Hair oil,cream cheese,,,,,
+489915,Ruhi,22,0,30,25,12:53 PM,5,Milk, Bread, Fruit jam, Onion, Britannia MarieGold biscuit,,,,,
+489916,Kalyan,45,1,48,48,3:40 PM,7,Watermelon,Snake gourd,carrots,Dried yeast,apples,sausage,beef,,,
+489932,Priya,34,0,20,32,10:56 AM,5,Bread, Fruit jam, Onion, Eggs, Tissue papers,,,,,
+489935,Kusuma ,18,0,0,56,7:30 PM,9,Fruit jam, Butter, Hair serum, Lux soap, shampoo, Hair oil, Potato, Britannia GoodDay cashew biscuits, Britannia cakes,
+489955,Kalyani,28,0,57,22,7:30 PM,4,pastry,candy,grapes,kit kat,,,,,,
+489958,Riyaan,25,1,11,46,12:10 PM,8,Deodrant, Shaving foam, Hair Gel, Hair Conditioner, shampoo, Hair oil, Britannia MarieGold biscuit, Britannia cakes,,
+489973,Ram P,35,1,54,54,10:26 AM,6,Ghee, Wheat flour, Pepper, Onion, Tomato, Potato,,,,
+489994,nasar,45,1,44,59,11:42 AM,7,cream cheese,meat spreads,citrus fruit,beef,pork,waffles,candy,,,
+489996,Uday,20,1,0,34,2:42 PM,4,Colgate toothpaste, shampoo, Hair oil,cream cheese,,,,,,
+489998,Naveen,39,1,57,46,10:43 AM,5,Rice, Tomato, Potato, Eggs, Paneer,,,,,
+489999,Arjun Kumar,29,1,37,40,7:40 PM,6,Lion dates dates,Peanut butter,Vanilla Essence,Yogurt,Mushroom,Marshmellos,,,,
+490000,Rajesh K,30,1,62,46,9:38 AM,6,Wheat flour, Tata salt, Paneer,Toor dal,soya sauce,Urad dal,,,,
+490001,Indhira,37,0,31,54,12:10 PM,7,Ghee, Rice, Tata salt, Pepper, Onion, Potato, Eggs,,,
+490002,Ajayathish A ,19,1,0,99,10:29 AM,10,Milk, Bread, Fruit jam, Cheese, Wheat flour, Deodrant, Colgate toothpaste, Colgate toothbrush, Eggs, Paneer
+490003,Pallavi,22,0,29,65,12:26 PM,8,Ghee, Wheat flour, Rice, Tata salt, Onion, Tomato, Paneer, Tissue papers,,
+490004,Surya N,30,1,15,42,9:34 AM,5,Milk, Bread, Fruit jam, Tissue papers,cream cheese,,,,,
+490005,Sai kiran ,20,1,0,49,12:18 PM,7,Fruit jam, Cheese, Rice, Deodrant, shampoo, Hair oil, Sugar,,,
+490006,Rishitha,26,0,48,47,10:55 AM,6,Bread, Fruit jam, Cheese, Ghee, Pepper, Onion,,,,
+490007,Deepika,25,0,50,53,12:10 PM,6,Rice, Hair oil, Tata salt, Onion, Tomato, Potato,,,,
+490008,Stelena,14,0,0,70,10:30 AM,10,chicken,Butter,pasta,Banana,Ragi flour,kit kat,pastry,waffles,oil,lip balm
+490009,Karan,15,1,0,48,2:34 AM,8,Deodrant, Shaving foam, Hair Gel,Maggi noodles,Mushroom,Marshmellos, Tissue papers,meat spreads,,
+490010,Gouri,42,0,52,69,5:30 PM,10,citrus fruit,beef,pork,waffles,candy,Watermelon,Snake gourd,carrots,Dried yeast,apples
+490011,Ayaan Karun,27,1,53,55,1:01 PM,8, Lux soap,Fruit jam,Rice,pork,waffles,citrus fruit,beef,hamburger meat,,
+490012,Thalaivi,38,0,39,54,4:20 PM,7,Dried yeast,Watermelon,cream cheese, Eggs, Tissue papers, Hair Gel, Hair Conditioner,,,
+490013,Aadhya,26,1,54,48,3:30 PM,7, Eggs,Bread,Colgate toothpaste, Lux soap, shampoo, Pepper, Onion,,,
+490014,Jitendra,31,1,15,53,6:37 PM,7,kit kat,pastry,Lion dates dates,Dried yeast,apples,sausage,beef,,,
+490015,Kaurav,33,1,29,47,9:39 PM,6, Hair Conditioner,Deodrant,Wheat flour,pastry,candy,cream cheese,,,,
+490016,Anandi,40,0,42,73,9:45 PM,9, Onion,Ghee, Hair Gel,lettuce,brown rice,apple,Banana,Ragi flour,Lip balm,
+490017,Khushboo,46,0,60,44,1:06 PM,6,beef,sausage,Milk,hamburger meat,Mushroom,cream cheese,,,,
+490018,Savitri,38,0,47,84,8:30 PM,10,margarine,beverages,soft cheese,frozen vegetables,spinach,garlic,cream cheese,semi-finished bread,zwieback,cake bar
+490019,Veena,48,0,49,61,10:02 AM,10,specialty bar,Lion dates dates,Himalaya purifying neem pack,Everyuth face scrub,Lip balm,Nivea fairness cream,Nescafe sunrise 50 gm pouch,Milk, Hair serum, Hair Conditioner
+490020,Anushka S,21,0,25,31,7:30 PM,3,cream cheese, cake bar, Cadbury dairy milk chocolate36,,,,,,,
+490021,Kavitha,44,0,41,58,9:01 PM,6,cream cheese,semi-finished bread,beverages, Tata salt, Onion, Tomato,,,,
+490022,Kapila,29,0,16,44,7:30 PM,5,sausage, brown rice, apple, Banana, oil,,,,,
+490023,Rithwika,24,0,36,35,7:30 PM,3,lip balm, Nivea fairness cream, Deodrant,,,,,,,
+490024,Prema,32,0,53,51,7:52 PM,7,chicken, garlic, Tomato, Onion, root vegetables, Tata salt, Pepper,,,
+490030,Sailaja,36,0,40,63,7:52 PM,10,brown rice, Banana, spinach, oil, Ragi flour, tamarind, Wheat flour, Maida, Potato, Tomato
+490034,Srivastav,25,1,26,48,7:52 PM,5,sausage, hamburger meat, Deodrant, brown bread, Cadbury dairy milk chocolate36,,,,,
+490045,Siddesh,27,1,25,45,7:52 PM,5,Banana, waffles, jaggery, cream cheese, beverages,,,,,
+490046,Aadhya,56,0,84,60,8:07 PM,9,Dried yeast, Asafoetida, Venigar, Nivea fairness cream, Everyuth face scrub, Deodrant, Banana, Lux soap, spinach,
+490047,Ramya,23,0,51,99,6:50 PM,10,Venigar, sausage, beef, Nivea fairness cream, Everyuth face scrub, Deodrant, Banana, lettuce, spinach, tamarind
+490048,Surya,43,1,52,66,8:29 PM,10,chicken, lip balm, Nivea fairness cream, lettuce, Lux soap, spinach, garlic, margarine, Lion dates, Glue
+490049,Karthi,31,0,49,53,7:01 PM,10,Brinjal, Onion, Eggs, Paneer, berries, desert, Glue, root vegetables, Tata salt, Pepper
+490050,Monika,22,0,33,66,10:12 AM,10,Maida, Baking powder, Potato, Tomato, Brinjal, Onion, Eggs, Paneer, berries, desert
+490051,Shilpa,38,0,54,64,6:56 PM,10,rawa, Wheat flour, cream cheese, soft cheese, semi-finished bread, cake bar, beverages, Lion dates, speciality bar, Maida
+490052,Nikitha Manoj,33,0,57,56,6:45 PM,7,Asafoetida, Nivea fairness cream, Toor dal, Urad dal, tamarind, rawa, Tomato,,,
+490053,Sri kanya,36,0,36,54,10:45 AM,10,apple, Banana, lettuce, spinach, oil, Toor dal, Urad dal, kit kat, ID Idli Dosa batter, Pepper
+490054,Vijaya Lakshmi,60,0,74,56,12:02 AM,7,Asafoetida, chicken, pet care, Milk, ID Idli Dosa batter, Baking powder, desert,,,
+490055,Naveen,45,1,49,71,4:07 PM,9,pastry, waffles, jaggery, rawa, margarine, candy, spread cheese, desert, root vegetables,
+490056,Advith,47,1,78,51,8:40 PM,9,soya sauce, hamburger meat, chicken, oil, tamarind, soft cheese, semi-finished bread, beverages, Cadbury dairy milk chocolate36,
+490057,Mahendra,33,1,52,60,7:09 PM,9,Nivea fairness cream, Deodrant, cream cheese, soft cheese, semi-finished bread, margarine, beverages, speciality bar, Tata salt,
+490058,Avani,28,0,49,72,10:52 AM,10,soya sauce, sausage, hamburger meat, lip balm, Everyuth face scrub, tamarind, speciality bar, kit kat, Baking powder, Paneer
+490059,Thabhasum,53,0,47,66,9:32 AM,10,apple, Banana, soft cheese, garlic, brown bread, Potato, Tomato, Brinjal, Onion, root vegetables
+490060,Swetha,31,0,59,73,5:51 PM,10,Potato, Tomato, Brinjal, Onion, Eggs, Paneer, berries, desert, Glue, root vegetables
+490061,Reshmi,35,0,32,62,8:57 AM,10,soya sauce, chicken, brown rice, lettuce, spinach, jaggery, brown bread, Milk, ID Idli Dosa batter, berries
+490062,Meena,19,0,0,63,9:45,10,Nivea fairness cream, lettuce, Lux soap, spinach, oil, soft cheese, cake bar, Milk, Butter, Maida
+490063,Sowmiya,27,0,69,80,7:16 PM,10,soya sauce, Venigar, chicken, Nivea fairness cream, Everyuth face scrub, Lux soap, spinach, oil, pastry, waffles
+490064,Chandra,45,1,75,74,8:59 AM,10,Venigar, spinach, Ragi flour, Toor dal, Urad dal, rawa, cake bar, Lion dates, Butter, Potato
+490065,Anasuya,42,0,44,80,11:00 AM,10,lettuce, Ragi flour, Toor dal, Urad dal, tamarind, jaggery, garlic, ID Idli Dosa batter, Baking powder, Onion
+490066,Aarav zaheer,27,1,55,71,10:26 AM,10,Dried yeast, Asafoetida, soya sauce, Venigar, garlic, speciality bar, pet care, ID Idli Dosa batter, Baking powder, berries
+490067,Emanuel,23,1,75,64,9:45 AM,9,apple, Banana, spinach, pastry, garlic, margarine, Lion dates, speciality bar, Maida,
+490068,Bhaskar,40,1,60,73,8:51 PM,10,lip balm, Nivea fairness cream, Everyuth face scrub, Deodrant, pastry, waffles, margarine, beverages, candy, desert
+490069,Hymavathi,29,0,18,60,11:29 AM,10,Everyuth face scrub, spinach, pastry, waffles, jaggery, rawa, kit kat, candy, Cadbury dairy milk chocolate36, berries
+490070,Lavanya Priya,30,0,61,62,4:48 PM,9,Dried yeast, Asafoetida, soya sauce, Venigar, sausage, chicken, garlic, beverages, candy,
+490071,Roja,50,0,49,69,5:50 PM,9,soya sauce, Venigar, chicken, Lux soap, soft cheese, semi-finished bread, cake bar, garlic, kit kat,
+490072,Aadi,40,1,64,60,1:23 PM,9,brown rice, spinach, Ragi flour, Toor dal, Urad dal, tamarind, jaggery, Lion dates, candy,
+490073,Pavan,15,1,0,27,11:05 AM,4,pastry, waffles, speciality bar, Cadbury dairy milk chocolate36,,,,,,
+490074,Manu,67,1,74,87,7:49 PM,10,apple, Banana, spinach, Ragi flour, Toor dal, garlic, pet care, Milk, Butter, berries
+490075,Ahhrun,20,1,0,96,9:05,10,Asafoetida, chicken, lip balm, Deodrant, semi-finished bread, Lion dates, kit kat, Milk, Eggs, Glue
+490076,Jaya Lakshmi,51,0,75,73,12:22 PM,10,tamarind, jaggery, rawa, Wheat flour, cake bar, garlic, spread cheese, pet care, Maida, ID Idli Dosa batter
+490077,Srinu,38,1,65,87,10:11 AM,10,cake bar, margarine, speciality bar, pet care, Milk, Butter, Maida, ID Idli Dosa batter, Potato, Brinjal
+490078,Sudheer Babu,31,1,34,61,12:19 PM,10,Deodrant, brown rice, pastry, waffles, cream cheese, soft cheese, semi-finished bread, cake bar, margarine, beverages
+490079,Naresh,28,1,41,68,9:24 AM,9,Maida, ID Idli Dosa batter, Baking powder, berries, desert, Glue, root vegetables, Tata salt, Pepper,
+490080,Laila,49,0,57,68,10:05 AM,10,sausage, hamburger meat, oil, pastry, waffles, tamarind, garlic, Lion dates, root vegetables, Tata salt
+490081,Gareema,26,0,51,67,2:39 PM,10,soya sauce, Venigar, hamburger meat, chicken, spinach, oil, pastry, cake bar, speciality bar, root vegetables
+490082,Naira,25,0,53,61,12:31 PM,10,Asafoetida, soya sauce, Venigar, sausage, beef, hamburger meat, chicken, oil, waffles, beverages
+490083,Samaira,24,0,18,50,1:56 PM,10,Dried yeast, Asafoetida, soya sauce, Venigar, sausage, chicken, Nivea fairness cream, Everyuth face scrub, Deodrant, garlic
+490084,Narendra,33,1,48,58,9:29 PM,10,cream cheese, soft cheese, semi-finished bread, cake bar, margarine, beverages, Lion dates, speciality bar, kit kat, desert
+490085,Manohar,49,1,57,61,12:07 PM,10,Venigar, sausage, pastry, waffles, candy, brown bread, Cadbury dairy milk chocolate36, pet care, desert, root vegetables
+490086,Tarun kishore,51,1,64,81,12:13 PM,10,ID Idli Dosa batter, Baking powder, Potato, Tomato, Brinjal, Onion, Eggs, berries, desert, root vegetables
+490087,Sudheer,34,1,25,70,4:45 PM,10,Dried yeast, Lux soap, rawa, cream cheese, soft cheese, semi-finished bread, Lion dates, pet care, Maida, ID Idli Dosa batter
+490088,Mohini,40,0,30,55,7:09 PM,10,soya sauce, Venigar, lip balm, Nivea fairness cream, Everyuth face scrub, Deodrant, pastry, waffles, margarine, beverages
+490089,Varsha Bhaskar,30,0,66,81,8:10 PM,10,soya sauce, Venigar, sausage, Deodrant, oil, Ragi flour, jaggery, rawa, Wheat flour, soft cheese
+490090,Faathima,41,0,90,73,8:20 PM,10,soya sauce, Venigar, sausage, chicken, lettuce, oil, cake bar, candy, brown bread, Tata salt
+490091,Avani Sharma,43,0,72,87,3:34 PM,10,brown rice, lettuce, oil, pastry, waffles, rawa, Wheat flour, semi-finished bread, Lion dates, brown bread
+490092,Anvika Arora,34,0,34,67,3:35 PM,10,Asafoetida, Venigar, lip balm, Nivea fairness cream, Everyuth face scrub, Deodrant, brown rice, semi-finished bread, speciality bar, brown bread
+490093,Arun Varma,17,1,0,60,9:42 PM,10,sausage, Deodrant, pastry, waffles, cream cheese, soft cheese, margarine, beverages, spread cheese, Butter
+490094,Avanthesh,19,1,0,92,7:56 PM,10,waffles, semi-finished bread, cake bar, beverages, Lion dates, speciality bar, kit kat, candy, Cadbury dairy milk chocolate36, spread cheese
+490095,Sri varshi,18,0,0,22,9:45 AM,4,lip balm, Lux soap, waffles, Cadbury dairy milk chocolate36,,,,,,
+490096,Sai harshi,19,0,0,29,9:45 AM,5,lip balm, Deodrant, speciality bar, kit kat, candy,,,,,
+490097,Prameela S,38,0,48,54,9:45 AM,6,soya sauce, sausage, chicken, Tomato, root vegetables, Tata salt,,,,
+490098,Siddeshwar,32,1,35,26,9:45 AM,3,Dried yeast, Venigar, Deodrant,,,,,,,
+490099,Gowri,35,0,56,54,12:17 PM,8,soya sauce, chicken, Toor dal, cream cheese, garlic, Tomato, Onion, Pepper,,
+490100,Poornima,39,0,50,50,12:17 PM,8,Ragi flour, Urad dal, garlic, Potato, Brinjal, root vegetables, Tata salt, Pepper,,
+490101,Priyanka W,18,0,0,61,12:17 PM,8,lip balm, Nivea fairness cream, Everyuth face scrub, Deodrant, cream cheese, soft cheese, cake bar, Cadbury dairy milk chocolate36,,
+490106,Mallesh,21,1,32,38,12:18 PM,6,Deodrant, brown rice, spinach, Lion dates, Potato, Paneer,,,,
+490107,Padma D,37,0,63,63,12:19 PM,8,Venigar, sausage, brown rice, Wheat flour, Lion dates, Eggs, Paneer, root vegetables,,
+490108,Eeswari M,48,0,66,58,12:27 PM,9,spinach, oil, Ragi flour, Toor dal, tamarind, Wheat flour, Butter, ID Idli Dosa batter, root vegetables,
+490109,Madhurima,47,0,53,71,12:27 PM,8,brown rice, Ragi flour, tamarind, Milk, ID Idli Dosa batter, Tomato, Paneer, root vegetables,,
+490110,Bhoopathi,62,1,66,89,2:38 PM,10,apple, Banana, lettuce, spinach, oil, Ragi flour, Toor dal, Urad dal, tamarind, jaggery
+490111,Jessica,28,0,27,62,2:39 PM,10,soya sauce, Venigar, sausage, beef, hamburger meat, chicken, oil, tamarind, cake bar, margarine
+490112,Anand,46,1,52,99,6:31 PM,10,cream cheese, soft cheese, semi-finished bread, cake bar, garlic, margarine, beverages, Lion dates, speciality bar, kit kat
+490113,Nayan,16,1,0,98,2:41 PM,10,Deodrant, pastry, waffles, cream cheese, soft cheese, semi-finished bread, cake bar, margarine, beverages, Lion dates
+490114,Bhoomi,51,0,44,94,11:46 AM,10,lip balm, brown rice, kit kat, candy, brown bread, spread cheese, pet care, Milk, Butter, Maida
+490115,Suresh vital,48,1,45,97,5:21 PM,10,Dried yeast, soya sauce, Venigar, cream cheese, semi-finished bread, cake bar, beverages, brown bread, Cadbury dairy milk chocolate36, spread cheese
+490116,Guna harshitha,37,0,49,65,3:13 PM,7,soya sauce, sausage, chicken, pastry, garlic, Tomato, Onion,,,
+490117,Kasthuri v,27,0,5,56,3:13 PM,7,apple, Banana, Toor dal, tamarind, Wheat flour, root vegetables, Tata salt,,,
+490118,Vishala,18,0,0,50,3:13 PM,6,lip balm, Nivea fairness cream, Everyuth face scrub, cake bar, Cadbury dairy milk chocolate36, desert,,,,
+490119,Vamsi Krishna,24,1,30,30,3:14 PM,5,Venigar, sausage, hamburger meat, cream cheese, beverages,,,,,
+490120,Krishna mukund,29,1,25,30,3:23 PM,6,brown rice, apple, pet care, Paneer, berries, Tata salt,,,,
+490121,Vishuvanth,32,1,71,44,3:15 PM,6,soya sauce, hamburger meat, spinach, beverages, Butter, desert,,,,
+490122,Kameshwari U,45,0,63,51,3:13 PM,7,brown rice, spinach, oil, Ragi flour, tamarind, Paneer, root vegetables,,,
+490123,Tulasi K,23,0,28,41,3:13 PM,7,spinach, jaggery, Wheat flour, soft cheese, semi-finished bread, beverages, berries,,,
+490124,Vishala K,23,0,44,28,3:14 PM,5,waffles, soft cheese, semi-finished bread, brown bread, spread cheese,,,,,
+490125,Murthi L,29,1,67,50,3:19 PM,8,Deodrant, Lion dates, speciality bar, brown bread, Butter, ID Idli Dosa batter, berries, desert,,
+490126,Sri Hari,35,1,26,50,3:13 PM,8,soya sauce, sausage, hamburger meat, beverages, Lion dates, Cadbury dairy milk chocolate36, Tomato, Onion,,
+490127,Vishaka,28,0,52,41,3:17 PM,6,lip balm, Nivea fairness cream, Everyuth face scrub, waffles, kit kat, Cadbury dairy milk chocolate36,,,,
+490128,Pinky,15,0,0,28,3:13 PM,5,waffles, cake bar, speciality bar, kit kat, candy,,,,,
+490129,Kavya T,16,0,0,41,3:13 PM,6,pastry, waffles, garlic, speciality bar, candy, Cadbury dairy milk chocolate36,,,,
+490130,Varshiva,27,0,29,49,3:23 PM,7,Nivea fairness cream, Everyuth face scrub, lettuce, Lux soap, beverages, kit kat, candy,,,
+490131,Karuna vedya,36,1,41,47,3:13 PM,7,soya sauce, chicken, oil, garlic, Tomato, Brinjal, Eggs,,,
+490132,Gautam Gambhir Singh,38,1,65,66,3:43 PM,7,apple, Banana, spinach, Lion dates, Paneer, root vegetables, Pepper,,,
+490133,Vishal,25,1,73,53,3:13 PM,7,Wheat flour, cream cheese, soft cheese, Baking powder, Eggs, Tata salt, Pepper,,,
+490134,Saraswathi K,37,0,59,75,3:23 PM,9,soya sauce, chicken, beverages, Milk, Butter, Onion, Eggs, Tata salt, Pepper,
+490135,Varun S,23,1,28,50,3:23 PM,8,Deodrant, brown rice, apple, cream cheese, brown bread, Eggs, Paneer, root vegetables,,
+490136,Mahender Singh,45,1,84,57,3:33 PM,10,soya sauce, hamburger meat, chicken, oil, garlic, Maida, Potato, Tomato, Onion, Tata salt
+490137,Rani,16,0,0,41,3:33 PM,6,pastry, waffles, jaggery, cake bar, kit kat, Cadbury dairy milk chocolate36,,,,
+490138,Viswaroop,24,1,53,50,3:16 PM,8,spinach, oil, waffles, soft cheese, semi-finished bread, garlic, beverages, brown bread,,
+490139,Gunesh,24,1,62,26,3:13 PM,5,soft cheese, semi-finished bread, beverages, brown bread, spread cheese,,,,,
+490140,Aruneshwar,35,1,41,70,3:43 PM,9,soya sauce, chicken, semi-finished bread, beverages, Lion dates, Tomato, root vegetables, Tata salt, Pepper,
+490141,Vigneshwar,26,1,38,41,3:13 PM,6,soya sauce, cream cheese, semi-finished bread, garlic, beverages, berries,,,,
+490142,Shivanshi,20,0,0,26,8:51 AM,5,lip balm, Nivea fairness cream, Deodrant, kit kat, candy,,,,,
+490143,Renuka,43,0,56,50,8:52 AM,8,Wheat flour, Milk, ID Idli Dosa batter, Paneer, berries, root vegetables, Tata salt, Pepper,,
+490144,Kamakshi,36,0,59,56,8:52 AM,9,brown rice, spinach, oil, Wheat flour, Tomato, Onion, root vegetables, Tata salt, Pepper,
+490145,Pranishka,32,0,63,48,8:52 AM,8,soya sauce, Wheat flour, cream cheese, semi-finished bread, beverages, Lion dates, speciality bar, kit kat,,
+490146,Vamshi R,23,1,11,61,8:52 AM,8,cream cheese, semi-finished bread, brown bread, spread cheese, Tomato, Eggs, Tata salt, Pepper,,
+490147,Sid A,22,1,19,56,8:52 AM,7,soya sauce, chicken, cream cheese, beverages, Tomato, Onion, Tata salt,,,
+490148,Karthika R,26,0,39,37,8:52 AM,6,lip balm, Everyuth face scrub, Deodrant, waffles, cake bar, speciality bar,,,,
+490149,Shikshesh R,34,1,39,66,8:52 AM,8,sausage, chicken, spinach, oil, beverages, Tomato, Tata salt, Pepper,,
+490150,Radha Krishna,46,1,47,64,8:52 AM,7,apple, Banana, Lion dates, brown bread, Butter, Maida, root vegetables,,,
+490151,Venu Madhav R,38,1,59,32,8:52 AM,6,chicken, spinach, oil, garlic, beverages, root vegetables,,,,
+490152,Radha K,23,0,28,64,8:52 AM,9,Wheat flour, soft cheese, semi-finished bread, garlic, Butter, Maida, Eggs, berries, Pepper,
+490153,Yashoda,39,0,41,55,8:42 AM,9,oil, Ragi flour, Toor dal, Urad dal, tamarind, rawa, Wheat flour, garlic, ID Idli Dosa batter,
+490154,Ram R,23,1,45,54,9:05 AM,10,brown rice, apple, Banana, spinach, oil, Urad dal, Wheat flour, Onion, Paneer, root vegetables
+490155,Srinivas VS,45,1,68,60,9:05 AM,9,soya sauce, sausage, chicken, brown rice, spinach, oil, Potato, Tomato, Onion,
+490156,Lavanya K,21,0,27,59,9:05 AM,8,lip balm, Nivea fairness cream, Everyuth face scrub, pastry, waffles, kit kat, candy, berries,,
+490157,Swathi E,38,0,55,69,9:05 AM,10,Banana, spinach, oil, Urad dal, tamarind, ID Idli Dosa batter, Tomato, Brinjal, Onion, root vegetables
+490158,Satheesha N,36,0,38,54,9:05 AM,10,sausage, chicken, spinach, oil, garlic, margarine, Potato, Tomato, berries, desert
+490159,Swetha Y,26,0,25,61,9:05 AM,8,lip balm, Nivea fairness cream, Everyuth face scrub, Lux soap, semi-finished bread, Butter, Tomato, Eggs,,
+490160,Tanisha,18,0,0,51,9:05 AM,9,jaggery, cream cheese, semi-finished bread, beverages, Milk, Maida, Onion, desert, Pepper,
+490161,Nikesha,32,0,53,63,11:36 AM,9,brown rice, spinach, oil, Ragi flour, Toor dal, Urad dal, garlic, Tomato, Onion,
+490162,Basheer K,32,1,26,62,11:37 AM,8,soya sauce, sausage, hamburger meat, chicken, oil, beverages, Tomato, Onion,,
+490163,Narayana K,29,1,60,55,11:37 AM,9,apple, Banana, pastry, beverages, Lion dates, Maida, Tomato, Onion, Eggs,
+490164,Manasa V,45,0,66,50,11:37 AM,9,brown rice, apple, Banana, Lion dates, brown bread, Potato, root vegetables, Tata salt, Pepper,
+490165,Karthika G,20,0,0,35,11:47 AM,6,Nivea fairness cream, Everyuth face scrub, waffles, beverages, speciality bar, Cadbury dairy milk chocolate36,,,,
+490166,Swarna P,32,0,18,46,11:39 AM,7,sausage, Wheat flour, Milk, Butter, Maida, berries, root vegetables,,,
+490167,Vijaya M,27,0,63,72,11:47 AM,10,soya sauce, apple, spinach, oil, Wheat flour, cream cheese, semi-finished bread, beverages, Tata salt, Pepper
+490171,Radhika S,20,0,0,78,11:37 AM,10,lip balm, Nivea fairness cream, apple, Banana, Lux soap, spinach, soft cheese, semi-finished bread, cake bar, beverages
+490177,Bhargavi N,23,0,34,97,11:37 AM,10,sausage, chicken, spinach, oil, garlic, Butter, Maida, Tomato, Onion, desert
+490186,Vyshnavi E,23,1,10,65,11:37 AM,10,sausage, jaggery, cream cheese, soft cheese, semi-finished bread, beverages, Lion dates, spread cheese, Butter, ID Idli Dosa batter
+490192,Rohit E,27,1,38,57,11:37 AM,10,Deodrant, spinach, oil, Wheat flour, cream cheese, soft cheese, semi-finished bread, beverages, Tata salt, Pepper
+490202,Jay J,24,1,69,95,11:47 AM,10,soya sauce, spinach, oil, jaggery, soft cheese, brown bread, spread cheese, Maida, Tomato, Brinjal
+490209,Vishnusarva,32,1,26,63,11:47 AM,9,soya sauce, Venigar, chicken, Deodrant, spinach, oil, Potato, desert, Pepper,
+490212,Svarna R,45,0,51,52,11:57 AM,10,apple, Banana, ID Idli Dosa batter, Baking powder, Potato, Tomato, Onion, Paneer, root vegetables, Tata salt
+490214,Vyshal,18,1,0,40,11:57 AM,7,Deodrant, apple, Banana, soft cheese, speciality bar, Cadbury dairy milk chocolate36, desert,,,
+490218,Anand R,29,1,50,61,12:05 PM,10,spinach, oil, pastry, waffles, beverages, Lion dates, speciality bar, ID Idli Dosa batter, Onion, Eggs
+490219,Saraswathi M,34,0,50,60,12:37 PM,9,Ragi flour, Urad dal, tamarind, garlic, Baking powder, Tomato, Paneer, root vegetables, Tata salt,
+490229,Vimala R,23,0,74,51,12:37 PM,7,apple, Banana, waffles, cake bar, speciality bar, kit kat, candy,,,
+490247,Harshitha E,21,0,33,65,12:27 PM,9,soya sauce, Nivea fairness cream, lettuce, Lux soap, waffles, jaggery, beverages, speciality bar, kit kat,
+490251,Balaji L,32,1,8,44,12:31 PM,5,soya sauce, Venigar, chicken, spinach, oil,,,,,
+490258,Varshitha R,29,0,47,62,12:37 PM,8,kit kat, candy, pet care, Butter, ID Idli Dosa batter, Baking powder, berries, desert,,
+490266,Mohan,34,1,59,63,12:17 PM,10,soya sauce, beef, tamarind, Wheat flour, Baking powder, Potato, Tomato, Brinjal, berries, desert
+490269,Ruchi R,36,0,47,69,12:27 PM,10,sausage, chicken, apple, Banana, tamarind, Lion dates, speciality bar, ID Idli Dosa batter, Baking powder, berries
+490272,Sri gowri,21,0,31,68,12:17 PM,10,soya sauce, sausage, Wheat flour, cream cheese, soft cheese, semi-finished bread, beverages, berries, desert, Tata salt
+490277,Preethi sri,24,0,46,63,12:27 PM,9,lip balm, Nivea fairness cream, Everyuth face scrub, cream cheese, soft cheese, semi-finished bread, garlic, beverages, Tata salt,
+490279,Googy,24,1,65,64,12:27 PM,10,Deodrant, brown rice, apple, Banana, oil, pastry, Eggs, berries, desert, Tata salt
+490281,Gowri Sri,36,0,36,64,12:27 PM,10,sausage, brown rice, Toor dal, Urad dal, tamarind, jaggery, Wheat flour, candy, Cadbury dairy milk chocolate36, Maida
+490282,Bhoomi E,28,0,40,58,12:37 PM,10,soya sauce, spinach, oil, pastry, waffles, cream cheese, soft cheese, margarine, Paneer, Tata salt
+490283,Vishnu M,34,1,43,76,12:27 PM,10,soya sauce, Wheat flour, cream cheese, semi-finished bread, cake bar, garlic, Lion dates, speciality bar, Potato, Tomato
+490284,Varshi F,27,0,74,73,12:27 PM,10,lip balm, Nivea fairness cream, Deodrant, Lux soap, cake bar, beverages, Lion dates, speciality bar, kit kat, berries
+490285,Shivaji W,38,1,39,85,12:27 PM,10,soya sauce, sausage, chicken, apple, Banana, spinach, Wheat flour, garlic, beverages, Baking powder
+490286,Madhav R,29,1,51,62,12:27 PM,10,Deodrant, spinach, oil, jaggery, Wheat flour, cream cheese, semi-finished bread, cake bar, garlic, Lion dates
+490287,Sruthi T,19,0,0,73,12:30 PM,10,waffles, jaggery, Wheat flour, cream cheese, cake bar, beverages, speciality bar, kit kat, Cadbury dairy milk chocolate36, berries
+490288,Vedha R,19,0,0,67,12:30 PM,10,lip balm, Nivea fairness cream, waffles, jaggery, cake bar, Lion dates, speciality bar, kit kat, candy, Cadbury dairy milk chocolate36
+490289,Ganesh W,18,1,0,88,12:32 PM,10,soya sauce, hamburger meat, spinach, oil, pastry, waffles, spread cheese, pet care, Tomato, Onion
+490290,Radhika L,21,0,38,51,12:33 PM,10,lip balm, Nivea fairness cream, Everyuth face scrub, Deodrant, cake bar, speciality bar, kit kat, candy, Cadbury dairy milk chocolate36, berries
+490291,Vyshali H,37,0,38,100,12:32 PM,10,chicken, spinach, oil, Toor dal, Urad dal, tamarind, speciality bar, kit kat, ID Idli Dosa batter, Tomato
+490292,Vignesh W,21,1,36,73,12:33 PM,10,Wheat flour, cream cheese, soft cheese, semi-finished bread, beverages, Lion dates, kit kat, candy, desert, root vegetables
+490293,Kalpana R,35,0,38,83,12:34 PM,10,soya sauce, sausage, chicken, garlic, pet care, Milk, Butter, Potato, Tomato, Brinjal
+490294,Sri supraja,32,0,23,67,12:35 PM,10,Ragi flour, Toor dal, Urad dal, tamarind, jaggery, garlic, Milk, Baking powder, Potato, Brinjal
+490295,Vyshnavi Q,21,0,30,77,12:27 PM,10,apple, Banana, spinach, pastry, waffles, cream cheese, soft cheese, cake bar, beverages, speciality bar
+490296,Lalitha W,37,0,50,72,12:37 PM,10,soya sauce, sausage, hamburger meat, chicken, candy, Cadbury dairy milk chocolate36, pet care, Baking powder, Potato, Onion
+490297,Sindhuja E,28,0,6,60,12:37 PM,10,Everyuth face scrub, Deodrant, Lux soap, pastry, waffles, soft cheese, semi-finished bread, cake bar, brown bread, Cadbury dairy milk chocolate36
+490298,Vishal T,21,1,31,64,12:37 PM,10,rawa, Wheat flour, cream cheese, semi-finished bread, beverages, speciality bar, brown bread, Cadbury dairy milk chocolate36, spread cheese, Milk
+490299,Sidhu K,23,1,73,70,12:37 PM,10,Deodrant, spinach, oil, waffles, tamarind, cream cheese, soft cheese, semi-finished bread, brown bread, Brinjal
+490300,GayatriK,28,0,49,92,12:37 PM,10,lip balm, Nivea fairness cream, Deodrant, Lux soap, pastry, waffles, semi-finished bread, garlic, beverages, Lion dates
+490301,Sowmiya K,37,0,33,65,12:40 PM,9,spinach, oil, Wheat flour, cream cheese, Eggs, berries, desert, root vegetables, Tata salt,
+490302,Vivek I,21,1,29,75,12:37 PM,10,Deodrant, apple, Banana, spinach, oil, pastry, cream cheese, semi-finished bread, beverages, kit kat
+490303,Guduri Vish,31,1,44,68,12:42 PM,10,Venigar, sausage, chicken, garlic, beverages, pet care, Potato, Tomato, Brinjal, Eggs
+490304,Swathi O,24,0,40,57,12:37 PM,9,lip balm, Everyuth face scrub, soft cheese, semi-finished bread, cake bar, speciality bar, kit kat, Cadbury dairy milk chocolate36, Eggs,
+490305,Maha Lakshmi,29,0,49,48,12:37 PM,8,Potato, Brinjal, Onion, Paneer, berries, desert, root vegetables, Pepper,,
+490306,Lalitha R,28,0,30,75,12:37 PM,10,brown rice, apple, Banana, Toor dal, Urad dal, Potato, Tomato, Paneer, berries, Tata salt
+490307,Jyothi Q,28,0,14,56,12:37 PM,10,pastry, waffles, beverages, Lion dates, speciality bar, kit kat, candy, brown bread, Cadbury dairy milk chocolate36, berries
+490308,Venkata Sai E,21,1,36,50,12:37 PM,8,soft cheese, semi-finished bread, beverages, speciality bar, kit kat, Eggs, Tata salt, Pepper,,
+490309,Padma R,28,0,68,50,12:47 PM,10,Everyuth face scrub, Lux soap, jaggery, soft cheese, semi-finished bread, cake bar, beverages, speciality bar, kit kat, berries
+490310,Vishuvanth A,20,1,0,68,12:50 PM,9,apple, Banana, pastry, waffles, cream cheese, soft cheese, semi-finished bread, Eggs, berries,
+490311,Viswa sai,32,1,44,72,12:57 PM,10,beverages, Lion dates, speciality bar, kit kat, ID Idli Dosa batter, Baking powder, Onion, root vegetables, Tata salt, Pepper
+490312,Vamsi E,34,1,26,72,12:38 PM,10,brown rice, spinach, oil, garlic, beverages, Lion dates, Maida, ID Idli Dosa batter, Baking powder, Brinjal
+490313,Sanjay Q,34,1,20,52,12:57 PM,10,pastry, waffles, soft cheese, semi-finished bread, beverages, Potato, Tomato, Paneer, berries, desert
+490320,Shiskha,35,0,54,61,12:57 PM,10,Toor dal, Urad dal, tamarind, Butter, Maida, ID Idli Dosa batter, Brinjal, berries, desert, Glue
+490323,Viishali,32,0,30,74,12:37 PM,10,Ragi flour, Toor dal, Urad dal, tamarind, jaggery, rawa, garlic, margarine, Milk, Maida
+490324,Priyanshu,26,1,30,64,12:57 PM,10,cream cheese, soft cheese, semi-finished bread, garlic, beverages, speciality bar, kit kat, Onion, Eggs, Tata salt
+490326,Visheesh R,37,1,47,96,12:57 PM,10,soya sauce, Venigar, chicken, spinach, oil, garlic, Potato, Tomato, Brinjal, Onion
+490327,Harika T,21,0,25,51,12:57 PM,10,apple, Banana, pastry, waffles, ID Idli Dosa batter, Tomato, Onion, berries, Tata salt, Pepper
+490331,Hareesh K,34,1,52,52,12:58 PM,10,brown rice, apple, Banana, beverages, Baking powder, Potato, Tomato, Eggs, desert, root vegetables
+490340,Mallesh T,34,1,43,62,12:57 PM,8,Dried yeast, apple, Banana, tamarind, jaggery, Potato, Tomato, Onion,,
+490341,Priyanka R,34,0,39,64,12:59 PM,10,Ragi flour, Toor dal, Urad dal, rawa, Wheat flour, Lion dates, candy, brown bread, Cadbury dairy milk chocolate36, Maida
+490342,Hari om,36,1,49,73,12:57 PM,10,Venigar, sausage, hamburger meat, chicken, spinach, oil, garlic, beverages, Milk, Butter
+490343,Shree sai,21,0,34,64,12:57 PM,8,spinach, oil, waffles, cake bar, speciality bar, kit kat, candy, Cadbury dairy milk chocolate36,,
+490344,Amala T,18,0,0,45,12:37 PM,7,pastry, waffles, speciality bar, kit kat, candy, berries, desert,,,
+490345,Ramesh K,29,1,27,47,12:37 PM,6,cream cheese, soft cheese, semi-finished bread, garlic, margarine, Lion dates,,,,
+490346,Naresh kumar,19,1,0,62,2:22 PM,10,Bread, Butter, Ghee, Wheat flour, Rice, Hair serum, Colgate toothpaste, Potato, Eggs, Tissue papers
+490347,Chapanu,24,1,32,100,3:36,10,Colgate toothbrush, Hair Conditioner, Tata salt, Sugar, Pepper, Tomato, Eggs, Paneer, Tissue papers, Glue
+490348,K NITHIN KUMAR GOUD,18,1,0,68,3:38,10,Bread, Fruit jam, Butter, Cheese, Deodrant, Hair Conditioner, shampoo, Paneer, Britannia GoodDay cashew biscuits, Britannia MarieGold biscuit
+490349,Nithin khan,18,1,0,75,3:40 PM,10,Milk, Bread, Fruit jam, Cheese, Ghee, Hair Gel, shampoo, Sugar, Onion, Tissue papers
+490350,Sudeep,24,1,13,70,3:40 PM,10,Bread, Fruit jam, Butter, Deodrant, Shaving foam, Hair Gel, Hair serum, Colgate toothpaste, Hair Conditioner, Tissue papers
+490351,Arya,21,1,41,60,15:42,10,Milk, Wheat flour, Rice, Colgate toothbrush, shampoo, Tata salt, Sugar, Onion, Eggs, Tissue papers
+490352,Manoj,20,1,0,90,3:44 PM,10,Fruit jam, Butter, Deodrant, Shaving foam, Hair Gel, Hair serum, Colgate toothpaste, Hair Conditioner, shampoo, Hair oil
+490353,Akanksha,45,0,50,27,3:30 PM,5,Rice, Tata salt, Pepper, Onion, Paneer,,,,,
+490354,shashank,20,1,0,73,7:24,10,Milk, Bread, Fruit jam, Butter, Cheese, Ghee, Wheat flour, Rice, Deodrant, Shaving foam
+490355,Madhav P,36,1,28,32,3:30 PM,5,Ghee, Wheat flour, Tata salt, Pepper, Potato,,,,,
+490356,Nageshwari,45,0,63,50,3:30 PM,6,Ghee, Rice, Brinjal, Tomato, Paneer, Tissue papers,,,,
+490358,Devarakonda Ganesh,22,1,16,26,4:13 PM,5,Milk, Fruit jam, Butter, Eggs, Paneer,,,,,
+490359,Sudeep,18,1,0,9,3:30 PM,1,Britannia cakes,,,,,,,,,
+490360,Sandeep,20,1,0,73,4:30 PM,10,Milk, Fruit jam, Deodrant, Hair Gel, Hair serum, shampoo, Hair oil, Onion, Brinjal, Tomato
+490361,Shivani,21,0,38,50,7:24,8,Bread, Butter, Cheese, Wheat flour, Tata salt, Sugar, Eggs, Paneer,,
+490362,Shalini,27,0,12,38,3:30 PM,6,Milk, Ghee, Wheat flour, Hair serum, Colgate toothpaste, Hair oil,,,,
+490363,Vinay,20,1,0,30,4:13 PM,4,Deodrant, Shaving foam, Hair Gel, Tissue papers,,,,,,
+490364,Sardar ali,24,1,57,66,4:30 PM,8,Milk, Bread, Wheat flour, Deodrant, Colgate toothbrush, shampoo, Britannia GoodDay cashew biscuits, Britannia MarieGold biscuit,,
+490365,Sandeep,17,1,0,69,16:34,9,Milk, Cheese, Wheat flour, Deodrant, Hair serum, shampoo, Eggs, Glue, Britannia MarieGold biscuit,
+490366,Sanjay,19,1,0,89,16:37,10,Milk, Bread, Fruit jam, Butter, Cheese, Wheat flour, Hair Gel, Hair serum, shampoo, Tata salt
+490367,Demon,18,1,0,70,17:00,10,Milk, Bread, Fruit jam, Butter, Rice, Deodrant, Colgate toothpaste, Colgate toothbrush, Lux soap, Hair Conditioner
+490368,Kowshik Chowdary,20,1,0,56,4:33 PM,10,Fruit jam, Butter, Cheese, Deodrant, Hair serum, Lux soap, Hair Conditioner, Onion, Eggs, Paneer
+490369,Amar,20,1,0,65,4:42,9,Milk, Fruit jam, Rice, Colgate toothpaste, Colgate toothbrush, Lux soap, shampoo, Tata salt, Sugar,
+490370,Aishwarya,20,0,0,61,4:44,9,Fruit jam, Hair Conditioner, shampoo, Hair oil, Tomato, Potato, Eggs, Tissue papers, Britannia cakes,
+490371,Asritha,18,0,0,75,2:47 PM,9,Deodrant, Hair serum, Hair Conditioner, shampoo, Hair oil, Glue, Britannia GoodDay cashew biscuits, Britannia MarieGold biscuit, Britannia cakes,
+490372,Akhil,20,1,0,71,8:00 PM,9,Milk, Bread, Wheat flour, Rice, Pepper, Onion, Brinjal, Tomato, Potato,
+490373,Laasya,26,0,53,76,4:47 PM,10,Bread, Ghee, Rice, Deodrant, Lux soap, Hair oil, Paneer, Tissue papers, Glue, Britannia GoodDay cashew biscuits
+490374,Ranjana,30,0,42,67,7:30 PM,9,Milk, Rice, Tata salt, Sugar, Onion, Brinjal, Tomato, Potato, Eggs,
+490375,Gonaboyina Manikanta Praneeth,19,1,0,96,2:00 PM,10,Milk, Bread, Fruit jam, Butter, Cheese, Ghee, Wheat flour, Rice, Deodrant, Shaving foam
+490376,Sachin,23,1,36,63,6:00 PM,9,Bread, Fruit jam, Butter, Cheese, Ghee, Hair Gel, Hair serum, Britannia GoodDay cashew biscuits, Britannia MarieGold biscuit,
+490377,Pavan,21,1,41,83,7:00 PM,10,Milk, Bread, Fruit jam, Butter, Rice, Lux soap, shampoo, Tomato, Potato, Eggs
+490378,Vyjayanthi,34,0,57,31,5:30 PM,6,Rice, Lux soap, Hair oil, Tata salt, Onion, Brinjal,,,,
+490379,Jayanthi,36,0,43,48,5:20 PM,7,Ghee, Wheat flour, Rice, Tata salt, Sugar, Pepper, Tomato,,,
+490380,anirudh I,19,1,0,45,5:20 PM,6,Milk, Bread, Tissue papers, Britannia GoodDay cashew biscuits, Britannia MarieGold biscuit, Britannia cakes,,,,
+490381,Karthikeya,28,1,33,43,5:20 PM,5,Milk, Bread, Fruit jam, Butter, Ghee,,,,,
+490382,Lavanya,35,0,21,64,5:20 PM,7,Ghee, Rice, Tata salt, Pepper, Onion, Brinjal, Paneer,,,
+490383,Tapaswini,38,0,64,69,5:20 PM,8,Butter, Ghee, Wheat flour, Tata salt, Sugar, Pepper, Potato, Eggs,,
+490384,Swathi R,34,0,55,40,5:20 PM,6,Milk, Bread, Fruit jam, Tomato, Potato, Eggs,,,,
+490385,Zaheer,30,1,35,60,5:20 PM,7,Deodrant, Shaving foam, Hair serum, shampoo, Hair oil, Britannia GoodDay cashew biscuits, Britannia MarieGold biscuit,,,
+490386,Priyanka E,25,0,54,47,5:25 PM,5,Colgate toothpaste, Colgate toothbrush, Lux soap, Hair Conditioner, Hair oil,,,,,
+490387,Sameena,32,0,38,46,5:20 PM,7,Wheat flour, Rice, Tata salt, Pepper, Onion, Tomato, Eggs,,,
+490388,Purushotham,35,1,28,45,5:20 PM,6,Bread, Fruit jam, Ghee, Wheat flour, Pepper, Onion,,,,
+490389,Sai,18,1,0,98,17:00,10,Butter, Ghee, Shaving foam, Hair Gel, Lux soap, shampoo, Sugar, Onion, Brinjal, Potato
+490390,Bhushan,36,1,44,51,5:20 PM,6,Rice, Tata salt, Tomato, Eggs, Paneer, Britannia GoodDay cashew biscuits,,,,
+490391,Sunny,17,1,0,68,5:20 PM,10,Milk, Butter, Ghee, Shaving foam, Hair Gel, Lux soap, shampoo, Tata salt, Eggs, Tissue papers
+490392,Pawan,29,1,28,63,17:09,10,Butter, Ghee, Rice, Hair Gel, Colgate toothbrush, Sugar, Tomato, Potato, Paneer, Tissue papers
+490393,Pavan,25,1,41,73,17:32,10,Bread, Butter, Cheese, Ghee, Rice, Shaving foam, Hair Gel, Hair serum, Colgate toothpaste, Hair Conditioner
+490394,Srikanth,19,1,0,79,17:02,10,Milk, Bread, Butter, Ghee, Shaving foam, Colgate toothpaste, Hair Conditioner, shampoo, Hair oil, Sugar
+490395,Kalyan varma,18,1,0,58,17:03,10,Milk, Butter, Ghee, Rice, Deodrant, Colgate toothbrush, Lux soap, Tomato, Potato, Tissue papers
+490396,Sanjay sahu,18,1,0,68,5:03 PM,10,Milk, Bread, Wheat flour, Rice, Deodrant, Shaving foam, Colgate toothpaste, Colgate toothbrush, shampoo, Hair oil
+490397,BhAAi,32,1,70,74,17:04,10,Bread, Fruit jam, Butter, Ghee, Wheat flour, Deodrant, Hair Gel, Colgate toothbrush, Hair Conditioner, Hair oil
+490398,Mabbu,23,1,17,86,17:04,10,Bread, Butter, Wheat flour, Rice, Tata salt, Sugar, Pepper, Brinjal, Eggs, Tissue papers
+490399,Narayana,18,1,0,32,5:04 PM,3,Britannia GoodDay cashew biscuits, Britannia MarieGold biscuit, Britannia cakes,,,,,,,
+490400,Pspk,23,1,40,91,17:05,10,Fruit jam, Butter, Ghee, Shaving foam, Lux soap, Hair oil, Sugar, Onion, Tomato, Potato
+490401,Vyshnav,38,1,33,57,5:20 PM,5,Bread, Fruit jam, Tata salt, Sugar, Eggs,,,,,
+490402,Zooka,34,1,39,74,11:35,10,Milk, Bread, Fruit jam, Butter, Cheese, Ghee, Wheat flour, Rice, Deodrant, Shaving foam
+490403,Jogendra,22,1,13,61,11:30,10,Milk, Bread, Fruit jam, Butter, Cheese, Ghee, Wheat flour, Britannia GoodDay cashew biscuits, Britannia MarieGold biscuit, Britannia cakes
+490404,mehboob,27,1,23,21,5:22 PM,4,Bread, Butter, Cheese, Eggs,,,,,,
+490405,Durga,21,1,39,78,17:06,10,Milk, Fruit jam, Cheese, Rice, Shaving foam, Hair serum, Colgate toothpaste, Colgate toothbrush, Hair Conditioner, Tata salt
+490408,Ram,27,1,68,50,17:07,10,Cheese, Wheat flour, Colgate toothpaste, Hair Conditioner, Tata salt, Onion, Eggs, Paneer, Tissue papers, Britannia MarieGold biscuit
+490430,Rolex,16,1,0,50,17:05,9,Bread, Ghee, Deodrant, Lux soap, Sugar, Onion, Brinjal, Eggs, Britannia cakes,
+490458,AAthu,33,1,53,75,17:04,10,Lux soap, Hair Conditioner, Hair oil, Tata salt, Sugar, Brinjal, Potato, Eggs, Paneer, Britannia GoodDay cashew biscuits
+490459,Pandi,54,1,76,79,17:08,10,shampoo, Hair oil, Tata salt, Pepper, Onion, Tomato, Eggs, Paneer, Glue, Britannia GoodDay cashew biscuits
+490460,Revathi,37,0,48,53,5:18 PM,5,Ghee, Rice, Onion, Brinjal, Tomato,,,,,
+490461,Rock,26,1,20,61,5:18 PM,10,Milk, Bread, Butter, Cheese, Ghee, Wheat flour, Deodrant, Shaving foam, Hair serum, Colgate toothbrush
+490462,sidnayak E,28,0,34,92,17:09,10,Bread, Fruit jam, Butter, Wheat flour, Deodrant, Hair Gel, Hair serum, Lux soap, shampoo, Sugar
+490463,Hemavani,32,0,71,31,5:18 PM,6,Cheese, Wheat flour, Tata salt, Onion, Potato, Paneer,,,,
+490464,Konda erripuk,45,1,50,99,5:18 PM,10,Milk, Fruit jam, Ghee, Wheat flour, Hair serum, Colgate toothbrush, shampoo, Hair oil, Pepper, Tomato
+490465,Durga R,34,1,32,63,5:18 PM,8,Ghee, Wheat flour, Deodrant, Shaving foam, Tata salt, Pepper, Onion, Tomato,,
+490466,Mohnish Gupta,19,1,0,75,5:09 PM,10,Milk, Bread, Rice, Deodrant, Colgate toothpaste, Colgate toothbrush, shampoo, Eggs, Britannia GoodDay cashew biscuits, Britannia cakes
+490467,Suresh,24,1,71,55,17:10,9,Hair oil, Pepper, Onion, Brinjal, Potato, Paneer, Tissue papers, Britannia MarieGold biscuit, Britannia cakes,
+490468,Sudha Rani,35,0,42,44,5:18 PM,6,Wheat flour, Rice, Brinjal, Tomato, Paneer, Tissue papers,,,,
+490469,Jyothirmai,29,0,40,37,5:18 PM,6,Bread, Butter, Cheese, Rice, Paneer, Britannia GoodDay cashew biscuits,,,,
+490470,Aravind,20,1,0,92,17:11,10,Bread, Butter, Wheat flour, Hair Gel, Hair Conditioner, Sugar, Onion, Tomato, Potato, Tissue papers
+490471,Rakesh,22,1,20,50,17:11,10,Hair oil, Sugar, Pepper, Brinjal, Tomato, Eggs, Tissue papers, Britannia GoodDay cashew biscuits, Britannia MarieGold biscuit, Britannia cakes
+490472,Keshava,35,1,27,43,5:18 PM,5,Bread, Fruit jam, Deodrant, Shaving foam, Hair serum,,,,,
+490473,Vijay,16,1,0,91,17:11,10,Colgate toothbrush, Lux soap, Hair oil, Sugar, Onion, Brinjal, Potato, Paneer, Tissue papers, Glue
+490474,Kalyan,32,1,30,41,17:11,6,Sugar, Onion, Brinjal, Tissue papers, Britannia GoodDay cashew biscuits, Britannia cakes,,,,
+490475,Raghu,26,1,73,63,5:12 PM,10,Wheat flour, Rice, Deodrant, Shaving foam, Hair Gel, Hair serum, Colgate toothpaste, Colgate toothbrush, Lux soap, Hair Conditioner
+490476,Padma,25,0,25,66,5:13 PM,10,Milk, Bread, Fruit jam, Butter, Cheese, Ghee, Wheat flour, Rice, Colgate toothpaste, Lux soap
+490477,Sunil,28,1,63,42,5:18 PM,7,Deodrant, Shaving foam, Hair Gel, Hair serum, Colgate toothbrush, Hair Conditioner, shampoo,,,
+490478,Aswini,20,0,0,77,5:13 PM,10,Deodrant, Hair serum, Colgate toothpaste, Colgate toothbrush, Lux soap, Hair Conditioner, shampoo, Hair oil, Paneer, Tissue papers
+490479,Ntr,70,1,68,73,5:13 PM,10,Tata salt, Sugar, Pepper, Onion, Brinjal, Tomato, Potato, Eggs, Paneer, Tissue papers
+490480,Vamsi,20,1,0,32,5:10 PM,3,Britannia GoodDay cashew biscuits, Britannia MarieGold biscuit, Britannia cakes,,,,,,,
+490481,Rolla,45,1,67,82,5:13 PM,10,Lux soap, shampoo, Hair oil, Tata salt, Sugar, Pepper, Brinjal, Potato, Paneer, Glue
+490482,Manoj,32,1,9,69,5:28 PM,10,shampoo, Hair oil, Tata salt, Pepper, Onion, Brinjal, Tomato, Potato, Eggs, Paneer
+490483,Venkat sai varma,20,1,0,16,5:28 PM,1,Milk,,,,,,,,,
+490484,Nithya sri,36,0,21,77,5:28 PM,10,Shaving foam, Hair Gel, Colgate toothpaste, Lux soap, Hair Conditioner, shampoo, Hair oil, Tata salt, Sugar, Onion
+490485,Nithin K,24,1,41,27,5:12 PM,5,Bread, Fruit jam, Deodrant, Shaving foam, Hair Gel,,,,,
+490486,Nithya,23,0,66,64,5:28 PM,10,Lux soap, Hair Conditioner, Hair oil, Tata salt, Pepper, Brinjal, Potato, Paneer, Tissue papers, Britannia GoodDay cashew biscuits
+490487,Supra,45,1,89,96,5:28 PM,10,Shaving foam, Hair serum, Colgate toothbrush, Lux soap, Hair Conditioner, Tata salt, Pepper, Tomato, Eggs, Paneer
+490488,Norah,32,0,6,73,5:28 PM,10,Milk, Bread, Wheat flour, Rice, Shaving foam, Hair Gel, Colgate toothpaste, Colgate toothbrush, Hair oil, Tata salt
+490489,Naresh,39,1,48,37,5:18 PM,6,Wheat flour, Rice, Tata salt, Sugar, Brinjal, Eggs,,,,
+490490,Yagnesh K,18,1,0,25,5:18 PM,5,Milk, Bread, Britannia GoodDay cashew biscuits, Britannia MarieGold biscuit, Britannia cakes,,,,,
+490491,Swaroop,21,1,20,37,5:18 PM,6,Deodrant, Shaving foam, Hair Gel, Colgate toothbrush, Hair Conditioner, Glue,,,,
+490492,Sai kumar,32,1,62,41,5:18 PM,5,Ghee, Wheat flour, Rice, Tomato, Eggs,,,,,
+490493,Nani,23,1,24,30,5:18 PM,6,Milk, Bread, Tata salt, Onion, Paneer, Tissue papers,,,,
+490494,Ankitha,37,0,47,37,5:18 PM,6,Hair oil, Tata salt, Sugar, Brinjal, Tomato, Paneer,,,,
+490495,Usha,32,0,40,55,5:18 PM,6,Bread, Fruit jam, Ghee, Wheat flour, Tomato, Paneer,,,,
+490496,Kranthi,27,0,66,47,5:15 PM,6,Bread, Fruit jam, Butter, Onion, Tomato, Eggs,,,,
+490497,Uma,25,0,38,33,5:28 PM,6,Deodrant, Hair Gel, Lux soap, Hair Conditioner, shampoo, Hair oil,,,,
+490498,Nagesh,27,1,31,27,5:18 PM,4,Milk, Bread, Deodrant, Shaving foam,,,,,,
+490499,Yamini,20,0,0,55,5:08 PM,7,Deodrant, Hair Gel, Hair serum, Colgate toothbrush, Lux soap, Britannia GoodDay cashew biscuits, Britannia MarieGold biscuit,,,
+490500,Charitha,35,0,51,50,5:08 PM,5,Ghee, Wheat flour, Onion, Potato, Paneer,,,,,
+490501,Supraja,24,0,46,49,5:18 PM,6,Milk, Bread, Fruit jam, Potato, Eggs, Tissue papers,,,,
+490502,Devi sree,26,0,8,44,5:28 PM,8,Cheese, Rice, Deodrant, Hair Gel, Colgate toothpaste, Colgate toothbrush, Britannia GoodDay cashew biscuits, Britannia MarieGold biscuit,,
+490503,Manoj,19,1,0,54,5:18 PM,9,Milk, Bread, Fruit jam, Colgate toothpaste, shampoo, Paneer, Britannia GoodDay cashew biscuits, Britannia MarieGold biscuit, Britannia cakes,
+490504,Bhavana S,28,0,46,30,5:15 PM,6,Bread, Fruit jam, Tata salt, Pepper, Onion, Potato,,,,
+490505,Sourya,32,0,62,32,5:21 PM,6,Rice, Tata salt, Pepper, Onion, Tomato, Paneer,,,,
+490506,Bharath,44,1,52,43,5:38 PM,5,Bread, Wheat flour, Tomato, Eggs, Paneer,,,,,
+490507,Nithish,23,1,6,55,5:11 PM,6,Bread, Fruit jam, Glue, Britannia GoodDay cashew biscuits, Britannia MarieGold biscuit, Britannia cakes,,,,
+490508,Chetan,26,1,5,42,5:17 PM,6,Deodrant, Shaving foam, Hair Gel, shampoo, Tissue papers, Britannia GoodDay cashew biscuits,,,,
+490509,Mujahid,32,1,45,27,5:18 PM,4,Ghee, Rice, Onion, Paneer,,,,,,
+490510,Shravani,23,0,32,43,5:18 PM,6,Ghee, Rice, Tata salt, Pepper, Onion, Tomato,,,,
+490511,Karna,32,1,29,32,5:18 PM,4,Bread, Fruit jam, Butter, Eggs,,,,,,
+490512,K Jahnavi,20,0,0,47,4:56 PM,7,Deodrant, Hair Gel, Hair serum, Lux soap, Hair Conditioner, shampoo, Britannia MarieGold biscuit,,,
+490513,FILMYDOPE,69,1,53,58,5:18 PM,6,Cheese, Hair serum, Lux soap, Sugar, Brinjal, Tissue papers,,,,
+490514,Sowmya,24,0,19,40,5:24 PM,6,Bread, Fruit jam, Tomato, Potato, Eggs, Paneer,,,,
+490515,rehana,32,0,67,58,5:12 PM,7,Ghee, Wheat flour, Rice, Tata salt, Pepper, Onion, Tomato,,,
+490516,Ganesh,18,1,0,21,5:18 PM,3,Milk, Bread, Onion,,,,,,,
+490517,Gnanesh,23,1,25,29,5:18 PM,5,Milk, Bread, Fruit jam, Potato, Eggs,,,,,
+490518,Sagar K,32,1,40,34,5:28 PM,6,Bread, Fruit jam, Deodrant, Shaving foam, Britannia GoodDay cashew biscuits, Britannia MarieGold biscuit,,,,
+490519,Usman,33,1,41,34,5:48 PM,5,Butter, Ghee, Wheat flour, Tomato, Paneer,,,,,
+490520,Chaitanya,25,0,72,42,5:18 PM,5,Colgate toothpaste, Lux soap, Hair Conditioner, shampoo, Hair oil,,,,,
+490521,Chumki,17,0,0,24,5:18 PM,4,Milk, Britannia GoodDay cashew biscuits, Britannia MarieGold biscuit, Britannia cakes,,,,,,
+490522,Vinay,23,1,14,29,5:33 PM,5,Bread, Butter, Ghee, Tomato, Eggs,,,,,
+490523,Hrithik,32,1,37,22,5:33 PM,4,Bread, Fruit jam, Britannia GoodDay cashew biscuits, Britannia MarieGold biscuit,,,,,,
+490524,Harshith,18,1,0,64,5:37,9,Butter, Wheat flour, Rice, Tomato, Potato, Eggs, Paneer, Britannia GoodDay cashew biscuits, Britannia cakes,
+490525,Vignesh,33,1,49,28,4:18 PM,4,Colgate toothpaste, Colgate toothbrush, shampoo, Hair oil,,,,,,
+490526,Varsha,17,1,0,50,5:38,10,Bread, Fruit jam, Butter, Cheese, Hair Gel, Lux soap, Hair Conditioner, shampoo, Hair oil, Eggs
+490527,Saranya,32,0,19,48,5:18 PM,6,Ghee, Wheat flour, Rice, Onion, Tomato, Paneer,,,,
+490528,Laya sri,32,0,30,54,5:58 PM,6,Butter, Ghee, Wheat flour, Tata salt, Sugar, Tomato,,,,
+490529,Karanam M,32,0,44,31,5:16 PM,5,Rice, Tata salt, Pepper, Tomato, Paneer,,,,,
+490530,Chetana L,54,0,75,36,5:55 PM,5,Rice, Onion, Potato, Eggs, Paneer,,,,,
+490531,Harshini K,32,0,42,33,5:48 PM,6,Ghee, Wheat flour, Rice, Eggs, Paneer, Tissue papers,,,,
+490532,Krithika,34,0,60,34,5:38 PM,6,Milk, Bread, Fruit jam, Butter, Tomato, Eggs,,,,
+490533,Ishu,15,0,0,27,5:14 PM,5,Tissue papers, Glue, Britannia GoodDay cashew biscuits, Britannia MarieGold biscuit, Britannia cakes,,,,,
+490534,sarojini,34,0,59,36,5:58 PM,5,Milk, Fruit jam, Wheat flour, Glue, Britannia MarieGold biscuit,,,,,
+490535,Indira N,54,0,78,53,5:48 PM,7,Milk, Bread, Fruit jam, Butter, Ghee, Wheat flour, Tissue papers,,,
+490536,Priyanka G,34,0,51,50,5:48 PM,7,Butter, Cheese, Wheat flour, Pepper, Onion, Tomato, Paneer,,,
+490537,Swapna,23,0,6,53,5:13 PM,6,Milk, Bread, Fruit jam, Butter, Onion, Tomato,,,,
+490538,Joneshwar,33,1,42,40,5:18 PM,6,Shaving foam, Hair Gel, Hair serum, Colgate toothpaste, Colgate toothbrush, Hair oil,,,,
+490539,Rupa,34,0,55,52,5:38 PM,6,Ghee, Rice, Tata salt, Sugar, Pepper, Potato,,,,
+490540,Vasavi,41,0,41,56,5:58 PM,8,Milk, Bread, Butter, Rice, Eggs, Paneer, Britannia GoodDay cashew biscuits, Britannia MarieGold biscuit,,
+490541,bhargavi,34,0,49,30,5:18 PM,4,Ghee, Wheat flour, Tomato, Eggs,,,,,,
+490542,Kavya Patil,43,0,45,55,3:18 PM,6,Colgate toothpaste, Colgate toothbrush, Lux soap, Tata salt, Pepper, Onion,,,,
+490543,Supriya,25,0,58,50,5:11 PM,5,Milk, Bread, Fruit jam, Britannia GoodDay cashew biscuits, Britannia MarieGold biscuit,,,,,
+490544,Sita ram,23,1,73,52,5:18 PM,6,Deodrant, Shaving foam, Hair Gel, Hair serum, Hair Conditioner, shampoo,,,,
+490545,Pranav,23,0,44,40,5:20 PM,6,Deodrant, Shaving foam, Hair Gel, Hair Conditioner, Britannia GoodDay cashew biscuits, Britannia MarieGold biscuit,,,,
+490547,Manisha,23,0,44,61,5:04 PM,8,Deodrant, Hair Gel, Hair serum, Lux soap, Hair Conditioner, shampoo, Britannia GoodDay cashew biscuits, Britannia MarieGold biscuit,,
+490548,Abhishek,25,1,7,40,5:28 PM,5,Milk, Bread, Fruit jam, Potato, Eggs,,,,,
+490557,Abhiram,27,1,23,34,5:19 PM,6,Bread, Fruit jam, Butter, Britannia GoodDay cashew biscuits, Britannia MarieGold biscuit, Britannia cakes,,,,
+490561,Srikanth,34,1,46,41,4:18 PM,5,Bread, Butter, Cheese, Wheat flour, Paneer,,,,,
+490563,Hemavani G,43,0,47,60,5:14 PM,7,Ghee, Wheat flour, Rice, Tata salt, Pepper, Onion, Brinjal,,,
+490564,laya I,20,0,0,26,5:18 PM,4,Tissue papers, Glue, Britannia GoodDay cashew biscuits, Britannia MarieGold biscuit,,,,,,
+490565,shanthi,34,0,32,49,5:58 PM,7,Butter, Ghee, Wheat flour, Rice, Pepper, Tomato, Paneer,,,
+490566,Sidh,23,1,61,55,5:15 PM,6,Milk, Bread, Deodrant, Shaving foam, Britannia GoodDay cashew biscuits, Britannia MarieGold biscuit,,,,
+490569,riyaz,23,1,51,35,5:18 PM,4,Deodrant, Shaving foam, Hair Gel, Hair serum,,,,,,
+490577,shrivani,35,0,36,50,5:58 PM,5,Tata salt, Onion, Brinjal, Tomato, Eggs,,,,,
+490603,Prasanna,20,0,0,29,5:20 PM,4,Tomato, Paneer, Britannia GoodDay cashew biscuits, Britannia MarieGold biscuit,,,,,,
+490604,Keerthi N,23,0,47,27,6:04 PM,5,Cheese, Wheat flour, Sugar, Pepper, Paneer,,,,,
+490605,Nithesh,23,1,60,24,6:02 PM,3,Milk, Bread, Eggs,,,,,,,
+490606,SONTI NAGARAJU,19,1,0,60,6:05,10,Milk, Bread, Fruit jam, Butter, Hair Gel, Colgate toothpaste, Lux soap, Hair oil, Tata salt, Sugar
+490607,chintakayalaravindra,18,1,0,33,6:05 PM,6,Milk, Bread, Fruit jam, Butter, Ghee, Rice,,,,
+490608,Preeti,27,0,39,59,7:30 PM,9,Milk, Bread, Fruit jam, Butter, Cheese, Ghee, Wheat flour, Rice, Deodrant,
+490609,Bella,34,0,39,30,6:04 PM,4,Bread, Fruit jam, Britannia GoodDay cashew biscuits, Britannia MarieGold biscuit,,,,,,
+490610,Rathi,22,0,17,68,6:21 PM,9,Tomato, Potato, Eggs, Paneer, Tissue papers, Glue, Britannia GoodDay cashew biscuits, Britannia MarieGold biscuit, Britannia cakes,
+490611,Deltin,28,1,53,75,6:56 PM,9,Butter, Cheese, Ghee, Deodrant, Shaving foam, Hair Gel, Lux soap, Hair Conditioner, shampoo,
+490612,Abijith,30,1,74,65,9:23 AM,9,Colgate toothbrush, Lux soap, Hair Conditioner, Hair oil, Tata salt, Sugar, Tomato, Potato, Eggs,
+490613,Alan,24,1,5,54,11:15 AM,9,Shaving foam, Hair Gel, Hair serum, Colgate toothpaste, Colgate toothbrush, Lux soap, Sugar, Pepper, Onion,
+490616,Rajkumar,17,1,0,59,18:13,8,Milk, Bread, Fruit jam, Butter, Cheese, Hair Gel, Hair Conditioner, Paneer,,
+490618,Keerthi,21,0,6,57,8:23 PM,8,Fruit jam, Butter, Ghee, Wheat flour, Hair serum, Colgate toothpaste, Colgate toothbrush, Lux soap,,
+490625,Ashi,26,1,44,70,7:24 PM,9,Cheese, Ghee, Wheat flour, Rice, Colgate toothpaste, Colgate toothbrush, Lux soap, Hair Conditioner, Tata salt,
+490636,Kavitha,37,0,48,65,9:23 PM,9,Shaving foam, Hair Gel, Hair serum, Colgate toothpaste, Colgate toothbrush, Lux soap, Hair Conditioner, shampoo, Hair oil,
+490637,TENTU VINAY KUMAR,18,1,0,80,6:16,10,Milk, Butter, Ghee, Rice, Colgate toothpaste, Colgate toothbrush, Lux soap, Hair Conditioner, shampoo, Hair oil
+490638,Selvi,45,0,42,73,12:35 PM,9,Deodrant, Shaving foam, Hair Gel, Hair serum, Colgate toothpaste, Colgate toothbrush, Lux soap, Hair Conditioner, shampoo,
+490640,Varun,22,1,24,16,7:24,1,Colgate toothpaste,,,,,,,,,
+490641,Kowsi,36,0,23,71,5:30 PM,9,Fruit jam, Butter, Cheese, Wheat flour, Deodrant, Hair serum, Hair Conditioner, Eggs, Glue,
+490642,Jay,33,1,41,16,7:30,1,Fruit jam,,,,,,,,,
+490653,Bharath,43,1,69,56,6:56 PM,9,Hair serum, Colgate toothpaste, Colgate toothbrush, Lux soap, Hair Conditioner, shampoo, Hair oil, Tata salt, Sugar,
+490657,Bharathi,34,1,24,75,6:30 PM,10,Milk, Fruit jam, Butter, Ghee, Deodrant, Hair serum, Colgate toothbrush, Eggs, Britannia GoodDay cashew biscuits, Britannia cakes
+490659,Appalaraju,29,1,32,90,10:34,10,Fruit jam, Cheese, Ghee, Hair serum, Colgate toothbrush, Lux soap, Hair Conditioner, Hair oil, Sugar, Pepper
+490665,Snima,25,0,11,67,8:20 PM,9,Colgate toothpaste, Colgate toothbrush, Lux soap, Hair Conditioner, shampoo, Hair oil, Tata salt, Sugar, Pepper,
+490666,Seetha,34,0,25,27,6:04 PM,4,Potato, Paneer, Britannia GoodDay cashew biscuits, Britannia MarieGold biscuit,,,,,,
+490667,Sneesha,31,0,59,62,7:29 AM,9,Hair Gel, Hair serum, Colgate toothpaste, Colgate toothbrush, shampoo, Hair oil, Tata salt, Sugar, Onion,
+490668,Bhavya Irugula,20,0,0,72,7:24,9,Bread, Butter, Wheat flour, Rice, Deodrant, Colgate toothpaste, Sugar, Tissue papers, Britannia MarieGold biscuit,
+490669,Sneena,19,0,0,72,5:55 PM,9,Hair Gel, Hair serum, Colgate toothpaste, Colgate toothbrush, Tata salt, Sugar, Pepper, Onion, Tissue papers,
+490670,Monica,58,0,82,97,8:30 PM,10,Milk, Fruit jam, Cheese, Rice, Hair Gel, Lux soap, shampoo, Tata salt, Sugar, Pepper
+490671,Olivia,43,0,59,30,6:03 PM,4,Milk, Bread, Potato, Paneer,,,,,,
+490672,Varshni,56,0,46,100,5:45 PM,10,Milk, Bread, Butter, Rice, Deodrant, Hair serum, Colgate toothpaste, Lux soap, shampoo, Hair oil
+490673,Sree,18,0,0,66,6:54 PM,8,Rice, Deodrant, Shaving foam, Hair Gel, Colgate toothpaste, Colgate toothbrush, Lux soap, Hair Conditioner,,
+490674,Geetha,32,0,49,39,6:14 PM,5,Ghee, Wheat flour, Pepper, Onion, Tomato,,,,,
+490675,Manosh,32,0,28,72,6:34 PM,9,Hair oil, Sugar, Pepper, Onion, Brinjal, Tomato, Potato, Eggs, Paneer,
+490676,Gokul,27,1,74,57,7:29 AM,9,Shaving foam, Hair Gel, Hair serum, Colgate toothpaste, Colgate toothbrush, Lux soap, Hair Conditioner, shampoo, Hair oil,
+490677,Rahman,56,1,70,50,2:43 PM,9,Hair Gel, Hair serum, Colgate toothpaste, Colgate toothbrush, Lux soap, shampoo, Hair oil, Tata salt, Sugar,
+490678,Sampath,56,1,60,70,8:56 PM,9,Hair Gel, Hair serum, Colgate toothpaste, Colgate toothbrush, Tata salt, Sugar, Pepper, Onion, Brinjal,
+490679,Suresh Babu,45,1,71,75,4:23 PM,8,Tata salt, Sugar, Pepper, Onion, Tissue papers, Glue, Britannia GoodDay cashew biscuits, Britannia MarieGold biscuit,,
+490680,Vandhana,32,0,26,75,3:23 PM,9,shampoo, Hair oil, Tata salt, Sugar, Tomato, Potato, Eggs, Paneer, Tissue papers,
+490681,Ruthwika,17,0,0,30,6:07 PM,3,Shaving foam, Colgate toothpaste, Colgate toothbrush,,,,,,,
+490682,Aabid,21,1,9,23,6:32 PM,4,Milk, Bread, Eggs, Britannia MarieGold biscuit,,,,,,
+490683,Vakula,23,0,13,28,6:24 PM,5,Ghee, Wheat flour, Pepper, Onion, Tomato,,,,,
+490684,Yogamathi,25,0,11,71,6:34 PM,9,Hair Conditioner, shampoo, Hair oil, Tata salt, Sugar, Pepper, Onion, Brinjal, Tomato,
+490685,Likitha O,43,0,51,38,6:14 PM,5,Ghee, Wheat flour, Rice, Tomato, Eggs,,,,,
+490686,Sakthi,22,1,27,61,6:36 PM,8,Wheat flour, Rice, Hair serum, Colgate toothbrush, Tissue papers, Glue, Britannia GoodDay cashew biscuits, Britannia MarieGold biscuit,,
+490687,Thara,45,0,69,51,6:35 PM,9,Tata salt, Sugar, Pepper, Onion, Brinjal, Tomato, Potato, Eggs, Paneer,
+490688,Renuka,32,0,40,51,6:36 PM,6,Butter, Cheese, Sugar, Onion, Brinjal, Eggs,,,,
+490689,Karthi,26,1,27,67,6:37 PM,8,Milk, Bread, Butter, Colgate toothpaste, Colgate toothbrush, Onion, Brinjal, Tomato,,
+490690,Keerthi,20,0,0,85,6:36 PM,10,Fruit jam, Butter, Wheat flour, Deodrant, Hair Gel, Colgate toothpaste, Colgate toothbrush, Lux soap, shampoo, Hair oil
+490691,Madhamika,25,0,75,46,10:30 AM,6,Milk, Bread, Fruit jam, Butter, Britannia GoodDay cashew biscuits, Britannia MarieGold biscuit,,,,
+490692,Viany,19,1,0,73,18:53,9,Butter, Cheese, Wheat flour, Deodrant, Onion, Eggs, Paneer, Britannia GoodDay cashew biscuits, Britannia cakes,
+490693,Yagnesh,19,1,0,59,6:55,9,Milk, Fruit jam, Wheat flour, Rice, Lux soap, Hair Conditioner, Hair oil, Sugar, Eggs,
+490694,Anamika,28,0,59,37,1:30 PM,6,Bread, Fruit jam, Rice, Pepper, Onion, Tomato,,,,
+490695,Kamitha,34,0,46,33,1:30 PM,6,Ghee, Wheat flour, Rice, Tomato, Potato, Eggs,,,,
+490697,Medha,17,0,0,29,1:30 PM,4,Eggs, Britannia GoodDay cashew biscuits, Britannia MarieGold biscuit, Britannia cakes,,,,,,
+490698,Sai,17,1,0,46,9:09,6,Cheese, shampoo, Hair oil, Potato, Paneer, Britannia cakes,,,,
+490699,Sai Ganesh,21,1,20,22,7:14,3,Milk, Bread, Fruit jam,,,,,,,
+490700,Srihari,17,1,0,61,6:36 PM,10,Milk, Bread, Fruit jam, Butter, Cheese, Ghee, Wheat flour, Rice, Deodrant, Shaving foam
+490701,K sai akhil,20,1,0,50,7:24,9,Milk, Bread, Fruit jam, Butter, Cheese, Ghee, Wheat flour, Rice, Hair oil,
+490702,Mahi,20,0,0,93,7:29,10,Milk, Bread, Fruit jam, Butter, Cheese, Ghee, Wheat flour, Rice, Deodrant, Hair Gel
+490703,Anipeddi Lokesh,18,1,0,74,7:46 PM,10,Milk, Bread, Fruit jam, Rice, Deodrant, Hair Gel, Hair Conditioner, Onion, Potato, Britannia GoodDay cashew biscuits
+490704,Adarsh,21,1,8,52,19:45,7,Bread, Hair serum, Colgate toothpaste, shampoo, Britannia GoodDay cashew biscuits, Britannia MarieGold biscuit, Britannia cakes,,,
+490705,Praveen,23,1,52,65,7:50,9,Milk, Bread, Butter, Cheese, Ghee, Lux soap, Hair Conditioner, shampoo, Britannia cakes,
+490706,Jagruti muthyala,21,0,22,98,18:30,10,Milk, Bread, Fruit jam, Cheese, Deodrant, Shaving foam, Hair Gel, Hair serum, Hair Conditioner, Tissue papers
+490707,Anjali jain,21,0,6,74,17:40,10,Milk, Bread, Ghee, Lux soap, shampoo, Hair oil, Sugar, Pepper, Onion, Brinjal
+490708,Arif,24,1,23,86,19:55,10,Milk, Bread, Fruit jam, Butter, Cheese, Ghee, Shaving foam, Hair Gel, Hair serum, Hair Conditioner
+490709,A: Ajay,25,1,12,20,11:30,1,Milk,,,,,,,,,
+490710,Chris,19,1,0,34,9:17 PM,3,Milk, Bread, Fruit jam,,,,,,,
+490711,Karthik,19,1,0,67,9:17 PM,10,Milk, Bread, Fruit jam, Butter, Cheese, Ghee, Rice, Potato, Eggs, Paneer
+490712,Sai Charan,19,1,0,59,9:24,7,Fruit jam, Colgate toothpaste, shampoo, Hair oil, Britannia GoodDay cashew biscuits, Britannia MarieGold biscuit, Britannia cakes,,,
+490713,Spider-Man,17,1,0,78,9:17 PM,10,Bread, Fruit jam, Deodrant, Hair Gel, Hair serum, Colgate toothpaste, Colgate toothbrush, Hair Conditioner, shampoo, Hair oil
+490714,Gokul,22,1,35,61,10:20 PM,10,Milk, Bread, Fruit jam, Butter, Cheese, Hair oil, Onion, Potato, Eggs, Britannia GoodDay cashew biscuits
+490715,Arjun,22,1,33,78,11:00 PM,10,Bread, Fruit jam, Wheat flour, Rice, Deodrant, Colgate toothpaste, Colgate toothbrush, Lux soap, Hair Conditioner, shampoo
+490716,Muneeswar,22,1,33,61,9:17 PM,10,Milk, Bread, Fruit jam, Butter, Cheese, Ghee, Wheat flour, shampoo, Hair oil, Britannia GoodDay cashew biscuits
+490717,Hruthik,19,1,0,88,9:17 PM,10,Milk, Bread, Fruit jam, Butter, Cheese, Ghee, Wheat flour, Rice, Deodrant, Shaving foam
+490718,Isha,22,0,39,56,12:00 PM,7,Bread, Fruit jam, Cheese, Lux soap, Hair Conditioner, shampoo, Tissue papers,,,
+490719,Rasajna,20,0,0,40,8:47,6,Bread, Deodrant, Hair Conditioner, shampoo, Hair oil, Sugar,,,,
+490720,Md Aasif ,18,1,0,83,9:26 PM,10,Milk, Bread, Fruit jam, Butter, Cheese, Ghee, Wheat flour, Rice, Deodrant, Shaving foam
+490721,I Hymavathi ,40,0,51,73,12:54 PM,10,Milk, Bread, Wheat flour, Rice, Colgate toothbrush, Lux soap, Hair oil, Tata salt, Sugar, Brinjal
+490722,Aasish N,26,1,71,46,9:24 AM,5,Deodrant, Shaving foam, Colgate toothpaste, Colgate toothbrush, shampoo,,,,,
+490723,Aelin jain,17,0,0,27,11:21 AM,5,Deodrant, Hair serum, Hair Conditioner, shampoo, Britannia cakes,,,,,
+490724,Mohasina Shaik,24,0,53,25,11:05 AM,4,Cellotape,oil,hamburger meat,honey,,,,,,
+490725,Balu,23,1,21,41,10:50 AM,7,Bread, Cheese, Sugar, Eggs, Tissue papers, Britannia GoodDay cashew biscuits, Britannia cakes,,,
+490726,Varshitha N,28,0,67,43,12:35 PM,6,Wheat flour, Rice, Tata salt, Sugar, Pepper, Onion,,,,
+490727,Pawan,21,1,12,29,2:46 PM,5,Milk, Bread, Fruit jam, Butter, Cheese,,,,,
+490728,Anusha,35,0,60,27,10:11 AM,4,Bread, Butter, Cheese, Eggs,,,,,,
+490733,Kanika,32,0,34,65,12:45 PM,8,Ghee, Wheat flour, Rice, Tata salt, Pepper, Onion, Tomato, Tissue papers,,
+490734,sahith K,32,1,17,48,10:46 AM,5,Rice, Tata salt, Pepper, Onion, Paneer,,,,,
+490735,Sandeep,28,1,65,38,12:10 PM,6,Butter, Wheat flour, Brinjal, Tomato, Potato, Tissue papers,,,,
+490736,parathvi,29,0,43,46,1:45 PM,6, Wheat flour, Lux soap,Vanilla Essence,Yogurt,Mushroom,Marshmellos,,,,
+490737,Kanya,32,0,33,45,5:15 PM,5,coco cola,Cellotape,Glue,snickers,kinder joy,,,,,
+490738,Akhila Petrova,41,0,65,58,7:34 PM,5,Ice cream,Glue,snickers, Colgate toothpaste, Colgate toothbrush,,,,,
+490739,Virat,35,1,52,43,10:45 AM,7,Mushroom, Butter, Ghee, Wheat flour, Onion, Eggs, Paneer,,,
+490740,Sathwika,21,0,15,49,2:40 PM,6,Milk, Bread, Fruit jam, Butter, Cheese, Ghee,,,,
+490741,Deepika,19,0,0,67,4:03 PM,9,Milk, Bread, Cheese, Ghee, Deodrant, Hair serum, Hair Conditioner, shampoo, Britannia cakes,
+490742,paramveer,56,1,45,65,9:30 PM,8,Glue,Vinegar,beef,dessert,spread cheese,brown bread,berries,root vegetables,,
+490743,Surya teja,26,1,42,50,1:30 PM,5,Bread, Fruit jam, Butter, Britannia GoodDay cashew biscuits, Britannia MarieGold biscuit,,,,,
+490744,Vijay narayan,35,1,57,37,5:52 PM,5,Rice, Tomato, Potato, Eggs, Britannia GoodDay cashew biscuits,,,,,
+490745,Prasad,20,1,0,47,9:09 AM,6,Milk, Rice, Onion, Brinjal, Eggs, Potato,,,,
+490746,Siddharthan ,26,1,32,53,12:24 PM,10,Milk, Wheat flour, Tata salt, Onion, Brinjal, Tomato, Potato, Eggs, Britannia GoodDay cashew biscuits, Britannia MarieGold biscuit
+490747,Rakesh,26,1,6,37,2:48 PM,6,Brinjal, Tomato, Potato, Eggs,Peanut butter,Vanilla Essence,,,,
+490748,Rosé dyanne,32,0,15,59,1:05 PM,9,Milk, Tata salt, Sugar, Pepper, Onion, Brinjal, Tomato, Potato, Eggs,
+490749,Rishika,20,0,0,25,9:23 AM,5,Lux soap, shampoo, Hair oil, Tissue papers, Glue,,,,,
+490750,Ross Geller,36,1,23,48,9:30 AM,7,Milk, Bread, Sugar, Tomato, Paneer, Britannia GoodDay cashew biscuits, Britannia MarieGold biscuit,,,
+490751,Gowthami,35,0,48,50,10:25 AM,6,Rice, Tata salt, Onion, Brinjal, Tomato, Tissue papers,,,,
+490752,nagaraj,35,1,39,42,10:47 AM,5,Bread, Eggs, Britannia GoodDay cashew biscuits, Britannia MarieGold biscuit, Britannia cakes,,,,,
+490753,Ajay,22,1,16,10,2:14 PM,1,Britannia cakes,,,,,,,,,
+490754,Louis Tomlinson ,32,1,46,32,7:28 PM,3,Cheese, Tissue papers, Britannia cakes,,,,,,,
+490755,parbha,38,0,48,58,11:02 PM,7, Fruit jam, Shaving foam,Peanut butter,Ice cream,Marshmellos,waffles,candy,,,
+490756,Sachin,21,1,11,26,12:52 PM,5,Deodrant, Shaving foam, Hair serum, Colgate toothpaste, shampoo,,,,,
+490757,Sahithi,28,0,60,33,10:46 AM,6,Bread, Fruit jam, Rice, Pepper, Onion, Brinjal,,,,
+490758,Prem K,32,1,21,48,9:33 AM,5,Tata salt, Onion, Potato, Eggs, Paneer,,,,,
+490759,K:Likitha,18,0,0,54,10:50 AM,8,Bread, Cheese, Hair serum, Tissue papers, Glue, Britannia GoodDay cashew biscuits, Britannia MarieGold biscuit, Britannia cakes,,
+490760,Charan,23,1,60,52,13:45,10,Bread, Butter, Cheese, Wheat flour, Hair Conditioner, Onion, Tomato, Eggs, Paneer, Tissue papers
+490761,Jyothi,20,0,0,47,10:11 AM,6,Milk, Bread, Butter, Cheese, Ghee, Eggs,,,,
+490762,Lakhsya,27,1,15,51,12:56 PM,7,Deodrant, Shaving foam, Hair Gel, Hair Conditioner, shampoo, Britannia GoodDay cashew biscuits, Britannia cakes,,,
+490763,K:kadheera kushi ,20,0,0,59,9:57 AM,8,Milk, Bread, Fruit jam, Cheese, Hair Conditioner, Paneer, Britannia GoodDay cashew biscuits, Britannia cakes,,
+490764,Rakesh,15,1,0,47,10:18 AM,8,Britannia GoodDay cashew biscuits, Britannia MarieGold biscuit, Britannia cakes,beef,dessert,spread cheese,brown bread,berries,,
+490765,Rajeshwar,34,1,58,45,9:30 PM,7,Ghee, Wheat flour, Tata salt, Pepper, Onion, Tomato, Paneer,,,
+490766,parbhudayal,42,1,57,54,9:56 PM,5,Chilly powder,Chelate shake,pastry,frozen vegetables,Everyuth face scrub,,,,,
+490767,Akhil Yadav,49,1,49,49,12:56 PM,6,detergent,chicken,Butter,pasta,Banana,Ragi flour,,,,
+490768,Dasari Badrinath,20,1,0,81,9:24 PM,10,Milk, Bread, Fruit jam, Butter, Cheese, Ghee, Deodrant, Hair Gel, Colgate toothpaste, Colgate toothbrush
+490769,Prithvi,37,1,46,51,11:00 AM,9,Bread, Fruit jam, Wheat flour, Rice, Shaving foam, Hair serum, Tata salt, Sugar, Onion,
+490770,Vijay ,20,1,0,63,11:56 PM,10,Milk, Bread, Fruit jam, Cheese, Wheat flour, Rice, Deodrant, Hair Gel, Colgate toothpaste, shampoo
+490773,Amara,29,0,35,39,12:20 PM,6,Rice, Tata salt, Brinjal, Tomato, Potato, Eggs,,,,
+490782,KONGARAPU:SUJATHA,18,0,0,52,7:40 PM,7,Bread, Fruit jam, Colgate toothpaste, Colgate toothbrush, Lux soap, shampoo, Hair oil,,,
+490785,N: DIVIJAA REDDY,20,0,0,54,8:58 PM,8,Bread, Hair serum, Colgate toothbrush, shampoo, Potato, Eggs, Paneer, Glue,,
+490786,Hemanth,21,1,12,26,2:47 PM,5,Hair Gel, Hair serum, Hair Conditioner, shampoo, Hair oil,,,,,
+490789,Zade meadows ,14,1,0,38,10:45 AM,6,Bread, Fruit jam, Glue, Britannia GoodDay cashew biscuits, Britannia MarieGold biscuit, Britannia cakes,,,,
+490796,Aadhya,21,1,11,43,5:20 PM,7,Bread, Butter, Cheese, Tata salt, Onion, Tomato, Eggs,,,
+490797,Aadi,24,1,31,31,10:20 AM,3,Wheat flour, Potato, Eggs,,,,,,,
+490798,Aarav zaheer,39,0,33,53,10:20 AM,6,Rice, Tata salt, Onion, Brinjal, Tomato, Eggs,,,,
+490799,Abhiram,28,0,65,38,10:55 AM,5,Bread, Fruit jam, Onion, Tomato, Eggs,,,,,
+490800,Abhishek,30,0,17,22,10:55 AM,4,Deodrant, Lux soap, shampoo, Britannia cakes,,,,,,
+490801,Advith,35,0,23,31,10:45 AM,5,Rice, Tata salt, Pepper, Onion, Brinjal,,,,,
+490802,Affan S,45,1,85,45,11:55 AM,5,Milk, Sugar, Eggs, Paneer, Tissue papers,,,,,
+490803,Arun Nithin,25,1,56,34,10:45 AM,5,Deodrant, Shaving foam, Hair Gel, Hair serum, Hair Conditioner,,,,,
+490804,Anasuya,32,1,54,26,10:24 AM,4,Milk, Bread, Fruit jam, Eggs,,,,,,
+490805,Anvika Arora,23,1,17,59,10:50 AM,7,Bread, Cheese, Sugar, Eggs, Tissue papers, Britannia GoodDay cashew biscuits, Britannia cakes,,,
+490806,Avani,19,1,0,37,10:55 AM,6,Milk, Bread, Fruit jam, Britannia GoodDay cashew biscuits, Britannia MarieGold biscuit, Britannia cakes,,,,
+490807,Avanthesh,28,1,73,37,10:15 AM,6,Rice, Tata salt, Sugar, Pepper, Onion, Brinjal,,,,
+490808,Avani Sharma,45,1,54,59,10:54 AM,6,Ghee, Wheat flour, Deodrant, Hair Gel, Hair serum, Colgate toothbrush,,,,
+490809,Balu,29,1,30,47,10:52 AM,7,Butter, Ghee, Wheat flour, Tata salt, Pepper, Onion, Brinjal,,,
+490810,Bhaskar,29,0,32,48,7:30 PM,5,sausage, brown rice, apple, Banana, oil,,,,,
+490811,Chandra,24,0,28,28,7:30 PM,3,lip balm, Nivea fairness cream, Deodrant,,,,,,,
+490817,Chandu ,32,0,21,42,7:52 PM,7,chicken, garlic, Tomato, Onion, root vegetables, Tata salt, Pepper,,,
+490823,Dinesh ,36,0,28,63,7:52 PM,10,brown rice, Banana, spinach, oil, Ragi flour, tamarind, Wheat flour, Maida, Potato, Tomato
+490834,Emanuel,25,1,74,31,7:52 PM,5,sausage, hamburger meat, Deodrant, brown bread, Cadbury dairy milk chocolate36,,,,,
+490836,Faathima,27,1,30,40,7:52 PM,5,Banana, waffles, jaggery, cream cheese, beverages,,,,,
+490838,Gareema,23,0,48,96,6:50 PM,10,Venigar, sausage, beef, Nivea fairness cream, Everyuth face scrub, Deodrant, Banana, lettuce, spinach, tamarind
+490846,Gayatri,56,0,54,66,8:07 PM,9,Dried yeast, Asafoetida, Venigar, Nivea fairness cream, Everyuth face scrub, Deodrant, Banana, Lux soap, spinach,
+490847,Giri,43,1,54,88,8:29 PM,10,chicken, lip balm, Nivea fairness cream, lettuce, Lux soap, spinach, garlic, margarine, Lion dates, Glue
+490851,harshith ,31,0,26,57,7:01 PM,10,Brinjal, Onion, Eggs, Paneer, berries, desert, Glue, root vegetables, Tata salt, Pepper
+490855,Hemavani ,22,0,25,56,10:12 AM,10,Maida, Baking powder, Potato, Tomato, Brinjal, Onion, Eggs, Paneer, berries, desert
+490863,Hymavathi,38,0,59,67,6:56 PM,10,rawa, Wheat flour, cream cheese, soft cheese, semi-finished bread, cake bar, beverages, Lion dates, speciality bar, Maida
+490866,Jaya Lakshmi,33,0,25,49,6:45 PM,7,Asafoetida, Nivea fairness cream, Toor dal, Urad dal, tamarind, rawa, Tomato,,,
+490871,Kapila,36,0,23,72,10:45 AM,10,apple, Banana, lettuce, spinach, oil, Toor dal, Urad dal, kit kat, ID Idli Dosa batter, Pepper
+490881,Karthi,60,0,51,60,12:02 AM,7,Asafoetida, chicken, pet care, Milk, ID Idli Dosa batter, Baking powder, desert,,,
+490893,Kaustub ,45,1,57,51,4:07 PM,9,pastry, waffles, jaggery, rawa, margarine, candy, spread cheese, desert, root vegetables,
+490899,Laila,47,1,58,60,8:40 PM,9,soya sauce, hamburger meat, chicken, oil, tamarind, soft cheese, semi-finished bread, beverages, Cadbury dairy milk chocolate36,
+490905,Lavanya Priya,33,1,33,57,7:09 PM,9,Nivea fairness cream, Deodrant, cream cheese, soft cheese, semi-finished bread, margarine, beverages, speciality bar, Tata salt,
+490917,laya ,28,0,36,64,10:52 AM,10,soya sauce, sausage, hamburger meat, lip balm, Everyuth face scrub, tamarind, speciality bar, kit kat, Baking powder, Paneer
+490920,Mahendra,53,0,84,67,9:32 AM,10,apple, Banana, soft cheese, garlic, brown bread, Potato, Tomato, Brinjal, Onion, root vegetables
+490921,Manisha,31,0,12,84,5:51 PM,10,Potato, Tomato, Brinjal, Onion, Eggs, Paneer, berries, desert, Glue, root vegetables
+490922,Manohar,35,0,44,75,8:57 AM,10,soya sauce, chicken, brown rice, lettuce, spinach, jaggery, brown bread, Milk, ID Idli Dosa batter, berries
+490923,Manu,19,0,0,78,9:45,10,Nivea fairness cream, lettuce, Lux soap, spinach, oil, soft cheese, cake bar, Milk, Butter, Maida
+490924,Meena,27,0,23,81,7:16 PM,10,soya sauce, Venigar, chicken, Nivea fairness cream, Everyuth face scrub, Lux soap, spinach, oil, pastry, waffles
+490925,Mohini,45,1,65,87,8:59 AM,10,Venigar, spinach, Ragi flour, Toor dal, Urad dal, rawa, cake bar, Lion dates, Butter, Potato
+490926,Monika,42,0,62,91,11:00 AM,10,lettuce, Ragi flour, Toor dal, Urad dal, tamarind, jaggery, garlic, ID Idli Dosa batter, Baking powder, Onion
+490927,Narendra,23,1,43,72,9:45 AM,9,apple, Banana, spinach, pastry, garlic, margarine, Lion dates, speciality bar, Maida,
+490928,Saira,27,1,64,69,10:26 AM,10,Dried yeast, Asafoetida, soya sauce, Venigar, garlic, speciality bar, pet care, ID Idli Dosa batter, Baking powder, berries
+490929,Naresh,40,1,37,66,8:51 PM,10,lip balm, Nivea fairness cream, Everyuth face scrub, Deodrant, pastry, waffles, margarine, beverages, candy, desert
+490930,Naveen,29,0,46,59,11:29 AM,10,Everyuth face scrub, spinach, pastry, waffles, jaggery, rawa, kit kat, candy, Cadbury dairy milk chocolate36, berries
+490931,Parvathi,50,0,71,75,5:50 PM,9,soya sauce, Venigar, chicken, Lux soap, soft cheese, semi-finished bread, cake bar, garlic, kit kat,
+490932,Nikitha ,30,0,75,67,4:48 PM,9,Dried yeast, Asafoetida, soya sauce, Venigar, sausage, chicken, garlic, beverages, candy,
+490933,Pavan,40,1,55,64,1:23 PM,9,brown rice, spinach, Ragi flour, Toor dal, Urad dal, tamarind, jaggery, Lion dates, candy,
+490934,Prabhav,15,1,0,25,11:05 AM,4,pastry, waffles, speciality bar, Cadbury dairy milk chocolate36,,,,,,
+490935,Pranay ,62,1,40,62,7:49 PM,10,apple, Banana, spinach, Ragi flour, Toor dal, garlic, pet care, Milk, Butter, berries
+490936,Prema,20,1,0,87,9:05,10,Asafoetida, chicken, lip balm, Deodrant, semi-finished bread, Lion dates, kit kat, Milk, Eggs, Glue
+490937,Rajeswari,51,0,40,82,12:22 PM,10,tamarind, jaggery, rawa, Wheat flour, cake bar, garlic, spread cheese, pet care, Maida, ID Idli Dosa batter
+490938,Ramya,38,1,37,91,10:11 AM,10,cake bar, margarine, speciality bar, pet care, Milk, Butter, Maida, ID Idli Dosa batter, Potato, Brinjal
+490939,Reshmi,31,1,52,54,12:19 PM,10,Deodrant, brown rice, pastry, waffles, cream cheese, soft cheese, semi-finished bread, cake bar, margarine, beverages
+490940,Rithwika,28,1,36,66,9:24 AM,9,Maida, ID Idli Dosa batter, Baking powder, berries, desert, Glue, root vegetables, Tata salt, Pepper,
+490941,Roja,49,0,76,74,10:05 AM,10,sausage, hamburger meat, oil, pastry, waffles, tamarind, garlic, Lion dates, root vegetables, Tata salt
+490942,Sailaja,26,0,64,65,2:39 PM,10,soya sauce, Venigar, hamburger meat, chicken, spinach, oil, pastry, cake bar, speciality bar, root vegetables
+490943,Samaira,25,0,72,52,12:31 PM,10,Asafoetida, soya sauce, Venigar, sausage, beef, hamburger meat, chicken, oil, waffles, beverages
+490944,Sambhavi ,24,0,49,71,1:56 PM,10,Dried yeast, Asafoetida, soya sauce, Venigar, sausage, chicken, Nivea fairness cream, Everyuth face scrub, Deodrant, garlic
+490945,Shilpa,33,1,56,72,9:29 PM,10,cream cheese, soft cheese, semi-finished bread, cake bar, margarine, beverages, Lion dates, speciality bar, kit kat, desert
+490946,Siddesh,49,1,90,72,12:07 PM,10,Venigar, sausage, pastry, waffles, candy, brown bread, Cadbury dairy milk chocolate36, pet care, desert, root vegetables
+490947,Sita ram,51,1,90,76,12:13 PM,10,ID Idli Dosa batter, Baking powder, Potato, Tomato, Brinjal, Onion, Eggs, berries, desert, root vegetables
+490948,Sowmiya,34,1,34,62,4:45 PM,10,Dried yeast, Lux soap, rawa, cream cheese, soft cheese, semi-finished bread, Lion dates, pet care, Maida, ID Idli Dosa batter
+490949,Sri kanya,40,0,59,58,7:09 PM,10,soya sauce, Venigar, lip balm, Nivea fairness cream, Everyuth face scrub, Deodrant, pastry, waffles, margarine, beverages
+490950,Srikanth,30,0,68,64,8:10 PM,10,soya sauce, Venigar, sausage, Deodrant, oil, Ragi flour, jaggery, rawa, Wheat flour, soft cheese
+490951,Srinu,41,0,54,82,8:20 PM,10,soya sauce, Venigar, sausage, chicken, lettuce, oil, cake bar, candy, brown bread, Tata salt
+490952,Srivastav,34,0,54,68,3:35 PM,10,Asafoetida, Venigar, lip balm, Nivea fairness cream, Everyuth face scrub, Deodrant, brown rice, semi-finished bread, speciality bar, brown bread
+490953,Sudheer,43,0,75,96,3:34 PM,10,brown rice, lettuce, oil, pastry, waffles, rawa, Wheat flour, semi-finished bread, Lion dates, brown bread
+490954,Sudheer Manoj,19,1,0,67,7:56 PM,10,waffles, semi-finished bread, cake bar, beverages, Lion dates, speciality bar, kit kat, candy, Cadbury dairy milk chocolate36, spread cheese
+490955,Supriya,25,0,18,40,5:11 PM,5,Milk, Bread, Fruit jam, Britannia GoodDay cashew biscuits, Britannia MarieGold biscuit,,,,,
+490956,Surya,23,1,52,36,5:18 PM,6,Deodrant, Shaving foam, Hair Gel, Hair serum, Hair Conditioner, shampoo,,,,
+490957,Swetha,23,0,52,51,5:20 PM,6,Deodrant, Shaving foam, Hair Gel, Hair Conditioner, Britannia GoodDay cashew biscuits, Britannia MarieGold biscuit,,,,
+490958,Tarun yadav,23,0,15,51,5:04 PM,8,Deodrant, Hair Gel, Hair serum, Lux soap, Hair Conditioner, shampoo, Britannia GoodDay cashew biscuits, Britannia MarieGold biscuit,,
+490959,Thabhasum,25,1,69,36,5:28 PM,5,Milk, Bread, Fruit jam, Potato, Eggs,,,,,
+490960,Varsha Bhaskar,27,1,34,54,5:19 PM,6,Bread, Fruit jam, Butter, Britannia GoodDay cashew biscuits, Britannia MarieGold biscuit, Britannia cakes,,,,
+490961,Venkat,34,1,27,42,4:18 PM,5,Bread, Butter, Cheese, Wheat flour, Paneer,,,,,
+490962,Venkateshwarlu,43,0,59,62,5:14 PM,7,Ghee, Wheat flour, Rice, Tata salt, Pepper, Onion, Brinjal,,,
+490963,Vijaya Lakshmi,20,0,0,26,5:18 PM,4,Tissue papers, Glue, Britannia GoodDay cashew biscuits, Britannia MarieGold biscuit,,,,,,
+491309,Aman,25,1,9,25,9:41 AM,4,Carrot,Yeast,Baking soda,Custard powder,,,,,,
+491118,Sushmitha,44,0,54,52,12:10 PM,6,Coconut,Onion,Tomato, Cauliflower,Cucumber,Potato,,,,
+491158,SILPA A,23,0,26,31,1:55 PM,3,Ball pen,Spiral long book,"Candbury dairy Milk 
+Chocolate 36 gas",,,,,,,
+491093,PRIYA VARSHINI N,28,1,18,29,7:00 PM,4,Brown rice,Urad dal,Green chilly,Gooseberry,,,,,,
+491132,Zareen,51,0,62,31,12:05 PM,5,Tomato,Beena,Green chill,Milk,Naga Maida,,,,,
+491171,zubin,45,1,55,52,11:36 AM,6,Coconut,Onion,Tomato,Greengram,Cucumber,Potato,,,,
+491240,mohamad,49,1,50,60,11:28AM,8,Max protein bar,Choco crunchy muesli,Pomegranate,grapes,Nivea men active clean,Nivea men active clean,Park avenue freshener,Rose water,,
+491067,PRANESH D,32,1,30,26,3:00 PM,4,Mung dal,Mango,Turmeric powder,Surf powder,,,,,,
+491128,Saraja,55,0,88,51,11:40 AM,5,Almond,Cashew nut,Resins,Payasam mix,Ghee,,,,,
+491150,SIVESH KUMAR S,39,0,56,29,11:20 AM,4,Mung dal,Mango,Colgate tooth paste,Tata salt,,,,,,
+491209,ASHWINI K,47,1,46,30,11:24 AM,4,"Himalaya purifying
+neem pack","Mysore sandal 
+soap",Egg,Noodles,,,,,,
+491374,GAINELL MARY L,64,1,76,29,6:30 PM,4,Garlic,Mango,Green chilly,Coriander leaves,,,,,,
+491065,Manju,39,0,48,45,6:00 PM,7,Lion dates,Milk,Bru coffee powder,Apple,Drumstick,Egg,Yam,,,
+491012,NAVEEN M K,25,1,11,25,11:40 AM,4,Sunflower oil, Besan flour, Atta flour,boiled rice,,,,,,
+491202,MELVYN DANNY F,28,1,66,31,10:48 AM,6,Nestle lactogen,Milk,Papad,Apple,Orange,Egg,,,,
+491320,Nathaniel,22,1,21,39,1:00PM,6,Yardley London deo for men,Gillette razor blades,Head and shoulder shampoo,Mens handkerchief,Manicure kit,Manicure kit,,,,
+491333,Kingsly,44,1,42,51,7:10 AM,6,Tomato,Beans,Green chill,Milk,Naga Maida,Dosa batter,,,,
+491104,Sivaranjani,51,0,65,71,10:00AM,8,Moong dal ,peas,ghee,cheese,onion,onion,tomato,,Aachi sambar powder,
+490996,NITHISHKUMAR P,54,0,62,26,12:35 PM,4,Dosa batter,Mango,Colgate tooth paste,Tata salt,,,,,,
+491185,Nithyashree,26,0,25,41,11;25am,7,Watermelon,Mango,carrot,Sweet potato,cheese,cheese,Pumkinseeds,,,
+490988,PRARTHANA L,20,0,0,34,3:30 PM,4,Olive oil,"Mysore sandal 
+soap",Boiled rice,Jaggery,,,,,,
+491222,SRIVARSHINI S,22,1,53,54,2:30 PM,7,Thirumala Curd 1 Kg,Milk,"Britannia Marie gold
+ biscuit",Apple,Banana rasthall,Egg,,Sambar oinon,,
+490973,JONATHAN SIVA KUMAR,32,1,59,30,8:35 AM,4, Raw rice,Sunflower oil,Chow chow,Chocolate shake,,,,,,
+491062,THAYANIDHI V,32,1,56,49,8:50 AM,5,Mung dal,Mango,Vanilla essence,Baking powder,Butter,,,,,
+491184,SRINITHI K,32,1,51,36,12:35 PM,5,Mung dal,Mango,Colgate tooth paste,Tata salt,,,,Ginger,,
+490970,JENCY K,40,1,64,25,8:10 AM,4,Butter,Mango,Colgate tooth paste,Tata salt,,,,,,
+491037,John,31,1,42,40,8:35 AM,5,Milk,Pencil box, Water bottle,Pulpy orange fruit juice,,Bril ink,,,,
+491015,Kingsly,44,1,71,64,9:00PM,7,Tomato,Beans,Green chilly,Milk,Naga maida,Naga maida,,Banana,,
+491117,CYNTHIA KIRUPAKARAN,23,1,10,13,12:40 PM,2,Corn flour,"Mysore sandal 
+soap",,,,,,,,
+491052,Nathaniel,22,1,25,47,12:45 PM,7,Onion,Brinjal,Milk,Nendran banana,Turmeric powder,Lux Soap,Ariel detergent,,,
+491286,JESU VIMAL AUSTIN R,48,0,82,44,8:20 AM,7,Onion,Brinjal,Milk,Nendran banana, Curry masal, Pineapple,Atta,,,
+491021,Kanimozhi,32,0,51,55,10:48 AM,7,Dosa batter,Milk,"Britannia Marie gold
+ biscuit",Apple,Banana rasthall,Egg,Curry masal powder,,,
+491191,Muthuraj,72,1,58,53,10:05 AM,8,Coffe powder,apples,cookies,Cooking cream,Marie gold biscuit,Marie gold biscuit,Musk melon,Aswan,,
+491268,SAII VARUN M R,32,0,21,51,8:20 AM,7,Onion,Brinjal,Milk,Nendran banana,White peas,Lux Soap,"Britannia Good 
+day Cashew Biscuts",,,
+491256,Sudhagar,61,0,79,28,7:10:am,4,Milk,Bread,Eggs,Butter,,,,,,
+491067,Naveen,40,1,30,56,6:45PM,6,Mustard,ghee,Pillsbury atta,Green gram,Red rice,Red rice,,,,
+491077,Ben,53,1,72,29,10:39AM,4,Quality walls frozen dessert,Cadbury 5 star,Bread,Mixed fruit jam,,,,,,
+490985,Varshini,47,0,42,65,4:11PM,7,mango,Orange,Dosa batter,Coconut,Green chilly,Green chilly,Sunflower oil,,,
+491121,Aabid Ibrahim,43,1,62,33,10:08 AM,5,Tomato,Beena,Green chill,Milk,Naga Maida,,,,,
+491208,Graham Zusi,26,0,18,53,12:10 PM,6,Coconut,Onion,Tomato,Cabbage,Cucumber,Potato,,,,
+490968,Ganga,62,0,68,54,11:04 AM,6,Tomato,Pomegranate,Green chill,Milk,Naga Maida,Boiled rice,,,,
+491190,DHIWAKAR S,25,1,21,39,3:30 PM,5,Lux soap, Chicken 65 masala,Dosa batter,Cauliflower,Cadbury dairy milk,,,,,
+491312,Uma,40,0,59,52,7:55AM,7,Datsun curd 500 gm,ID Idli  Dosa batter,Eggs,Mustard seed,Cumin seed,Cumin seed,Red banana,,,
+491398,NAVEEN KUMAR M M,32,0,56,30,11:50 AM,4,Mung dal,Mango,Papaya,Tata salt,,,,,,
+491301,PRASHANTH S,23,1,35,28,4:30 PM,5,Tomato,Beena,Green chill,Milk,Naga Maida,,,,,
+491372,Ezhil,36,0,48,20,11:32 AM,5,Tomato,Beena,Green chill,Milk,Naga Maida,,,,,
+491369,SUGANTHAN S,36,1,60,30,6:30 PM,4,Mung dal,Mango,Colgate tooth paste,Tata salt,,,,,,
+491022,Paula,25,1,41,26,5:30 PM,4,Butter beans,Paneer,Cashew nut,orange,,,,,,
+491159,Sasirekha,46,0,59,48,9:47AM,7,Oreo vanilla cream biscuit,Head and shoulder shampoo,Hair oil,Rice ,Toor dal,Toor dal,Sugar,,,
+491129,LEANA KUMARAN R,26,1,24,41,10:20 AM,6,Green grapes,Milk,"Britannia Marie gold
+ biscuit",Apple,Banana rasthall,Egg,,,,
+491130,AMIRTHAVARSHAN G,26,0,35,37,11:32 AM,5,Tomato,Beena,Green chill,Milk,Naga Maida,,,,,
+491314,NITHESWARI D,55,1,77,51,12:30 PM,6,Bread,Milk,"Britannia Marie gold
+ biscuit",Apple,Banana rasthall,Egg,,,,
+491287,Akshaya,51,0,76,45,8:00 AM,5,Fruit juice,Dates,"Candbury dairy Milk 
+Chocolate 36 gas",Honey,Coco cola,,,,,
+491185,Vishal,55,1,63,50,8:24 AM,5,Tomato,Ladies finger,Green chill,Milk,Drumstick,,,,,
+491302,AFROSE AASMI A,36,0,52,46,8:20 AM,7,Onion,Brinjal,Milk,Chocolate shake,White peas,Lux Soap,frooti,,,
+491201,Saurabh,55,1,63,42,7:20 AM,6,Coconut,Onion,Tomato,Cabbage,Cucumber,Potato,,,,
+491343,CEPHAS PRINCELY,70,0,51,42,12:10 PM,6,Coconut,Onion,Tomato,Cabbage,Cucumber,Potato,,,,
+491076,ADLIN FELICIA D,26,0,20,34,8:10 AM,4,Mung dal,Mango,Colgate tooth paste,Sugar,,,,,,
+490989,Ezhil ,36,0,47,47,11:32AM,6,Hair clip,Shampoo,Whisper choice regular,Lip balm,Lux soap,Lux soap,,,,
+491041,Bhavani,33,0,34,45,8:50 PM,5,Snake gourd,Mango,Brush,Ash gourd,Pumkin,,,,,
+491035,Pavithra,37,0,58,52,12:11PM,6,Green gram,Red rice,Urad dal,pepper,Watermelon,Watermelon,,,,
+491005,SIDHARTH C,25,1,43,40,11:08 AM,6,Coconut,Onion,Tomato,Cabbage,Cucumber,Potato,,,,
+491174,VIJAI RAJ R,35,0,24,52,6:00 PM,6,Thirumala Curd 1 Kg,Milk,"Britannia Marie gold
+ biscuit",Apple,Banana rasthall,Egg,,,,
+491093,JARICK RAYEN,65,1,70,65,7:44 AM,7,Onion,Brinjal,Milk,Radish,White peas,Lux Soap,Fig fruit,,,
+491192,subhashini,65,0,88,57,5:30 PM,7,Bajji bonda mix, Baking powder,"Candbury dairy Milk 
+Chocolate 36 gas",orange,Apple,Onion, Coriander leaves,,,
+491214,STEVE JOSHUA S,28,1,51,31,4:30 PM,6,Tomato,Beena,Green chill,Milk,Naga Maida,,,Grapes,,
+491065,Shanmugam,39,1,56,60,12:45PM,7,fevicol,Cloth clip,Scotch brite kitchen brush,Jute door mat,Incense pack,Incense pack,Banana,,,
+491385,Ganga,62,0,71,65,11:05AM,7,oats,cucumber,lettuce,Ice cream,Peanut butter,Peanut butter,bun,,,
+491258,Bhavani,33,0,38,26,7:16AM,4,Dosa batter,Carrot,beans,Boast,,,,,,
+490993,Kavin,55,1,75,44,9:09AM,7,Tata salt,Sunflower oil,Peanut,Red rice,Red chilly powder,Red chilly powder,Mustard seed,,,
+491315,SAKTHI VAIBHAV M,33,0,36,30,8:45 AM,6,Dettol,Milk,Pineapple,Apple,Banana rasthall,Egg,,,,
+490967,MITHILEASH A,29,1,21,28,10:52 AM,4,Mung dal,Mango,Sambar onion,Sugar,,,,,,
+491362,Rakesh,56,1,41,48,10:08 AM,5,Tomato,Orange,Green chill,Milk,Muskmelon,,,,,
+491170,sushmitha,44,0,49,48,12:08PM,6,apple,Banana,Biscuits,spinach,Water bottle,Water bottle,,,,
+491296,Riina,36,0,39,31,7:10 AM,5,Tomato,Beena,Green chill,Milk,Naga Maida,,,,,
+491127,NANDHINI K,26,1,35,55,11:36 AM,6,Coconut,Onion,Tomato,Cabbage,Cucumber,Potato,,,,
+491068,Rashmi,64,0,90,51,12:00 PM,7,Onion,Brinjal,Milk,Nendran banana,White peas,Lux Soap,Muskmelon,,,
+491217,Ravina,41,1,50,35,11:12 AM,3,Basmati rice,Spiral long book,"Candbury dairy Milk 
+Chocolate 36 gas",,,,,,,
+491264, Brad Davis ,28,1,61,30,11:40 AM,3,Ball pen,Spiral long book,"Candbury dairy Milk 
+Chocolate 36 gas",,,,,,,
+491308,AKSHAYA V,59,0,64,54,8:45 AM,6,Butter,Milk,"Britannia Marie gold
+ biscuit",Apple,Sunfast dark fantasy,Egg,,,,
+491171,Akash,45,1,66,66,10:55AM,7,lemon,banana,Eggs,Basmati rice,Coco cola,Coco cola,Tooth paste,,,
+491016,NAVEEN S,24,0,73,51,11:45 AM,6,Thirumala Curd 1 Kg,Milk,"Britannia Marie gold
+ biscuit",Apple,Banana rasthall,Egg,,,,
+491242,Nishant,35,1,31,19,8:14 AM,2,"Himalaya purifying
+neem pack","Mysore sandal 
+soap",,,,,,,,
+491140,MUGHUNTHAN M K,35,0,24,32,11:12 AM,3,Mushroom,Bitter gourd,Ground nut oil,,,,,,,
+491123,PREETHI S,15,1,0,52,5:00 PM,6,Coconut,Onion,Tomato,Cabbage,Cucumber,Potato,,,,
+490970,ADITYA A,21,1,22,26,7:50 AM,5,Tomato,Beena,Green chill,Milk,Naga Maida,,,,,
+491289,GOPIKA R,35,1,33,48,7:30 PM,7,Onion,Brinjal,Milk,Potato,Guava,Lux Soap,Papaya,,,
+491194,chandra,39,0,33,65,11:51AM,7,Curd,Fruit juice ,Lux soap ,Shampoo,Biscuits,Biscuits,Body lotion,,,
+491071,vidhya,46,0,87,44,10:50AM,7,Onion,Lettuce,garlic,ginger,cashewnut,cashewnut,yogurt,,,
+491119,KISHORE G S,36,1,63,55,9:47 AM,7,Onion,Brinjal,Milk,Nendran banana,White peas,Lux Soap,Shaving cream,,,
+491033,Shalini,41,0,41,53,8:27AM,6,Whisper choice regular,Women horlicks,Apple,Lion dates,Bread,Bread,,,,
+491266,NAVEENA M,49,1,90,55,12:00 PM,7,Onion,Brinjal,Milk,Nendran banana,White peas,Lux Soap,"Britannia Good 
+day Cashew Biscuts",,,
+491161,Rashmi,64,0,87,33,11:59AM,3,Bun ,eggs,Milk,,,,,,,
+491179,sita,37,0,34,49,7:50 AM,6,Cucumber,Carrot,Green chill,Milk,Naga Maida,Curd,,,,
+491325,Kukreja,36,1,53,21,11:04 AM,5,Tomato,Drumstick,Green chill,Milk,Naga Maida,,,,,
+490980,Guna,18,1,0,28,9:13 AM,5,Match box,Curd ,"Candbury dairy Milk 
+Chocolate 36 gas",Mustard,Roasted channa dal,,,,,
+491096,PERUMAL K,21,1,15,29,1:00 PM,5,Tomato,Beena,Green chill,Milk,Naga Maida,,,,,
+491105,NIXON EMMANUEL J,26,1,33,47,12:45 PM,7,Onion,Brinjal,Milk,Nendran banana,White peas,Lux Soap,"Britannia Good 
+day Cashew Biscuts",,,
+491128,Sita,37,0,62,23,7:50 AM,2,Nescafe sunrise 50 gm pouch,Milk,,,,,,,,
+491335,FLORANCE RITHI F,39,0,69,39,6:00 PM,6,Drumstick,Milk,Beans,Apple,Banana rasthall,Egg,,,,
+490975,RICHARD ANDREW V,65,0,53,44,7:20 AM,6,Coconut,Onion,Tomato,Cabbage,Cucumber,Potato,,,,
+491096,Kanimozhi,32,0,47,42,10:44AM,7,pineapple,guava,Orange,paneer,Urad dal,Urad dal,Fennel seeds,,,
+491216,DHARUN J,26,0,20,46,10:56 AM,5,"Himalaya purifying
+neem pack","Mysore sandal 
+soap",onion,orange,Tata Salt,,,,,
+491154,Fatima,42,0,82,54,11:01AM,7,Toor dal,Naga rawa,Daawat super basmati rice,ghee,Biscuits,Biscuits,Green chilly,,,
+491332,AKASH IMMANUEL SOLOMON A,52,1,44,43,8:27 AM,6,Coconut,Onion,Tomato,Cabbage,Cucumber,Potato,,,,
+491346,Gopal,35,1,22,67,7:00 AM,7,Onion,Gulab jamoon mix,Milk,Tomato,Coriander leaves,Cadbury perk,Cadbury 5 star,,,
+491308,DHONIYA S,32,1,33,49,4:00 PM,7,Onion,Brinjal,Milk,Nendran banana,White peas,Lux Soap,"Britannia Good 
+day Cashew Biscuts",,,
+491289,HARIHSH RAMM S A,65,1,55,29,9:00 PM,4,Ash gourd,Carrot,Boiled rice,Chocolate shake,,,,,,
+491386,TRISHALA PANDI S,32,1,59,31,10:08 AM,5,Tomato,Potato chips,Green chill,Milk,Naga Maida,,,,,
+491008,Keerthana ,51,0,72,60,10:28 AM,6, Door mat,"Mysore sandal 
+soap",Shampoo,orange,Green peas,Sunflower oil,,,,
+490998,Azrin,42,1,43,67,11:20AM,7,Dried beans,Oatmeal,lentils,cabbage,spinach,spinach,Chia seeds,,,
+491076,SIVANESSH K K,32,1,27,55,11:16 AM,6,Thirumala Curd 1 Kg,Milk,"Britannia Marie gold
+ biscuit",Apple,Banana rasthall,Egg,,,,
+491030,ASHWIN M,45,1,69,48,11:16 AM,6,Pillsbury atta,Milk,"Britannia Marie gold
+ biscuit",Apple,Banana rasthall,Egg,,,,
+491362, Fabian Johnson,28,1,34,46,10:32 AM,7,Onion,Brinjal,Milk,Nendran banana,White peas,Lux Soap,"Britannia Good 
+day Cashew Biscuts",,,
+491201,Manju,39,0,66,52,5:20PM,7,Watermelon,Garam masal powder,onion,Tomato,Dosa batter,Dosa batter,Milk,,,
+491121,Kamaiesh,39,0,49,32,9:41 AM,6,Apple,"Mysore sandal 
+soap",Tamarind,Urad dal,Idli rice,Sunflower oil,,,,
+490995,ADITYA S NAIR,52,0,69,32,8:00 AM,3,Ghee, Jaggery,"Candbury dairy Milk 
+Chocolate 36 gas",,,,,,,
+491047,Timo,56,1,89,46,8:45 PM,6,Jeera samba rice,Milk,"Britannia Marie gold
+ biscuit",Apple,Banana rasthall,Egg,,,,
+491392,Pooja,35,0,60,42,4:30 PM,5,Tomato,Beena,Green chill,Milk,Naga Maida,,,,,
+490984,saraja,55,0,78,47,11:40AM,6,onion,tomato,Spinach,Mango,Apple,Apple,,,,
+491325,Gopal,35,1,31,43,9:00PM,7,Onion,Brinjal,Milk,Nendran banana,White peas,White peas,Lux soap,,,
+491376,bhavyasri,60,0,59,58,12:05PM,7,Pillsbury atta,Ragi flour,rawa,Onion,Tomato,Tomato,Lime,,,
+491248,ARUN KUMAR T,59,1,62,30,10:44 AM,4, Beans, Peas,"Candbury dairy Milk 
+Chocolate 36 gas",Potato,,,,,,
+491037,Niina,36,0,84,54,7:55 AM,6,Coconut,Onion,Tomato,Cabbage,Cucumber,Potato,,,,
+491140,Uma,40,0,33,42,7:55 AM,6,Coconut,Sambar powder,Tomato,Cabbage,Cucumber,Potato,,,,
+491091,Priya,41,0,74,52,4:45PM,7,Brinjal,Sweet potato,Ladies fingers,garlic,Ginger,Ginger,,Banana,,
+491298,Pavithra,37,0,49,29,12:15 PM,4,jaggery,Mango pickle, curd,Noodles,,,,,,
+491196,Mathivanan,22,1,55,27,10:40AM,4,Razor blades, Hair gel,Shaving lotion,Deodorant,,,,,,
+490997,KANISHKAR V,34,1,24,50,8:45 AM,6,Beans,Milk,"Britannia Marie gold
+ biscuit",Apple,Banana rasthall,Egg,,,,
+491193,Sowmya,47,0,72,40,6:00PM,6,Potatoes,Onion,Ginger,Basmati rice,Red banana,Red banana,,,,
+491391,HARSHITHA S,67,1,52,43,7:30 AM,6,Thirumala Curd 1 Kg,Milk,"Britannia Marie gold
+ biscuit",Apple,Banana rasthall,Egg,,,,
+491038,DHARSHA S R,20,0,0,55,1:30 PM,6,Coconut,Onion,Tomato,Cabbage,Cucumber,Potato,,,,
+491156,Nick Rimando ,39,1,59,20,7:00 PM,3,"Himalaya purifying
+neem pack","Mysore sandal 
+soap",,,,,,sambar powder,,
+491218,Bhavatharini,52,0,78,31,1212:15pm,3,Comfort after wash,Surfexel  liquid,Revive liquid stiffener,,,,,,,
+491383,Varshini,47,0,88,58,4:00 PM,7,Onion,Brinjal,Milk,Nendran banana,Green gram,Lux Soap,Cadbury 5 star,,,
+491244,SANJAY R,35,1,40,25,9:13 AM,4,Dosa batter,Gingerly oil,Match box,Tissue papper,,,,,,
+491339,AVANTIKA D,25,1,16,40,12:00 PM,7,Onion,Brinjal,Milk,Nendran banana,Tamarind,Lux Soap,Curd,,,
+491125,Deepti,43,0,48,52,8:14 AM,7,Shampoo,"Mysore sandal 
+soap",Toor dal,Tomato,Butter milk,Candle,Good night liquidator,,,
+490972,SAI KISHOR M D,31,0,51,20,8:00 AM,3,Naga sooji,Raw rice,"Candbury dairy Milk 
+Chocolate 36 gas",,,,,,,
+491396,Satu,30,1,16,51,8:15 PM,6,Coconut,Onion,Tomato,Cabbage,Cucumber,Potato,,,,
+491339,VIGNESH M,26,1,41,59,5:00 PM,7,Coconut,Onion,Tomato,Cabbage,Cucumber,Potato,,Coconut,,
+491370,Sari,63,1,70,29,7:35 AM,4,Mung dal,Mango,Ujala liquid blue,Comfort,,,,,,
+491181,USHARANI T,32,0,27,50,9:19 AM,6,frooti,Milk,"Britannia Marie gold
+ biscuit",Apple,Cauliflower,Egg,,,,
+491338,SRIMATHI P,36,1,60,23,12:15 PM,3,Ball pen,Spiral long book,"Candbury dairy Milk 
+Chocolate 36 gas",,,,,,,
+491069,ANIRUTH A L,24,0,70,34,9:30 AM,4,Mung dal,Mango,Colgate tooth paste,Tata salt,,,,,,
+491081,JANARTHANAN P,56,0,50,30,7:38 AM,3,Grapes,Broken wheat raw,Peas,,,,,,,
+491252,SAJATH MOHAMED BAIG M,34,0,48,41,8:27 AM,6,Coconut,Onion,Tomato,Cabbage,Cucumber,Potato,,,,
+491282,KARTHIK AMBANI R,38,1,67,29,8:50 AM,4,Mung dal,Mango,Colgate tooth paste,Tata salt,,,,,,
+491172,SRIMAN NARAYANAN R,24,0,53,49,12:05 PM,6,Tomato,Beena,Green chill,Milk,Naga Maida,,, Arun Vanilla ice-cream,,
+491214,Jesu Vimal Austin,49,1,60,56,10:24 AM,6,Mung dal,Mango,Grb ghee, Sugar,Mixed fruit jam,Shaving lotion,,,,
+491211,vaishanavi,44,0,80,51,11:36AM,7,curd,butter,ghee,raw rice,Toor dal,Toor dal,lime,,,
+491291,Silja,32,1,58,41,7:44 AM,7,Onion,Brinjal,Milk,Nendran banana,Puttu podi,Lux Soap,Basmati rice,,,
+491070,LAVANIYA T,56,1,50,28,10:16 AM,4,Radish,Sweet potato,Ash gourd,Cluster beans,,,,,,
+491028,Chetty  Sheba ,32,0,38,50,10:12 AM,6,Coconut,Onion,Tomato,Cabbage,Cucumber,Potato,,,,
+491194,Marjut,62,1,57,30,7:22 AM,4,Sunflower oil,Broken wheat rava,Noodles,Knorr chicken soup,,,,,,
+491149,subhicsha,48,0,87,59,8:50 AM,6,Dosa batter,Mango,Colgate tooth paste,Jaggery,Bru,Taj tea,,,,
+491294,keerthi,18,0,0,56,9:50AM,7,College note book,Ball pen,Tissue paper,shampoo,Dairy milk chocolate,Dairy milk chocolate,Long scale,,,
+491268,HARINI J,35,1,40,64,7:00 AM,7,Onion,Brinjal,Milk,Nendran banana,White peas,Lux Soap,"Britannia Good 
+day Cashew Biscuts",,,
+491220,Ankita,15,1,0,35,11:55 AM,4,Milky mist paneer,Onion,Tomato,Red chilly powder,,,,,,
+491272, Dwani,24,0,52,51,8:24AM,8,Bread,Milk ,Orange,Egg,Yogurt,Yogurt,Taj mahal tea,Orange,,
+490968,MONISHKAR S,23,1,44,41,11:08 AM,6,Coconut,Onion,Tomato,Cabbage,Cucumber,Potato,,,,
+491336,Hema,34,0,35,67,10:18AM,7,Britannia 50 -50,Cadbury cookies,Pen rubber,lime,Butter,Butter,Pillsbury atta,,,
+491212,Lakshmi,30,0,47,46,7:30AM,8,Thirumala curd  1 kg,Milk,Britannia marie gold biscuit,Apple,Banana rasthali,Banana rasthali,Eggs,Tomato sauce,,
+491115,Kavin,55,1,53,51,9:09 AM,6,Coconut,Onion,Tomato,Cabbage,Cucumber,Potato,,,,
+491321,SRIVATSAN S,69,1,41,22,3:30 PM,2,"Himalaya purifying
+neem pack","Mysore sandal 
+soap",,,,,,,,
+491253,SANJAY VISHNU M,35,0,50,26,9:30 AM,4,Mung dal,Mango,Colgate tooth paste,Tata salt,,,,,,
+491052,Gayathri,70,0,74,31,1:00 PM,5,Tomato,Beena,Green chill,Milk,Naga Maida,,,,,
+491016,SUSHMA S,40,1,45,46,7:30 PM,7,Onion,Brinjal,Milk,Nendran banana,White peas,Lux Soap,"Britannia Good 
+day Cashew Biscuts",,,
+491026,Sonal ,32,0,34,33,7:22 AM,3,Ball pen,Spiral long book,"Candbury dairy Milk 
+Chocolate 36 gas",,,,,,,
+491207,Sasirekha,46,0,51,67,9:47 AM,7,Onion,Brinjal,Milk,Red banana,White peas,Lux Soap,"Britannia Good 
+day Cashew Biscuts",,,
+491384,AVANIYA SEIREENA S,35,1,39,27,11:50 AM,4,Urad dal,Mango,Red label tea,Idli rice,,,,,,
+491177,Meera,45,0,41,47,7:35AM,5,Mung dal,Mango,Colgate tooth paste,Tata salt,,,,honey,,
+491369,GIFTSON P,18,1,0,18,7:00 PM,2,Beetroot,Raw banana,,,,,,,,
+491323,bhairavi,65,0,81,52,8:10 AM,6,Mung dal,Mango,Colgate tooth paste,Noodles,Dosa batter,Mustard,,,,
+491127,ABINAYA V,30,0,59,42,7:30 AM,6,Thirumala Curd 1 Kg,Milk,"Britannia Marie gold
+ biscuit",Apple,Banana rasthall,Egg,,,,
+491224,UGHAN R,34,0,20,27,8:35 AM,3,Sweet potato,Papaya,Domex,,,,,,,
+491157,Rahul,45,1,80,30,8:50 AM,4,Mung dal,Mango,Carrot,Tata salt,,,,,,
+491312,Divya,29,0,35,40,12:35 PM,5,Mung dal,Mango,milk,Pillsbury atta,Sunflower oil,,,,,
+491201,Dineshkumar,70,1,50,65,9:00 AM,7,Onion,Brinjal,Milk,Pineapple,Chana dal,Sunflower oil,Chilly powder,,,
+491373,KARTHIKHAA SHREE K T,25,0,62,49,9:00 AM,7,Onion,Brinjal,Milk,Cauliflower,Spinach,Lux Soap, Dragen fruit,,,
+491330,Lakshmi,30,0,37,53,7:30 AM,6,Thirumala Curd 1 Kg,Milk,"Britannia Marie gold
+ biscuit",Apple,Banana rasthall,Egg,,,,
+491041,MONIKHA S,20,1,0,26,11:04 AM,5,Tomato,Broccoli,Green chill,Milk,Naga Maida,,,,,
+490983,Ka1sh,39,1,49,64,9:41AM,7,Mango drink,Chelate shake,Maggi noodles,Vim dishwasher liquid,Close tooth paste,Close tooth paste,Butter,,,
+491391,SAIGANESH T,35,0,36,28,8:10 AM,4,Mung dal,Mango,Sunflower oil,Urad dal,,,,,,
+491178,ARUN PRASATH P,57,1,57,27,10:52 AM,4,Mung dal,Mango,Brush,Milky bar chocolate,,,,,,
+491224,ANTONY REX ANGELEO A B,59,1,54,50,10:36 AM,5,Tomato,Beena,Green chill,Milk,Naga Maida,,,,,
+491088,SANJAY NISHAAL A,36,1,30,67,9:47 AM,7,Onion,Brinjal,Milk,Red chilly powder,Cardamon,Lux Soap,Carrot,,,
+490981,JOHN SAMUEL W,36,1,30,44,8:24 AM,5,Tomato,Beena,Green chill,Milk,Naga Maida,,,,,
+491192,Nathan,23,1,21,33,10:10AM,3,lays,Fruit juice ,Cookies,,,,,,,
+491099,MOHANESHWARI M,21,1,31,49,11:00 AM,7,Onion,Brinjal,Milk,Nendran banana,Chana dal,Lux Soap,Ash gourd,,,
+491343, Geoff Cameron,32,1,36,30,8:50 PM,4,Mung dal,Mango,Colgate tooth paste,Tata salt,,,,,,
+491037,Azrin,42,1,56,28,11:20 AM,4,Mung dal,Mango,Colgate tooth paste,Tata salt,,,,,,
+491283,ARYAN D,40,1,51,58,11:08 AM,6,Coconut,Onion,Tomato,Cabbage,Cucumber,Potato,,,,
+491041,Srinithi,36,0,66,59,11:00 AM,7,Onion,Brinjal,Milk,Nendran banana,White peas,Lux Soap,Dosa batter,,,
+491219,Tarun,48,0,60,54,11:28 AM,7,Onion,Brinjal,Milk,Mango,Chana dal,Lux Soap, Comfort after wash,,,
+491164,John,31,1,25,41,8:35AM,6,Ball pen ,Cherry shoe polish,Fruit juice,Chips,Eggs,Eggs,,,,
+491017,HANNAH JENNIFER C,40,1,66,50,8:15 PM,6,Coconut,Onion,Tomato,Cabbage,Cucumber,Potato,,,,
+491127,Vignesh,70,1,51,54,8:15 PM,6,Coconut,Onion,Tomato,Cabbage,Cucumber,Potato,,,,
+490987,ATHITHIAN S,23,1,10,31,11:40 AM,4,Yam, Raw banana,"Candbury dairy Milk 
+Chocolate 36 gas",Turmeric powder,,,,,,
+490997,LETI BHARATH KALYAN,35,0,45,13,11:24 AM,2,"Himalaya purifying
+neem pack","Mysore sandal 
+soap",,,,,,,,
+490987,JAI UDHAYA S,70,0,48,27,7:35 AM,4,Mung dal,Mango,Colgate tooth paste,Tata salt,,,,,,
+491045,PRANAV RAJ H,19,1,0,37,2:30 PM,6,Snake gourd,Milk,"Britannia Marie gold
+ biscuit",Apple,Banana rasthall,Egg,,,,
+491117,Prasad,40,1,32,54,11:45AM,6,Nivea men deodorant,Noodles,Eggs,Onion,Green chilly,Green chilly,,,,
+491257,Srinithi,36,0,23,62,11:00AM,7,Dried yeast,Sugar,cinnamon,jam,pickles,pickles,Condensed milk,,,
+491039,Karan,43,1,41,29,11:20 AM,4,Mung dal,Mango,Orange,Apple,,,,,,
+490986,Meera,45,0,53,45,7:35 AM,6,Mung dal,Mango,Sugar,Tata salt,Roasted channa dal,Britannia cake,,,,
+491075,Sujitha,32,0,26,29,8:30 PM,4,Ladies finger,Pomegranate,Bottle gourd,Beetroot,,,,,,
+491073,Nithyashree,26,0,17,50,11:24 AM,5,Carrot,"Mysore sandal 
+soap",Beans,Sambar powder,Coriander leaves,,,,,
+490967,Dwani,24,0,37,34,8:24 AM,6,Tomato,Chilly sause,Green chill,Milk,Ghee,Chocolate powder,,,,
+491164,ARVIND SURYA S,35,0,47,49,11:00 AM,7,Onion,Brinjal,Milk,Nendran banana, Carrot,Lux Soap,Cheese,,,
+491029,MAHESH R,21,0,20,60,12:00 PM,7,Onion,Brinjal,Milk,Nendran banana,White peas,Lux Soap,"Britannia Good 
+day Cashew Biscuts",,,
+491138,JEFFIN SAM P,43,1,75,26,8:00 AM,4,ladies finger,Garlic, Ginger,Ghee,,,,,,
+491161,  Jozy Altidor,34,1,42,52,9:00 AM,7,Onion,Brinjal,Milk,Nendran banana,White peas,Foxtail millet,Radish,,,
+491286,Keerthana,54,0,81,54,8:03AM,7,Snake gourd,Cucumber,Tomato,Max protein bar,harpic,harpic,detol,,,
+491001,HARINI K,45,1,61,40,7:10 AM,5,Tomato,Gooseberry,Green chill,Milk,Naga Maida,,,,,
+491356,Chena,53,0,83,59,10:30AM,7,Potatoes,Onion,sugar,Cumin seed,pepper,pepper,Dates,,,
+491022,ruthra,64,0,66,49,8:56 AM,6,Bread,Vicks,Clove,Pepper,Atta,Ragi flour,,,,
+491288,aadhavan,35,1,55,29,6:15PM,4,Biscuit,bread,milk,Egg,,,,,,
+491354,Ketaki,30,1,34,53,11:45 AM,6,Snake gourd,Milk,"Britannia Marie gold
+ biscuit",Apple,Banana rasthall,Egg,,,,
+490968,Giran,38,1,67,50,9:30AM,6,Butter,Fruit jam,Banana,Bread,Milk,Milk,,,,
+491380,SARUMATHY P,35,0,47,49,10:12 AM,6,Coconut,Onion,Tomato,Cabbage,Cucumber,Potato,,,,
+491151,KEERTHANA S,25,1,40,36,9:19 AM,6,Bottle gourd,Milk,Watermelon,Apple,Banana rasthall,Egg,,,,
+491279,RAGHAVAN M,26,1,72,23,8:30 PM,4,Surf powder,Red banana,Grb ghee,Ceralac,,,,,,
+491156,Mohini,53,1,63,46,10:16 AM,5, Geometry box,Spiral long book,"Candbury dairy Milk 
+Chocolate 36 gas",Milk,Bread,,,,,
+490999,Harni,54,0,81,51,10:05AM,6,Whisper choice regular,Toothbrush,Nycil body powder,Paneer,Onion,Onion,,,,
+491358,SREERAM A M,27,1,58,45,11:45 AM,6,Thirumala Curd 1 Kg,Milk,"Britannia Marie gold
+ biscuit",Apple,Banana rasthall,Egg,,,,
+491356,Priya,41,0,89,55,5:00 PM,6,Coconut,Onion,Tomato,Cabbage,Cucumber,Potato,,,,
+491387,SHAGUL HAMEED A,36,0,55,51,10:20 AM,6,Custard powder,Milk,Coffe ,Apple,Banana rasthall,Egg,,,,
+491348,Prarthana,52,0,86,62,10:40 AM,7,Coconut,Onion,Tomato,Cabbage,Cucumber,Potato,Coriander leaves,,,
+491395,LAKSHNA SHREE R,45,0,41,54,10:12 AM,6,Coconut,Onion,Tomato,Sweet corn,Cucumber,Potato,,,,
+491221,PRABAKARAN K,56,1,75,48,1:30 PM,6,Coconut,Onion,Tomato,Cabbage,Cucumber,Potato,,,,
+491284,MAHALAKSHMI A K,21,1,24,52,10:32 AM,7,Onion,Brinjal,Milk,Id parota,Noodles,Manna health mix,"Britannia Good 
+day Cashew Biscuts",,,
+491163,Deepak,33,1,25,54,8:45AM,8,Cheese,Buns,Soda,Mushroom,Onion,Onion,Milk,Banana,,
+491200,Deepti,43,0,66,50,8:14AM,8,potat,Carrot,Garlic,Sugar,Baking powder,Baking powder,Chilli powder,Shower gel,,
+491050,Dineshkumar,70,1,62,26,:9:00 am,4,Black pen ,Lunch box,Brush,Ink pot,,,,,,
+491332,Sarika,55,0,80,72,7:44 AM,8,Milk,tomato,Coconut,Carrot  ,Beetroot,Beetroot,Onion,chips,,
+491248,Prasad,40,1,40,57,11:45 AM,7,Sugar,Milk,"Britannia Marie gold
+ biscuit",Apple,Banana rasthall,Egg,Milkmaid,,,
+491329,Kaisa,36,0,62,27,8:14 AM,4,Coriander,"Mysore sandal 
+soap",Red chilly,Green gram,,,,,,
+491041,Senthil,62,1,63,57,9:55AM,6,Yardley London deo for men,Park Avenue perfume,Shampoo,Mango,Apple,Apple,,,,
+491267,Sonal ,54,1,58,52,10:32 AM,7,Onion,Brinjal,Milk,Nendran banana,White peas,Lux Soap,"Britannia Good 
+day Cashew Biscuts",,,
+491226,Saanvi,20,0,0,50,7:38 AM,7,"Himalaya purifying
+neem pack",Atta,maida,Potato chips,onion,Coriander powder,Chilly powder,,,
+490975,ANANDHA PONNI P,28,1,29,22,9:13 AM,3,Ball pen,Spiral long book,"Candbury dairy Milk 
+Chocolate 36 gas",,,,,,,
+491163,anusha,43,0,74,43,10:20AM,7,Good night liquidator,Garbage bag,Besan flour,Chana dal,Ragi flour,Ragi flour,Green gram,,,
+491129,NANDHINI A,32,1,41,30,11:32 AM,5,Tomato,Ghee,Green chill,Milk,Naga Maida,,,,,
+491092,SWETHA R,42,0,83,31,9:00 PM,5,"Himalaya purifying
+neem pack","Mysore sandal 
+soap",onion,orange,Tata Salt,,,,,
+491068,Akshaya,51,0,57,60,8:00AM,6,Gum bottle,Note books,Paper clip,Cellotape,A/4 Size Xerox paper,A/4 Size Xerox paper,,,,
+491147,VIJAY ADITHYA S,20,1,0,34,3:00 PM,4,Mung dal,Mango,Colgate tooth paste,Tata salt,,,,,,
+491361,Giran,38,1,67,53,9:30 AM,6,Milk,Mango,Egg, Bread,Grapes,Cadbury perk,,,,
+491278,SAMUDRALA MUNIRITHVIK,24,1,64,30,11:24 AM,4,"Himalaya purifying
+neem pack",Pomegranate,Coriander leaves,Red banana,,,,,,
+491133,Dharini,30,0,70,29,7:00PM,4,Bru coffe,milk,Bread,Noodles,,,,,,
+491398,KATHIRVALAVAN A S,26,0,68,36,9:04 AM,5,Tomato,Basmathirice,Green chill,Milk,Naga Maida,,,,,
+491269,GOPINATH V,38,1,61,51,8:00 PM,5,Tomato,Beena,Green chill,Milk,Naga Maida,,,,,
+491298,HARINI S,53,1,68,25,7:22 AM,4,Crystal salt,Cumin seed,Domex,Detol,,,,,,
+491244,Priya,63,0,75,52,10:30AM,6,Brinjal,Coriander leaf,Tomato,Banana,Grapes,Grapes,,,,
+491078,Guna,18,1,0,45,9:13AM,7,Eggs,Curd,Dosa batter,Cabbage,Baking powder,Baking powder,Green chilly,,,
+491144,NIVETHA J,25,0,43,44,12:40 PM,5,"Himalaya purifying
+neem pack","Mysore sandal 
+soap",onion,orange,Tata Salt,,,,,
+491008,Aarti,36,0,70,57,11:50 AM,5,Watermelon,Mango,Lime,Arun chocolate ice cream,,Gift article,,,,
+491227,Deepa,21,0,15,30,7;22am,6,curd,Spinach,Onion,Coriander leaves,Coconut,Coconut,,,,
+491220,Trisla,35,0,44,27,7:35 AM,4,Mung dal,Mango,Colgate tooth paste,Tata salt,,,,,,
+491283,JAYA SURYA L,45,1,54,48,7:50 AM,5,Tomato,Groundnut oil,Green chill,Milk,Naga Maida,,,,,
+490970,Divya,29,0,15,45,12:30PM,6,Kitchen towel,Soft face tissue,Anjali gas lighter,Garbage bag,Floor broom,Floor broom,,,,
+491346,KEVIN LEMUEL THOMAS R,23,1,24,24,9:30 AM,4,Capsicum,Mango,Vermicelli,Cashew,,,,,,
+491068,DHEERAN S,28,1,31,34,2:30 PM,6,Thirumala Curd 1 Kg,Milk,"Britannia Marie gold
+ biscuit",Apple,Banana rasthall,Egg,,,,
+491329,Azarudeen,53,1,82,52,4:02PM,6,Cheese,bread,Amulya dairy whitener,Milky mist paneer,Red banana,Red banana,,,,
+491086,Mohankumar,54,1,84,40,10:48 AM,6,Thirumala Curd 1 Kg,Milk,"Britannia Marie gold
+ biscuit",Apple,Banana rasthall,Egg,,,,
+491021,ANNIS BELL G,50,1,47,44,10:20 AM,6, Raw rice,Milk, Ladies finger,Apple,Banana rasthall,Egg,,,,
+491019,NIDHISKUMAR R,54,1,52,30,12:15 PM,4,Poha,Red banana, Tamarind,Garlic,,,,,,
+491064,Bahvya,25,0,55,54,8:20 AM,7,Onion,Brinjal,Milk,Orange,Green peas,Lux Soap,Rasam powder,,,
+491334,Ruthra,64,0,61,57,8:56AM,7,Boost,Mango,Mysore sandal soap,Vim dish wash bar,Asafoetida,Asafoetida,Sunflower oil,,,
+491000,Nivegitha,48,0,90,29,1:55PM,4,Onion,tomato,Grapes,Milk biscuit,,,,,,
+491081,TAARUN M,32,0,45,42,8:24 AM,5,Tomato,Beena,Green chill,Milk,Naga Maida,,,,,
+491190,Rohan,29,1,38,42,9:09 AM,6,Coconut,Onion,Tomato,Cabbage,Cucumber,Potato,,,,
+491165,Srika,55,0,62,61,7:44 AM,7,Onion,Brinjal,Milk,Red banana,Bengal gram, Amul chelate,"Britannia Good 
+day Cashew Biscuts",,,
+491316,SANGEETH E,36,1,60,51,9:04 AM,5,Tomato,Idli rice,Green chill,Milk,Naga Maida,,,,,
+491132,Rajshree,26,0,43,35,9:19 AM,6,Thirumala Curd 1 Kg,Milk,"Britannia Marie gold
+ biscuit",Apple,Banana rasthall,Egg,,,,
+491013,SNEKAN B,25,0,12,41,11:28 AM,7,Onion,Brinjal,Milk,Nendran banana,White peas,Lux Soap,"Britannia Good 
+day Cashew Biscuts",,,
+491382,Sanna,30,1,15,43,8:02 AM,6,Thirumala Curd 1 Kg,Milk,"Britannia Marie gold
+ biscuit",Apple,Banana rasthall,Egg,,,,
+491245,MITHRA M,30,1,41,26,10:56 AM,3,Ladies finger,Drumstick,Broad beans,,,,,,,
+490966,Prasanth,57,1,63,27,11:13AM,4,Coconut oil,biscuits,Eggs,,,,,Red banana,,
+491090,Shrine,28,0,5,39,11:08 AM,6,Coconut,Onion,Tomato,Cabbage,Cucumber,Potato,,,,
+491185,Saanvi,20,0,0,27,7:38 AM,3,Himalaya purifying neem pack,Mysore sandal soap,,,,,,Salted butter,,
+491169,MAHESHWAR ANANDH M,25,1,20,45,10:36 AM,5,Tomato,Chow chow,Green chill,Milk,Naga Maida,,,,,
+491119,ASMITHA M,46,0,66,51,11:32 AM,5,Tomato,Beena,Green chill,Milk,Naga Maida,,,,,
+490974,EDINA FEBLIN P Y,36,1,56,32,5:00 PM,6,Coconut,Onion,Tomato,Egg,Cucumber,Potato,,,,
+491227,Harini,23,0,21,45,10:16 AM,6, Dates,Horlicks,"Candbury dairy Milk 
+Chocolate 36 gas",Vanilla ice cream,Butter,Ghee,,,,
+491238,JEEFER W,40,1,42,55,7:55 AM,6,Coconut,Onion,Tomato,Cabbage,Cucumber,Potato,,,,
+491118,Aashvi,19,0,0,25,7:22 AM,5,Pencil,Spiral long book,"Candbury dairy Milk 
+Chocolate 36 gas",Cauliflower,Bread,,,,,
+490992,Janani,24,0,54,54,11:16 AM,6,Green gram,Milk,"Britannia Marie gold
+ biscuit",Apple,Banana rasthall,Egg,,,,
+491094,Sneha,18,0,0,52,9:01AM,7,vineger,Tomato ketchup,Oats,Peanut butter,brinjal,brinjal,Green chilly,,,
+491329,MUKESH KUMAR M,26,1,68,35,11:20 AM,4,Mung dal,Mango,Watermelon,Ginger,,,,,,
+491370,vidhya,46,0,51,25,10:52 AM,4,Mung dal,Mango,Colgate tooth paste,Tata salt,,,,,,
+491059,AMBRISH B,23,1,58,28,8:56 AM,5, Dosa batter,"Mysore sandal 
+soap",Orea biscuit,Surf detergent,Ujala liquid blue,,,,,
+491324,RAGAVI N,29,0,47,39,8:00 PM,5,Tomato,Beena,Green chill,Milk,Naga Maida,,,,,
+491127,varshni,32,0,33,54,7:35AM,6,Banana,Coconut,Puttu mauve,Biscuit,Milk,Milk,,,,
+491001,Mani,35,1,22,32,2:30 PM,6,garlic,Milk,ginger,Apple,Cardamon,Egg,,,,
+491150,Subhicsha,48,0,46,69,8:50AM,8,Cauliflower,Coconut, Patanjali reem body cleanser,Dabur red tooth paste,carrot,carrot,Pumkin,Domex,,
+491104,DHIVAGAR S K,56,1,78,25,3:00 PM,4,Red banana,Mango,Colgate tooth paste,Tata salt,,,,,,
+491221,MEISHREE G,12,0,0,35,10:44 AM,4,Knorr vegetable soup,Cerelac,Vermiceli,Mango pickle,,,,,,
+491386,JONATHAN NATHANIEL B,35,1,57,35,8:27 AM,6,Coconut,Onion,Tomato,Cabbage,Cucumber,Potato,,,,
+491084,Jai Udhaya,56,0,58,45,10:20 AM,6,Thirumala Curd 1 Kg,Milk,Britannia 50-50 biscuit,Apple,Gingery oil,Egg,,,,
+491077,KEERTHANA K,24,1,40,23,9:13 AM,3,Sweet potato,Spinach,Lion dates,,,,,,,
+491083,MUKESH KUMAR B,25,0,71,37,11:16 AM,6,Thirumala Curd 1 Kg,Milk,"Britannia Marie gold
+ biscuit",Apple,Banana rasthall,Egg,,,,
+491237,Saravanan,60,1,58,46,9:04AM,7,Gillette classic pre shave foam,Shaving brush,Shaving razor,Banana,Eggs,Eggs,Bread,,,
+491323,CHETTY SHEBA SAMMANASU,69,1,58,42,12:30 PM,6,Spinach,Milk,"Britannia Marie gold
+ biscuit",Apple,Atta,Egg,,,,
+491288,Bhavyasri,60,0,87,30,12:05 PM,5,Tomato,Beena,Green chill,Milk,Naga Maida,,,,,
+491248,VIJAY BALA A,45,0,66,47,8:00 PM,6,Tomato,Beena,Green chill,Milk,Naga Maida,,,Brinjal,,
+491361,Subhashini,65,0,54,63,5:00PM,7,Chicken nuggets,Quality walls ice cream,Id parota,Arun cookies ice cream,Banana rasthali,Banana rasthali,,Lotion,,
+491046,SRIVARSHAN M,35,0,22,45,1:30 PM,6,Coconut,Onion,Tomato,Cabbage,Cucumber,Potato,,,,
+491312,SHRUTHI T,25,0,57,40,11:00 AM,7,Onion,Brinjal,Milk,Nendran banana,White peas,Lux Soap,Baby powder,,,
+491374,Aashvi,19,0,0,27,7:30AM,3,Ball pen ,Spiral long book,Cadbury dairy milk chocolate36 ,,,,,,,
+491155,Kayal,44,0,55,26,3:00 PM,4,Mung dal,Mango,Banana,Tata salt,,,,,,
+491006,llakiya,27,0,62,30,1:55 PM,5,Spinach,Green chilly,Egg,Boost,Cadbury dairy milk,,,,,
+491121,Sowmya,47,0,84,47,6:30 PM,5,Toor dal,Mango,Colgate tooth paste,Puttu podi,Vim bar,,,,,
+491012,Pooja,35,0,28,54,4:22PM,8,Milk,Onion,Tomato,Raw rice,Dose batter,Dose batter,Cumin seed,Raisins,,
+491210,DEVI PRASAD KARTHIK P,25,1,58,43,12:45 PM,7,Onion,Brinjal,Milk,Nendran banana,White peas,Lux Soap,Pineapple,,,
+491334,JEROME SANJAY G,42,0,51,34,8:14 AM,3,Dosa batter,"Mysore sandal 
+soap",Chilly powder,,,,,,,
+491296,SHRINIVAS V N,15,0,0,32,10:52 AM,4,Mung dal,Mango,Colgate tooth paste,Tata salt,,,,,,
+491072,NAWIN S,44,1,62,21,12:05 PM,5,Tomato,Gingerlly oil,Green chill,Milk,Naga Maida,,,,,
+491221, Julian Green ,25,0,66,48,10:48 AM,6,Thirumala Curd 1 Kg,Milk,"Britannia Marie gold
+ biscuit",Apple,Banana rasthall,Egg,,,,
+491141,ABUL HASAN A,21,0,17,19,7:38 AM,2,"Himalaya purifying
+neem pack","Mysore sandal 
+soap",,,,,,,,
+491027,Kush,50,1,66,29,12:15 PM,3,Lysol,Ginger,"Candbury dairy Milk 
+Chocolate 36 gas",,,,,,,
+491084,Sabthika,30,0,20,27,10:44 AM,4,Turmeric,Mustard,"Candbury dairy Milk 
+Chocolate 36 gas",Quality walls ice cream,,,,,,
+491272,ENRIQUE JASPER,34,0,20,25,5:30 PM,4,Bread, Milk, Dairy milk chocolate,orange,,,,,,
+490973,AMRITHA K G,40,1,52,20,9:04 AM,5,Tomato,Beans,Green chill,Milk,Naga Maida,,,,,
+491099,TEJASVI J,39,1,46,43,9:09 AM,6,Coconut,Onion,Tomato,Cabbage,Cucumber,Potato,,,,
+491362,Sahima,32,0,34,65,10:35AM,8,Papad,Cocoa powder,horlicks,Ginger garlic paste,clove,clove,Asafoetida powder,Green chilly,,
+491147,Rekha,58,0,56,48,8:35 AM,5,Whisper choice regular,Toor dal,Urad dal ,Boiled rice,Chana dal,,,,,
+491339,Bahvya ,25,0,57,57,8:20AM,7,Pepper,Vinegar,Peas,Raw rice,Bread,Bread,Mixed Fruit jam,,,
+491104,Brad Guzan     ,32,1,33,58,4:00 PM,7,Onion,Brinjal,Milk,Nendran banana,White peas,Lux Soap,"Britannia Good 
+day Cashew Biscuts",,,
+491332,SWEDHA S,45,0,42,45,8:15 PM,7,Coconut,Onion,Tomato,Cabbage,Cucumber,Potato,,Curd,,
+491214,Sudhaga,52,0,57,48,8:45 PM,7,Sweet potato,Milk,"Britannia Marie gold
+ biscuit",Apple,Banana rasthall,Egg,Dosa batter,,,
+491054,Aarti,36,0,60,65,11:48AM,7,sooji,Idli rice,India gate basmati rice,Sunflower oil,poha,poha,Id parota,,,
+491061,Vignesh,57,1,77,35,7:30PM,3,Coconut,Dosa batter,Pickle,,,,,,,
+491272,PONNIAH G,35,1,44,38,12:30 PM,6,Thirumala Curd 1 Kg,Milk,"Britannia Marie gold
+ biscuit",Apple,Banana rasthall,Egg,,,,
+491142,Shrine,28,0,27,55,11:09AM,7,rice,Sunflower oil,Toor dal,Chilly powder,Rasam powder,Rasam powder,Garlic ,,,
+491113,PRASANNA VENKATESH R,15,0,0,40,4:00 PM,7,Onion,Brinjal,Milk,Nendran banana,Ash gourd,Lux Soap,Toor dal,,,
+491036,MANIKANDAN N,26,0,49,34,10:40 AM,6,Coconut,Onion,Tomato,Cabbage,Cucumber,Potato,,,,
+491027,Durge,58,0,42,41,7:20 AM,6,Coconut,Onion,Tomato,Cabbage,Cucumber,Potato,,,,
+491170,Akash,45,1,85,52,10:56 AM,7, Fennel seed, Shampooo, India gate basmati rice,Onion,Green chilly,Mint leaves,Garlic,,,
+491026,VIKRAMSAI M,44,1,79,20,8:30 PM,3,Ball pen,Spiral long book,"Candbury dairy Milk 
+Chocolate 36 gas",,,,,,,
+491107,PRANAV SUNDAR,34,1,23,10,12:40 PM,2,"Himalaya purifying
+neem pack","Mysore sandal 
+soap",,,,,,,,
+491126,RISHIKA J,68,1,48,44,7:30 AM,6,Thirumala Curd 1 Kg,Milk,"Britannia Marie gold
+ biscuit",Apple,Banana rasthall,Egg,,,,
+491248,Mani,35,1,53,49,3:00PM,7,milk,Orange,Britannia marie gold biscuit,spinach,Dairy milk chocolate,Dairy milk chocolate,Dates,,,
+491102,Nanda,20,1,0,28,7:10 AM,5,Tomato,Beena,Green chill,Milk,Naga Maida,,,,,
+491383,Gayathri,69,0,83,59,1:30PM,6,Moong dal ,Naga maida,Basmati rice,Sunflower oil,Orange,Orange,,,,
+491354,Sanjay,30,1,6,50,9:00 AM,7,Onion,Brinjal,Milk,Nendran banana,Green peas,Vim gel,Rubber,,,
+490966,Saravanan,60,1,43,47,9:04 AM,6,Tomato,Cluster beans,Green chill,Milk,Naga Maida,Whisper choice regular,,,,
+491276,Naveen,40,1,43,50,7:30 PM,7,Onion,Brinjal,Milk,Nendran banana,White peas,Lux Soap,"Britannia Good 
+day Cashew Biscuts",,,
+491035,Bhairavi,65,0,49,52,8:10AM,8,Onion,tomato,Butter,Milk biscuit,Milk,Milk, Bread,Eggs,,
+491331,Deepak,33,1,25,64,8:45 AM,7,Basmati rice,Milk,Coriander leaves,Apple,Banana rasthall,Egg,Ginger,,,
+491199,STEVE SAM ZENITH J,24,0,27,25,5:30 PM,4,Ball pen,Spiral long book,"Candbury dairy Milk 
+Chocolate 36 gas",orange,,,,,,
+491275,SHANTHINI S,32,0,51,29,10:44 AM,3,Pomegranate,Loin dates,Whisper choice regular,,,,,,,
+491320,RAHUL S,65,1,80,30,8:50 PM,4,Mung dal,Mango,detol,carrot,,,,,,
+490984,HARIHARAAN S,20,0,0,55,8:45 PM,6,Bitter gourd,Milk,"Britannia Marie gold
+ biscuit",Gooseberry,Banana rasthall,Egg,,,,
+491258,Nandhini,40,0,56,57,10:36 AM,6,Tomato,Beena,Green chill,Milk,Naga Maida,Ujala liquid blue,,,,
+491222,Sharma,51,0,42,30,10:56 AM,4, Pumkin, frooti,Ice cream,Butter,,,,,,
+491257,VARSHINI M S,33,1,58,10,9:41 AM,2,Mango,"Mysore sandal 
+soap",,,,,,,,
+491151,VIDHYADHARAN N M,35,0,52,21,10:16 AM,3,Sweet potato,Sugar,Tea,,,,,,,
+491197,Store,29,1,73,45,7:44 AM,7,Onion,Brinjal,Milk,Nendran banana,White peas,Lux Soap,Maaza mango drink,,,
+491012,mohamad,49,1,66,66,11:28 AM,7,Onion,Brinjal,Milk,Nendran banana,White peas,Lux Soap,"Britannia Good 
+day Cashew Biscuts",,,
+491080,ANTO MELVIN MATHEW,54,0,47,25,10:28 AM,2,"Himalaya purifying
+neem pack","Mysore sandal 
+soap",,,,,,,,
+491197, Vasan,61,1,88,50,10:14AM,7,Idli rice,maida,Vermicelli,Jaggery,Eggs,Eggs,Coriander powder,,,
+491355,Janani,24,0,47,55,11:16AM,6,Snake gourd,Moong dal,Turmeric powder,Mustard seed,Lime,Lime,,,,
+491332,DHANUSH S,40,1,32,22,1:00 PM,5,Tomato,Beena,Green chill,Milk,Naga Maida,,,,,
+490980,VIGNESH E,25,0,71,27,10:24 AM,4,Mung dal,Mango,Sambar onion,Tata salt,,,,,,
+491369,HARIHARAN S,29,0,60,34,8:50 PM,4,Mung dal,Mango,Yam,Groundnut,,,,,,
+491052,KISHOREKUMAR R,35,0,23,47,10:08 AM,5,Tomato,Butter,Green chill,Milk,Naga Maida,,,,,
+491293,SARAVANAN G,39,0,33,35,1:00 PM,5,Tomato,Beena,Green chill,Milk,Naga Maida,,,,,
+491344,Soni,50,0,53,27,10:24 AM,4,Mung dal,Mango, Cauliflower,Tata salt,,,,,,
+491008,Srigandhi ,45,0,77,54,7:50AM,6,Nescafe sunrise 50 gm pouch,Milk,Bread,Dosa batter,Orange,Orange,,,,
+491229,Shruti,25,0,6,46,8:11AM,7,Nestle milk maid,Cadbury perk,Onion,Maida,Dosa batter,Dosa batter,Milk,,,
+491114,GOWTHAM KRISHNA K,25,1,44,24,11:12 AM,3,Milo,Cerelac,"Candbury dairy Milk 
+Chocolate 36 gas",,,,,,,
+491351,SANDEEP ROSHAN T R,36,1,61,26,8:56 AM,5,Chow chow,Toor dal,onion,orange,Tata Salt,,,,,
+491378,Vilja,29,0,12,44,7:30 PM,7,Onion,Brinjal,Milk,Nendran banana,White peas,Lux Soap,"Britannia Good 
+day Cashew Biscuts",,,
+491319,PRIYA LAKSHME N,26,1,54,52,6:00 PM,6,Raisines,Milk,"Britannia Marie gold
+ biscuit",Apple,Banana rasthall,Egg,,,,
+491081,RUPESH A,60,1,53,26,7:38 AM,2,Pineapple,"Mysore sandal 
+soap",,,,,,,,
+491075,Durga,58,0,73,59,7:30AM,7,Coconut,Onion,Tomato,Cabbage,Cucumber,Cucumber,Potato,,,
+491152,VIJAY RAJASIMMAN R,32,1,57,37,10:40 AM,6,Coconut,Onion,Tomato,Cauliflower,Cucumber,Potato,,,,
+490980,SHALINE R,29,1,41,44,10:36 AM,5,Tomato,Beena,Green chill,Milk,Naga Maida,,,,,
+491285,SRINITHIN S,35,0,41,43,12:45 PM,8,Onion,Brinjal,Milk,Nendran banana,White peas,Lux Soap,"Britannia Good 
+day Cashew Biscuts",Biscuit,,
+491208,NAVEEN KUMAR N,35,1,21,17,11:55 AM,2,"Himalaya purifying
+neem pack","Mysore sandal 
+soap",,,,,,,,
+491326,Shalini,41,0,63,46,8:27 AM,7,Raw rice, Bitter gourd,Tomato,Cauliflower,Cucumber,Yam,Lime,,,
+491057,SHAHITHIYA GUHAN J V,26,0,57,9,10:28 AM,2,Radish,"Mysore sandal 
+soap",,,,,,,,
+491390,Sindhu,47,0,46,60,9:19AM,7,Domex floor cleaner,Surfexel  liquid,Vim bar,Vinegar,Coconut oil,Coconut oil,Eggs,,,
+491058,NADARAJAN R,21,1,21,46,11:28 AM,7,Onion,Brinjal,Milk,Nendran banana,Red chilly powder,Lux Soap,Pumkin,,,
+491108,RAJASREE S,36,1,32,49,7:00 AM,7,Onion,Brinjal,Milk,Nendran banana,White peas,Lux Soap,Wheat rava,,,
+491126,Dharini,30,0,28,42,8:00 PM,5,Tomato,Beena,Green chill,Milk,Naga Maida,,,,,
+491072,Sindhu,47,0,90,48,9:19 AM,6,Thirumala Curd 1 Kg,Milk,"Britannia Marie gold
+ biscuit",Apple,Banana rasthall,Egg,,,,
+491016,DHARSHAN K,27,0,53,25,1:55 PM,3,Orange,Spiral long book,"Candbury dairy Milk 
+Chocolate 36 gas",,,,,,,
+491382,Marisla,25,0,61,35,7:55 AM,6,Coconut,Onion,Tomato,Cabbage,Cucumber,Potato,,,,
+491301,Deepa,21,0,14,17,9:00 PM,2,Onion,Watermelon,,,,,,,,
+491073,Arun Singh,58,1,63,51,10:40 AM,6,Coconut,Onion,Tomato,Cabbage,Cucumber,Potato,,,,
+491385,Tuuli,58,1,62,25,9:00 PM,4,Foxtail millet,"Mysore sandal 
+soap",Dosa batter,Ragi,,,,,,
+491257,JEFFREY SAMUEL P,41,1,42,47,8:02 AM,6,Thirumala Curd 1 Kg,Milk,"Britannia Marie gold
+ biscuit",Apple,Banana rasthall,Egg,,,,
+491108,Anni,24,1,64,22,6:30 PM,4,Mung dal,Mango,Colgate tooth paste,Tata salt,,,,,,
+491247,VISHVASUNDAR SENTHILNATHAN,26,1,34,31,11:04 AM,5,Tomato,Boost,Green chill,Milk,Naga Maida,,,,,
+491090,HARI PRASAD S,50,1,53,30,8:30 PM,4,Mint leaf,Ridge gourd,Chow chow,Sweet potato,,,,,,
+491151,Aashavan,35,1,28,33,7:00 PM,3,cheese,Cup noodles,Vermicelli,,,,,,,
+491240,Monisa,18,0,0,43,8:45,7,Nutraj almond,Dates,Milk,Bread,Pepper powder,Pepper powder,Eggs,,,
+491091,Ilakiya,27,0,27,25,2:30PM,3,Lake complexion face care,Lake mascara black,Lake rose powder,,,,,,,
+491214,ABHILASH RAVI,23,1,57,41,7:00 AM,7,Onion,Brinjal,Milk,Nendran banana,Fruit juice,Lux Soap,Tea,,,
+491089,MADHUSHRI R,42,1,78,27,10:28 AM,4,Milkmade,Gulab jamun mix,Urad dal ,Ghee,,,,,,
+491333,SABTHIKA C,35,1,47,53,7:50 AM,5,Tomato,Beans,Green chill,Milk,Naga Maida,,,,,
+491012,Nivegitha,48,0,41,47,1:30 PM,6,Coconut,Onion,Tomato,Yam,Cucumber,Potato,,,,
+491205,ANLIN SHYAM A,52,1,44,50,10:12 AM,6,Coconut,Onion,Tomato,Cabbage,Cucumber,Potato,,,,
+491064,Azarudeen,53,1,53,27,3:30 PM,4,Crystal salt,"Mysore sandal 
+soap",Noodles,Bread,,,,,,
+491188,Shailya,67,1,83,27,12:35 PM,4,Mung dal,Mango,Potato chips,Rawa,,,,,,
+491073,Bhavatharini,52,0,41,47,12:30 PM,6,Papad,Milk, Asafoetida,Apple, Pista salted,Egg,,,,
+491013,SWEETLIN D,43,0,57,46,8:45 PM,7,Thirumala Curd 1 Kg,Milk,"Britannia Marie gold
+ biscuit",Apple,Banana rasthall,Egg,,Aswan,,
+491015,KIRUTHIKA G,35,1,49,27,9:41 AM,4,Muskmelon,Beetroot,Cheese,Turmeric powder,,,,,,
+491168,sujitha,32,0,59,38,8:00PM,6,Onion,Pencil,Rubber,Chocolate,Apple,Apple,,,,
+491309,Neha,38,0,56,39,8:02 AM,6,Thirumala Curd 1 Kg,Milk,"Britannia Marie gold
+ biscuit",Apple,Banana rasthall,Egg,,,,
+490975,Vaishanavi,44,0,49,42,11:36 AM,6,Coconut,Onion,Tomato,Cabbage,Cucumber,Potato,,,,
+491186,ANISH PARTHO M,23,1,9,45,9:47 AM,7,Onion,Brinjal,Milk,Hill banana,White peas,Lux Soap,fevi quick,,,
+491318,Ionian,31,1,9,58,8:30AM,7,Sugar,Asafoetida,Cumin seed,Chilly powder,Mango pick;e,Mango pick;e,Coriander powder,,,
+491235,Shanmugam,39,1,54,48,12:40 PM,6,Dried fig,"Mysore sandal 
+soap",coriander powder,carrot,beans,Whisper choice regular,,,,
+491050,MAALAN M R,32,1,43,28,10:24 AM,4,Toor dal,Mango,Cereiac,Milk,,,,,,
+491066,Alaka,33,0,59,48,8:02 AM,7,Thirumala Curd 1 Kg,Milk,"Britannia Marie gold
+ biscuit", Grapes,Banana rasthall,Egg,Turmeric,,,
+491013,Alaka,33,0,45,47,8:02AM,7,Turmeric powder:100 gm,Sugar,Steamed rice,Maida,Tamarind,Tamarind,Toor dal,,,
+491137,HARINI S (11:08:2003),45,1,88,56,7:20 AM,6,Coconut,Onion,Tomato,Cabbage,Cucumber,Potato,,,,
+491348,KEERTHANA D S,25,1,71,39,9:09 AM,6,Coconut,Onion,Tomato,Cabbage,Cucumber,Potato,,,,
+491210,Chandra,39,0,34,49,11:55 AM,6,Red chilly,Coriander seeds ,Cumin seeds,Surf excel powder,Comfort cloth freshener,,Vim bar,,,
+491325,NESAPRIYA N,56,1,81,53,12:10 PM,6,Coconut,Onion,Tomato,Cabbage,Cucumber,Potato,,,,
+491081,Roja,47,0,75,63,9:20AM,7,Boiled rice,Moong dal,Urad dal,Sunflower oil,Ghee,Ghee,Garlic,,,
+491337,KARTHIK KISHORE B,32,1,38,17,8:56 AM,2,Spinach,Carrot,,,,,,,,
+491207,VINOTH KUMAR S,23,1,66,32,11:50 AM,4,Mung dal,Mango,Colgate tooth paste,Tata salt,,,,,,
+491081,Prasanth,57,1,70,53,11:12 AM,5,Milk,Cumin seed,Sugar,Coffee powder,Amul  milk powder,,,,,
+490976,SOORYA PRAKASH D,29,1,44,32,11:36 AM,6,Coconut,Onion,Tomato,Cabbage,Cucumber,Potato,,,,
+491164,DURGA S,32,1,59,47,4:30 PM,5,Tomato,Beena,Green chill,Milk,Naga Maida,,,,,
+491216,PRAISELIN P,18,1,0,25,1:55 PM,4,Milo, Besan flour,Rose essence,Chocolate powder,,,,,,
+491065,Kayal,44,0,89,52,3:30PM,6,Dosa batter,eggs,Milk,Butter,Hutsun paneer,Hutsun paneer,,,,
+491206,Maheshwar Anandh,60,1,57,65,10:32 AM,7,Onion,Brinjal,Milk,Nendran banana,Groundnut,Lux Soap,"Britannia Good 
+day Cashew Biscuts",,,
+491358,Ravi,34,1,21,52,9:40AM,7,Pillsbury atta,Jeera samba rice,onion,Green chilly,Curd,Curd,ginger,,,
+491143,SRENIVASAN A,22,0,10,33,11:55 AM,3,"Himalaya purifying
+neem pack","Mysore sandal 
+soap",,,,,,Brinjal,,
+491337,Janet,41,0,85,60,10:25AM,6,Crystal salt,Garam masal powder,Coconut oil,Gingely oil,Red chilly powder,Red chilly powder,,,,
+490963, Madhura k,51,0,43,28,6:14 PM,4,Cauliflower,Egg,Tomato,Tata salt,,,,,,
